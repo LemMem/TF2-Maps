@@ -1727,3 +1727,809 @@ Level flags = 0
 Total triangle count: 1204
 Writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
 2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_choke/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (30429 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 51 texinfos to 29
+Reduced 9 texdatas to 8 (231 bytes to 210)
+Writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106356, actual size 106008
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.prt
+ 159 portalclusters
+ 455 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 341 visible clusters (1.57%)
+Total clusters visible: 21664
+Average clusters visible: 136
+Building PAS...
+Average clusters audible: 159
+visdatasize:7662  compressed from 7632
+writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+620 faces
+355867 square feet [51244912.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+620 patches before subdivision
+17634 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 696948, max 323
+transfer lists:   5.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(58810, 46541, 63632)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5509, 3059, 5101)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(616, 232, 516)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(87, 18, 57)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(13, 2, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2, 0, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0040 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  17/1024          816/49152    ( 1.7%) 
+brushes                 75/8192          900/98304    ( 0.9%) 
+brushsides             453/65536        3624/524288   ( 0.7%) 
+planes                 206/65536        4120/1310720  ( 0.3%) 
+vertexes               863/65536       10356/786432   ( 1.3%) 
+nodes                  425/65536       13600/2097152  ( 0.6%) 
+texinfos                29/12288        2088/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  620/65536       34720/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              322/65536       18032/3670016  ( 0.5%) 
+leaves                 443/65536       14176/2097152  ( 0.7%) 
+leaffaces              702/65536        1404/131072   ( 1.1%) 
+leafbrushes            193/65536         386/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4256/512000      17024/2048000  ( 0.8%) 
+edges                 2285/256000       9140/1024000  ( 0.9%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             98/32768         980/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1365/65536        2730/131072   ( 2.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      308472/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        7662/16777216 ( 0.0%) 
+entdata               [variable]       10901/393216   ( 2.8%) 
+LDR ambient table      443/65536        1772/262144   ( 0.7%) 
+HDR ambient table      443/65536        1772/262144   ( 0.7%) 
+LDR leaf ambient      2224/65536       62272/1835008  ( 3.4%) 
+HDR leaf ambient       443/65536       12404/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106008/0        ( 0.0%) 
+physics               [variable]       30429/4194304  ( 0.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1728
+Writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_choke/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (31722 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 32
+Reduced 9 texdatas to 8 (231 bytes to 210)
+Writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106356, actual size 106008
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.prt
+ 163 portalclusters
+ 459 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 451 visible clusters (1.99%)
+Total clusters visible: 22654
+Average clusters visible: 138
+Building PAS...
+Average clusters audible: 163
+visdatasize:8179  compressed from 7824
+writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+650 faces
+488219 square feet [70303600.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+650 patches before subdivision
+18080 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 777321, max 321
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(39779, 31294, 41208)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2875, 1960, 2793)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(268, 147, 252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(36, 12, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(6, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1, 0, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0059 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  18/1024          864/49152    ( 1.8%) 
+brushes                 78/8192          936/98304    ( 1.0%) 
+brushsides             471/65536        3768/524288   ( 0.7%) 
+planes                 216/65536        4320/1310720  ( 0.3%) 
+vertexes               905/65536       10860/786432   ( 1.4%) 
+nodes                  437/65536       13984/2097152  ( 0.7%) 
+texinfos                32/12288        2304/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  650/65536       36400/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              337/65536       18872/3670016  ( 0.5%) 
+leaves                 456/65536       14592/2097152  ( 0.7%) 
+leaffaces              735/65536        1470/131072   ( 1.1%) 
+leafbrushes            196/65536         392/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4478/512000      17912/2048000  ( 0.9%) 
+edges                 2400/256000       9600/1024000  ( 0.9%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            105/32768        1050/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1473/65536        2946/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      342280/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8179/16777216 ( 0.0%) 
+entdata               [variable]       11119/393216   ( 2.8%) 
+LDR ambient table      456/65536        1824/262144   ( 0.7%) 
+HDR ambient table      456/65536        1824/262144   ( 0.7%) 
+LDR leaf ambient      2360/65536       66080/1835008  ( 3.6%) 
+HDR leaf ambient       456/65536       12768/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106008/0        ( 0.0%) 
+physics               [variable]       31722/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1830
+Writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_choke/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32277 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 54 texinfos to 32
+Reduced 9 texdatas to 8 (231 bytes to 210)
+Writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106356, actual size 106008
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.prt
+ 163 portalclusters
+ 459 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 451 visible clusters (1.99%)
+Total clusters visible: 22654
+Average clusters visible: 138
+Building PAS...
+Average clusters audible: 163
+visdatasize:8179  compressed from 7824
+writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+656 faces
+490117 square feet [70576880.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+656 patches before subdivision
+18086 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 777945, max 321
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(39838, 31346, 41273)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2879, 1963, 2796)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(268, 147, 252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(36, 12, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(6, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1, 0, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0071 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             477/65536        3816/524288   ( 0.7%) 
+planes                 224/65536        4480/1310720  ( 0.3%) 
+vertexes               913/65536       10956/786432   ( 1.4%) 
+nodes                  443/65536       14176/2097152  ( 0.7%) 
+texinfos                32/12288        2304/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  656/65536       36736/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              343/65536       19208/3670016  ( 0.5%) 
+leaves                 463/65536       14816/2097152  ( 0.7%) 
+leaffaces              741/65536        1482/131072   ( 1.1%) 
+leafbrushes            197/65536         394/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4526/512000      18104/2048000  ( 0.9%) 
+edges                 2424/256000       9696/1024000  ( 0.9%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            105/32768        1050/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1473/65536        2946/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      342280/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8179/16777216 ( 0.0%) 
+entdata               [variable]       14318/393216   ( 3.6%) 
+LDR ambient table      463/65536        1852/262144   ( 0.7%) 
+HDR ambient table      463/65536        1852/262144   ( 0.7%) 
+LDR leaf ambient      2411/65536       67508/1835008  ( 3.7%) 
+HDR leaf ambient       463/65536       12964/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106008/0        ( 0.0%) 
+physics               [variable]       32277/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1842
+Writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_choke/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32277 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 56 texinfos to 34
+Reduced 9 texdatas to 8 (231 bytes to 210)
+Writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106356, actual size 106008
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.prt
+ 163 portalclusters
+ 459 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 451 visible clusters (1.99%)
+Total clusters visible: 22654
+Average clusters visible: 138
+Building PAS...
+Average clusters audible: 163
+visdatasize:8179  compressed from 7824
+writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+656 faces
+490117 square feet [70576880.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+656 patches before subdivision
+18086 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 777617, max 321
+transfer lists:   5.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(39847, 31351, 41274)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2880, 1964, 2798)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(268, 147, 252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(36, 12, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(6, 1, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1, 0, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0061 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 79/8192          948/98304    ( 1.0%) 
+brushsides             477/65536        3816/524288   ( 0.7%) 
+planes                 224/65536        4480/1310720  ( 0.3%) 
+vertexes               913/65536       10956/786432   ( 1.4%) 
+nodes                  443/65536       14176/2097152  ( 0.7%) 
+texinfos                34/12288        2448/884736   ( 0.3%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  656/65536       36736/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              343/65536       19208/3670016  ( 0.5%) 
+leaves                 463/65536       14816/2097152  ( 0.7%) 
+leaffaces              741/65536        1482/131072   ( 1.1%) 
+leafbrushes            197/65536         394/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4526/512000      18104/2048000  ( 0.9%) 
+edges                 2424/256000       9696/1024000  ( 0.9%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            105/32768        1050/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1473/65536        2946/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      342280/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8179/16777216 ( 0.0%) 
+entdata               [variable]       14326/393216   ( 3.6%) 
+LDR ambient table      463/65536        1852/262144   ( 0.7%) 
+HDR ambient table      463/65536        1852/262144   ( 0.7%) 
+LDR leaf ambient      2411/65536       67508/1835008  ( 3.7%) 
+HDR leaf ambient       463/65536       12964/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106008/0        ( 0.0%) 
+physics               [variable]       32277/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1842
+Writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_choke/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (33041 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 64 texinfos to 39
+Reduced 11 texdatas to 10 (278 bytes to 257)
+Writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106356, actual size 106008
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.prt
+ 178 portalclusters
+ 503 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 524 visible clusters (1.92%)
+Total clusters visible: 27340
+Average clusters visible: 153
+Building PAS...
+Average clusters audible: 178
+visdatasize:9628  compressed from 8544
+writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+683 faces
+490458 square feet [70626032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+683 patches before subdivision
+18829 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 834764, max 371
+transfer lists:   6.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(73349, 49383, 64522)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(8700, 3870, 5864)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1257, 358, 727)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(215, 36, 103)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(40, 4, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(8, 0, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0046 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 81/8192          972/98304    ( 1.0%) 
+brushsides             489/65536        3912/524288   ( 0.7%) 
+planes                 240/65536        4800/1310720  ( 0.4%) 
+vertexes               941/65536       11292/786432   ( 1.4%) 
+nodes                  464/65536       14848/2097152  ( 0.7%) 
+texinfos                39/12288        2808/884736   ( 0.3%) 
+texdata                 10/2048          320/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  683/65536       38248/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              346/65536       19376/3670016  ( 0.5%) 
+leaves                 484/65536       15488/2097152  ( 0.7%) 
+leaffaces              766/65536        1532/131072   ( 1.2%) 
+leafbrushes            207/65536         414/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4655/512000      18620/2048000  ( 0.9%) 
+edges                 2528/256000      10112/1024000  ( 1.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            102/32768        1020/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1431/65536        2862/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      344484/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9628/16777216 ( 0.1%) 
+entdata               [variable]       14670/393216   ( 3.7%) 
+LDR ambient table      484/65536        1936/262144   ( 0.7%) 
+HDR ambient table      484/65536        1936/262144   ( 0.7%) 
+LDR leaf ambient      2510/65536       70280/1835008  ( 3.8%) 
+HDR leaf ambient       484/65536       13552/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106008/0        ( 0.0%) 
+physics               [variable]       33041/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1905
+Writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_choke/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34729 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 67 texinfos to 42
+Reduced 12 texdatas to 11 (304 bytes to 283)
+Writing C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Choke\koth_choke.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 106356, actual size 106008
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+reading c:\users\owner\documents\tf2-maps\choke\koth_choke.prt
+ 189 portalclusters
+ 535 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 698 visible clusters (2.20%)
+Total clusters visible: 31699
+Average clusters visible: 167
+Building PAS...
+Average clusters audible: 189
+visdatasize:10621  compressed from 9072
+writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+719 faces
+492710 square feet [70950304.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+719 patches before subdivision
+19411 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 877453, max 369
+transfer lists:   6.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(77745, 50487, 64601)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(9981, 4109, 5923)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1605, 392, 734)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(295, 40, 104)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(59, 4, 16)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(13, 0, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0057 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                 86/8192         1032/98304    ( 1.0%) 
+brushsides             521/65536        4168/524288   ( 0.8%) 
+planes                 244/65536        4880/1310720  ( 0.4%) 
+vertexes              1001/65536       12012/786432   ( 1.5%) 
+nodes                  491/65536       15712/2097152  ( 0.7%) 
+texinfos                42/12288        3024/884736   ( 0.3%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  719/65536       40264/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              361/65536       20216/3670016  ( 0.6%) 
+leaves                 511/65536       16352/2097152  ( 0.8%) 
+leaffaces              831/65536        1662/131072   ( 1.3%) 
+leafbrushes            223/65536         446/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4903/512000      19612/2048000  ( 1.0%) 
+edges                 2670/256000      10680/1024000  ( 1.0%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            109/32768        1090/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1584/65536        3168/131072   ( 2.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      352600/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10621/16777216 ( 0.1%) 
+entdata               [variable]       14670/393216   ( 3.7%) 
+LDR ambient table      511/65536        2044/262144   ( 0.8%) 
+HDR ambient table      511/65536        2044/262144   ( 0.8%) 
+LDR leaf ambient      2641/65536       73948/1835008  ( 4.0%) 
+HDR leaf ambient       511/65536       14308/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      106008/0        ( 0.0%) 
+physics               [variable]       34729/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2025
+Writing c:\users\owner\documents\tf2-maps\choke\koth_choke.bsp
+3 seconds elapsed
