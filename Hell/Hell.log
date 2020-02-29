@@ -1,0 +1,500 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.vmf
+Patching WVT material: maps/hell/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (12269 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 12 texinfos to 7
+Reduced 4 texdatas to 3 (114 bytes to 93)
+Writing C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 459, actual size 379
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+reading c:\users\owner\documents\tf2-maps\hell\Hell.prt
+  90 portalclusters
+ 243 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 88 visible clusters (1.17%)
+Total clusters visible: 7546
+Average clusters visible: 83
+Building PAS...
+Average clusters audible: 90
+visdatasize:2884  compressed from 2880
+writing c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\hell\Hell.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+223 faces
+200376 square feet [28854272.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+223 patches before subdivision
+8621 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 153786, max 189
+transfer lists:   1.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 34/8192          408/98304    ( 0.4%) 
+brushsides             204/65536        1632/524288   ( 0.3%) 
+planes                 116/65536        2320/1310720  ( 0.2%) 
+vertexes               304/65536        3648/786432   ( 0.5%) 
+nodes                  205/65536        6560/2097152  ( 0.3%) 
+texinfos                 7/12288         504/884736   ( 0.1%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  223/65536       12488/3670016  ( 0.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              116/65536        6496/3670016  ( 0.2%) 
+leaves                 207/65536        6624/2097152  ( 0.3%) 
+leaffaces              283/65536         566/131072   ( 0.4%) 
+leafbrushes            104/65536         208/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             1468/512000       5872/2048000  ( 0.3%) 
+edges                  823/256000       3292/1024000  ( 0.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             11/32768         110/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           138/65536         276/131072   ( 0.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      100048/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        2884/16777216 ( 0.0%) 
+entdata               [variable]         403/393216   ( 0.1%) 
+LDR ambient table      207/65536         828/262144   ( 0.3%) 
+HDR ambient table      207/65536         828/262144   ( 0.3%) 
+LDR leaf ambient        90/65536        2520/1835008  ( 0.1%) 
+HDR leaf ambient       207/65536        5796/1835008  ( 0.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         379/0        ( 0.0%) 
+physics               [variable]       12269/4194304  ( 0.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 558
+Writing c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.vmf
+Patching WVT material: maps/hell/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (17969 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 15 texinfos to 8
+Reduced 5 texdatas to 4 (136 bytes to 115)
+Writing C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 459, actual size 379
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+reading c:\users\owner\documents\tf2-maps\hell\Hell.prt
+ 126 portalclusters
+ 314 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 302 visible clusters (2.10%)
+Total clusters visible: 14390
+Average clusters visible: 114
+Building PAS...
+Average clusters audible: 126
+visdatasize:5049  compressed from 4032
+writing c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\hell\Hell.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+343 faces
+209174 square feet [30121196.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+343 patches before subdivision
+10049 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 292177, max 219
+transfer lists:   2.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0032 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 51/8192          612/98304    ( 0.6%) 
+brushsides             307/65536        2456/524288   ( 0.5%) 
+planes                 132/65536        2640/1310720  ( 0.2%) 
+vertexes               438/65536        5256/786432   ( 0.7%) 
+nodes                  289/65536        9248/2097152  ( 0.4%) 
+texinfos                 8/12288         576/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  343/65536       19208/3670016  ( 0.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              172/65536        9632/3670016  ( 0.3%) 
+leaves                 291/65536        9312/2097152  ( 0.4%) 
+leaffaces              414/65536         828/131072   ( 0.6%) 
+leafbrushes            154/65536         308/131072   ( 0.2%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2225/512000       8900/2048000  ( 0.4%) 
+edges                 1260/256000       5040/1024000  ( 0.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips              9/32768          90/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           168/65536         336/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      126636/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5049/16777216 ( 0.0%) 
+entdata               [variable]         403/393216   ( 0.1%) 
+LDR ambient table      291/65536        1164/262144   ( 0.4%) 
+HDR ambient table      291/65536        1164/262144   ( 0.4%) 
+LDR leaf ambient       126/65536        3528/1835008  ( 0.2%) 
+HDR leaf ambient       291/65536        8148/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         379/0        ( 0.0%) 
+physics               [variable]       17969/4194304  ( 0.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 852
+Writing c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.vmf
+Patching WVT material: maps/hell/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23822 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 43 texinfos to 30
+Reduced 7 texdatas to 6 (177 bytes to 156)
+Writing C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 459, actual size 379
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+reading c:\users\owner\documents\tf2-maps\hell\Hell.prt
+ 127 portalclusters
+ 313 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 285 visible clusters (1.97%)
+Total clusters visible: 14440
+Average clusters visible: 113
+Building PAS...
+Average clusters audible: 127
+visdatasize:5090  compressed from 4064
+writing c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\hell\Hell.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+408 faces
+222923 square feet [32101008.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+408 patches before subdivision
+10440 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 309751, max 219
+transfer lists:   2.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0026 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 62/8192          744/98304    ( 0.8%) 
+brushsides             373/65536        2984/524288   ( 0.6%) 
+planes                 192/65536        3840/1310720  ( 0.3%) 
+vertexes               523/65536        6276/786432   ( 0.8%) 
+nodes                  354/65536       11328/2097152  ( 0.5%) 
+texinfos                30/12288        2160/884736   ( 0.2%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  408/65536       22848/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              232/65536       12992/3670016  ( 0.4%) 
+leaves                 366/65536       11712/2097152  ( 0.6%) 
+leaffaces              480/65536         960/131072   ( 0.7%) 
+leafbrushes            168/65536         336/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2729/512000      10916/2048000  ( 0.5%) 
+edges                 1511/256000       6044/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           213/65536         426/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      132548/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5090/16777216 ( 0.0%) 
+entdata               [variable]        6764/393216   ( 1.7%) 
+LDR ambient table      366/65536        1464/262144   ( 0.6%) 
+HDR ambient table      366/65536        1464/262144   ( 0.6%) 
+LDR leaf ambient       192/65536        5376/1835008  ( 0.3%) 
+HDR leaf ambient       366/65536       10248/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/512      ( 0.2%) 
+pakfile               [variable]         379/0        ( 0.0%) 
+physics               [variable]       23822/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 986
+Writing c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.vmf
+Patching WVT material: maps/hell/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (23822 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 61 texinfos to 36
+Reduced 7 texdatas to 6 (177 bytes to 156)
+Writing C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Owner\Documents\TF2-Maps\Hell\Hell.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 459, actual size 379
+0 seconds elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+reading c:\users\owner\documents\tf2-maps\hell\Hell.prt
+ 127 portalclusters
+ 313 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 285 visible clusters (1.97%)
+Total clusters visible: 14440
+Average clusters visible: 113
+Building PAS...
+Average clusters audible: 127
+visdatasize:5090  compressed from 4064
+writing c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\hell\Hell.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+408 faces
+222923 square feet [32101008.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+408 patches before subdivision
+10440 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 311096, max 219
+transfer lists:   2.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0032 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                 62/8192          744/98304    ( 0.8%) 
+brushsides             383/65536        3064/524288   ( 0.6%) 
+planes                 262/65536        5240/1310720  ( 0.4%) 
+vertexes               523/65536        6276/786432   ( 0.8%) 
+nodes                  354/65536       11328/2097152  ( 0.5%) 
+texinfos                36/12288        2592/884736   ( 0.3%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  408/65536       22848/3670016  ( 0.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              232/65536       12992/3670016  ( 0.4%) 
+leaves                 366/65536       11712/2097152  ( 0.6%) 
+leaffaces              480/65536         960/131072   ( 0.7%) 
+leafbrushes            168/65536         336/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             2729/512000      10916/2048000  ( 0.5%) 
+edges                 1511/256000       6044/1024000  ( 0.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             13/32768         130/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           213/65536         426/131072   ( 0.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      132548/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        5090/16777216 ( 0.0%) 
+entdata               [variable]        6782/393216   ( 1.7%) 
+LDR ambient table      366/65536        1464/262144   ( 0.6%) 
+HDR ambient table      366/65536        1464/262144   ( 0.6%) 
+LDR leaf ambient       192/65536        5376/1835008  ( 0.3%) 
+HDR leaf ambient       366/65536       10248/1835008  ( 0.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/512      ( 0.2%) 
+pakfile               [variable]         379/0        ( 0.0%) 
+physics               [variable]       23822/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 986
+Writing c:\users\owner\documents\tf2-maps\hell\Hell.bsp
+1 second elapsed
