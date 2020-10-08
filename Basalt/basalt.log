@@ -1336,3 +1336,263 @@ Level flags = 0
 Total triangle count: 5039
 Writing c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
 21 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading c:\users\liam\documents\tf2-maps\basalt\basalt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/basalt/nightfall/cliffwall_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liam\documents\tf2-maps\basalt\basalt.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (121924 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 193 texinfos to 123
+Reduced 17 texdatas to 15 (407 bytes to 369)
+Writing c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\basalt\basalt.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 560, actual size 480
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+reading c:\users\liam\documents\tf2-maps\basalt\basalt.prt
+ 502 portalclusters
+1348 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4382 visible clusters (1.98%)
+Total clusters visible: 221136
+Average clusters visible: 440
+Building PAS...
+Average clusters audible: 501
+visdatasize:66161  compressed from 64256
+writing c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\basalt\basalt.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+2049 faces
+766134 square feet [110323368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2049 patches before subdivision
+73081 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8891366, max 847
+transfer lists:  67.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(15080, 12453, 13494)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1534, 901, 1144)
+Build Patch/Sample Hash Table(s).....Done<0.0354 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  31/1024         1488/49152    ( 3.0%) 
+brushes                311/8192         3732/98304    ( 3.8%) 
+brushsides            2358/65536       18864/524288   ( 3.6%) 
+planes                1358/65536       27160/1310720  ( 2.1%) 
+vertexes              2992/65536       35904/786432   ( 4.6%) 
+nodes                 1115/65536       35680/2097152  ( 1.7%) 
+texinfos               123/12288        8856/884736   ( 1.0%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2049/65536      114744/3670016  ( 3.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              821/65536       45976/3670016  ( 1.3%) 
+leaves                1147/65536       36704/2097152  ( 1.8%) 
+leaffaces             2397/65536        4794/131072   ( 3.7%) 
+leafbrushes            834/65536        1668/131072   ( 1.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            12971/512000      51884/2048000  ( 2.5%) 
+edges                 7321/256000      29284/1024000  ( 2.9%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            227/32768        2270/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3285/65536        6570/131072   ( 5.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3736612/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       66161/16777216 ( 0.4%) 
+entdata               [variable]       26184/393216   ( 6.7%) 
+LDR ambient table     1147/65536        4588/262144   ( 1.8%) 
+HDR ambient table     1147/65536        4588/262144   ( 1.8%) 
+LDR leaf ambient      6102/65536      170856/1835008  ( 9.3%) 
+HDR leaf ambient      1147/65536       32116/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/900      ( 0.1%) 
+pakfile               [variable]         480/0        ( 0.0%) 
+physics               [variable]      121924/4194304  ( 2.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5565
+Writing c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+18 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading c:\users\liam\documents\tf2-maps\basalt\basalt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/basalt/nightfall/cliffwall_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liam\documents\tf2-maps\basalt\basalt.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (133076 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 191 texinfos to 123
+Reduced 17 texdatas to 15 (407 bytes to 369)
+Writing c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\basalt\basalt.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 560, actual size 480
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+reading c:\users\liam\documents\tf2-maps\basalt\basalt.prt
+ 516 portalclusters
+1387 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 4504 visible clusters (1.92%)
+Total clusters visible: 234554
+Average clusters visible: 454
+Building PAS...
+Average clusters audible: 515
+visdatasize:70204  compressed from 74304
+writing c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\basalt\basalt.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+2077 faces
+774015 square feet [111458288.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2077 patches before subdivision
+75693 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8928219, max 822
+transfer lists:  68.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(15329, 12705, 13746)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1556, 924, 1166)
+Build Patch/Sample Hash Table(s).....Done<0.0313 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  31/1024         1488/49152    ( 3.0%) 
+brushes                338/8192         4056/98304    ( 4.1%) 
+brushsides            2634/65536       21072/524288   ( 4.0%) 
+planes                1562/65536       31240/1310720  ( 2.4%) 
+vertexes              3024/65536       36288/786432   ( 4.6%) 
+nodes                 1133/65536       36256/2097152  ( 1.7%) 
+texinfos               123/12288        8856/884736   ( 1.0%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2077/65536      116312/3670016  ( 3.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              837/65536       46872/3670016  ( 1.3%) 
+leaves                1165/65536       37280/2097152  ( 1.8%) 
+leaffaces             2473/65536        4946/131072   ( 3.8%) 
+leafbrushes            929/65536        1858/131072   ( 1.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            13151/512000      52604/2048000  ( 2.6%) 
+edges                 7424/256000      29696/1024000  ( 2.9%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            234/32768        2340/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3372/65536        6744/131072   ( 5.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     3826336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       70204/16777216 ( 0.4%) 
+entdata               [variable]       26184/393216   ( 6.7%) 
+LDR ambient table     1165/65536        4660/262144   ( 1.8%) 
+HDR ambient table     1165/65536        4660/262144   ( 1.8%) 
+LDR leaf ambient      6326/65536      177128/1835008  ( 9.7%) 
+HDR leaf ambient      1165/65536       32620/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/900      ( 0.1%) 
+pakfile               [variable]         480/0        ( 0.0%) 
+physics               [variable]      133076/4194304  ( 3.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 5625
+Writing c:\users\liam\documents\tf2-maps\basalt\basalt.bsp
+19 seconds elapsed
