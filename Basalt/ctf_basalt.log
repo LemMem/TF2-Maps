@@ -2678,3 +2678,517 @@ Level flags = 0
 Total triangle count: 6430
 Writing d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
 9 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/ctf_basalt/nightfall/cliffwall_wvt_patch
+Patching WVT material: maps/ctf_basalt/koth_viaduct_event/blendgrasstocobble_viaduct001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (5024.00 1520.00 0.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2784.0 1024.0 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10337: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2592.0 1010.7 456.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10337: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2621.7 947.8 456.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10337: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3349.9 -410.5 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10340: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3364.0 -405.8 456.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10340: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-416.0 1024.0 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10297: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-224.0 1010.7 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10297: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-253.7 947.8 456.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10297: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (763856 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+.Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+.10
+Compacting texture/material tables...
+Reduced 315 texinfos to 191
+Reduced 33 texdatas to 29 (943 bytes to 834)
+Writing d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 213480, actual size 212596
+2 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+reading d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+No vis information, direct lighting only.
+2816 faces
+1202124 square feet [173105968.00 square inches]
+29 Displacements
+201103 Square Feet [28958878.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0243 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  27/1024         1296/49152    ( 2.6%) 
+brushes                332/8192         3984/98304    ( 4.1%) 
+brushsides            2572/65536       20576/524288   ( 3.9%) 
+planes                1596/65536       31920/1310720  ( 2.4%) 
+vertexes              3851/65536       46212/786432   ( 5.9%) 
+nodes                 1549/65536       49568/2097152  ( 2.4%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos               29/0            5104/0        ( 0.0%) 
+disp_verts            3389/0           67780/0        ( 0.0%) 
+disp_tris             5632/0           11264/0        ( 0.0%) 
+disp_lmsamples      411669/0          411669/0        ( 0.0%) 
+faces                 2816/65536      157696/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1015/65536       56840/3670016  ( 1.5%) 
+leaves                1577/65536       50464/2097152  ( 2.4%) 
+leaffaces             3089/65536        6178/131072   ( 4.7%) 
+leafbrushes            992/65536        1984/131072   ( 1.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            17118/512000      68472/2048000  ( 3.3%) 
+edges                 9392/256000      37568/1024000  ( 3.7%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            181/32768        1810/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2598/65536        5196/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    10584268/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       26112/393216   ( 6.6%) 
+LDR ambient table     1577/65536        6308/262144   ( 2.4%) 
+HDR ambient table     1577/65536        6308/262144   ( 2.4%) 
+LDR leaf ambient     10869/65536      304332/1835008  (16.6%) 
+HDR leaf ambient      1577/65536       44156/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/968      ( 0.1%) 
+pakfile               [variable]      212596/0        ( 0.0%) 
+physics               [variable]      763856/4194304  (18.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7331
+Writing d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+10 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/ctf_basalt/nightfall/cliffwall_wvt_patch
+Patching WVT material: maps/ctf_basalt/koth_viaduct_event/blendgrasstocobble_viaduct001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (5024.00 1520.00 0.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2784.0 1024.0 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10337: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2592.0 1010.7 456.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10337: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2621.7 947.8 456.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10337: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3349.9 -410.5 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10340: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3364.0 -405.8 456.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10340: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-416.0 1024.0 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10297: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-224.0 1010.7 456.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10297: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-253.7 947.8 456.0)
+Leaf 0 contents: CONTENTS_SOLID CONTENTS_WINDOW CONTENTS_TRANSLUCENT 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_WINDOW 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_WINDOW 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_WINDOW 
+Candidate brush IDs: Brush 10297: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_hydro_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (763856 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+.Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+Material KOTH_VIADUCT_EVENT/BLENDGRASSTOCOBBLE_VIADUCT001 uses unknown detail object type tf_forest_grass!
+.10
+Compacting texture/material tables...
+Reduced 315 texinfos to 191
+Reduced 33 texdatas to 29 (943 bytes to 834)
+Writing d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 213480, actual size 212596
+2 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+reading d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+No vis information, direct lighting only.
+2816 faces
+1202124 square feet [173105968.00 square inches]
+29 Displacements
+201103 Square Feet [28958878.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0246 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  27/1024         1296/49152    ( 2.6%) 
+brushes                332/8192         3984/98304    ( 4.1%) 
+brushsides            2572/65536       20576/524288   ( 3.9%) 
+planes                1596/65536       31920/1310720  ( 2.4%) 
+vertexes              3851/65536       46212/786432   ( 5.9%) 
+nodes                 1549/65536       49568/2097152  ( 2.4%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos               29/0            5104/0        ( 0.0%) 
+disp_verts            3389/0           67780/0        ( 0.0%) 
+disp_tris             5632/0           11264/0        ( 0.0%) 
+disp_lmsamples      411669/0          411669/0        ( 0.0%) 
+faces                 2816/65536      157696/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1015/65536       56840/3670016  ( 1.5%) 
+leaves                1577/65536       50464/2097152  ( 2.4%) 
+leaffaces             3089/65536        6178/131072   ( 4.7%) 
+leafbrushes            992/65536        1984/131072   ( 1.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            17118/512000      68472/2048000  ( 3.3%) 
+edges                 9392/256000      37568/1024000  ( 3.7%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            181/32768        1810/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2598/65536        5196/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    10584268/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       26112/393216   ( 6.6%) 
+LDR ambient table     1577/65536        6308/262144   ( 2.4%) 
+HDR ambient table     1577/65536        6308/262144   ( 2.4%) 
+LDR leaf ambient     10859/65536      304052/1835008  (16.6%) 
+HDR leaf ambient      1577/65536       44156/1835008  ( 2.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/968      ( 0.1%) 
+pakfile               [variable]      212596/0        ( 0.0%) 
+physics               [variable]      763856/4194304  (18.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7331
+Writing d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+2 minutes, 19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+No vis information, direct lighting only.
+2816 faces
+1202124 square feet [173105968.00 square inches]
+29 Displacements
+201103 Square Feet [28958878.00 Square Inches]
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0252 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  27/1024         1296/49152    ( 2.6%) 
+brushes                332/8192         3984/98304    ( 4.1%) 
+brushsides            2572/65536       20576/524288   ( 3.9%) 
+planes                1596/65536       31920/1310720  ( 2.4%) 
+vertexes              3851/65536       46212/786432   ( 5.9%) 
+nodes                 1549/65536       49568/2097152  ( 2.4%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos               29/0            5104/0        ( 0.0%) 
+disp_verts            3389/0           67780/0        ( 0.0%) 
+disp_tris             5632/0           11264/0        ( 0.0%) 
+disp_lmsamples      411669/0          411669/0        ( 0.0%) 
+faces                 2816/65536      157696/3670016  ( 4.3%) 
+hdr faces             2816/65536      157696/3670016  ( 4.3%) 
+origfaces             1015/65536       56840/3670016  ( 1.5%) 
+leaves                1577/65536       50464/2097152  ( 2.4%) 
+leaffaces             3089/65536        6178/131072   ( 4.7%) 
+leafbrushes            992/65536        1984/131072   ( 1.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            17118/512000      68472/2048000  ( 3.3%) 
+edges                 9392/256000      37568/1024000  ( 3.7%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          4/8192          352/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            181/32768        1810/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2598/65536        5196/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    10584268/0        ( 0.0%) 
+HDR lightdata         [variable]    10584268/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       26112/393216   ( 6.6%) 
+LDR ambient table     1577/65536        6308/262144   ( 2.4%) 
+HDR ambient table     1577/65536        6308/262144   ( 2.4%) 
+LDR leaf ambient     10859/65536      304052/1835008  (16.6%) 
+HDR leaf ambient     10859/65536      304052/1835008  (16.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/968      ( 0.1%) 
+pakfile               [variable]      212596/0        ( 0.0%) 
+physics               [variable]      763856/4194304  (18.2%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7331
+Writing d:\documents\mapping\tf2\tf2-maps\basalt\ctf_basalt.bsp
+2 minutes, 19 seconds elapsed
