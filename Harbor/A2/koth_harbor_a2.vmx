@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "52"
+	"mapversion" "53"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "52"
+	"mapversion" "53"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -14924,6 +14924,82 @@ world
 	}
 	solid
 	{
+		"id" "12885"
+		side
+		{
+			"id" "5210"
+			"plane" "(-1108 -4692 -152) (-1108 -4692 -160) (-1108 4556 -160)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 -1 0 -16] 0.25"
+			"vaxis" "[0 0 -1 -48] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5209"
+			"plane" "(972 4556 -152) (972 4556 -160) (972 -4692 -160)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 -1 0 -16] 0.25"
+			"vaxis" "[0 0 -1 -48] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5208"
+			"plane" "(-1108 4556 -152) (-1108 4556 -160) (972 4556 -160)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 0 1 48] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5207"
+			"plane" "(972 -4692 -152) (972 -4692 -160) (-1108 -4692 -160)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 0 1 48] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5206"
+			"plane" "(972 4556 -152) (972 -4692 -152) (-1108 -4692 -152)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 -1 0 -16] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "5205"
+			"plane" "(972 -4692 -160) (972 4556 -160) (-1108 4556 -160)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 -1 0 -16] 0.25"
+			"vaxis" "[1 0 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 158 127"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
 		"id" "1151"
 		side
 		{
@@ -22002,82 +22078,6 @@ world
 		{
 			"color" "210 227 0"
 			"groupid" "5358"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "12885"
-		side
-		{
-			"id" "5210"
-			"plane" "(-1108 -4692 -152) (-1108 -4692 -160) (-1108 4556 -160)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 -1 0 -16] 0.25"
-			"vaxis" "[0 0 -1 -48] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5209"
-			"plane" "(972 4556 -152) (972 4556 -160) (972 -4692 -160)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 -1 0 -16] 0.25"
-			"vaxis" "[0 0 -1 -48] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5208"
-			"plane" "(-1108 4556 -152) (-1108 4556 -160) (972 4556 -160)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 0 1 48] 0.25"
-			"vaxis" "[1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5207"
-			"plane" "(972 -4692 -152) (972 -4692 -160) (-1108 -4692 -160)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 0 1 48] 0.25"
-			"vaxis" "[1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5206"
-			"plane" "(972 4556 -152) (972 -4692 -152) (-1108 -4692 -152)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 -1 0 -16] 0.25"
-			"vaxis" "[1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "5205"
-			"plane" "(972 -4692 -160) (972 4556 -160) (-1108 4556 -160)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 -1 0 -16] 0.25"
-			"vaxis" "[1 0 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "8"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 158 127"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
@@ -29363,29 +29363,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
-	}
-}
-entity
-{
-	"id" "12900"
-	"classname" "tf_generic_bomb"
-	"angles" "0 0 0"
-	"damage" "50"
-	"explode_particle" "ExplosionCore_MidAir"
-	"health" "1"
-	"model" "models/props_lakeside_event/bomb_temp.mdl"
-	"modelscale" "1.0"
-	"origin" "-512 -3712 816"
-	"radius" "100"
-	"skin" "0"
-	"sound" "BaseExplosionEffect.Sound"
-	"targetname" "bomb1"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 2000]"
 	}
 }
 cameras
