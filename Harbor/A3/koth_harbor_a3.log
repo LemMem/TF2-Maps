@@ -1,0 +1,348 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_harbor_a3/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1104.00 -88.00 392.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 56 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (122793 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 135 texinfos to 73
+Reduced 21 texdatas to 19 (521 bytes to 481)
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 475, actual size 395
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+No vis information, direct lighting only.
+3743 faces
+1209843 square feet [174217424.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0472 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                338/8192         4056/98304    ( 4.1%) 
+brushsides            2077/65536       16616/524288   ( 3.2%) 
+planes                 776/65536       15520/1310720  ( 1.2%) 
+vertexes              5458/65536       65496/786432   ( 8.3%) 
+nodes                 1345/65536       43040/2097152  ( 2.1%) 
+texinfos                73/12288        5256/884736   ( 0.6%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3743/65536      209608/3670016  ( 5.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1007/65536       56392/3670016  ( 1.5%) 
+leaves                1360/65536       43520/2097152  ( 2.1%) 
+leaffaces             4305/65536        8610/131072   ( 6.6%) 
+leafbrushes            884/65536        1768/131072   ( 1.3%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            22312/512000      89248/2048000  ( 4.4%) 
+edges                12220/256000      48880/1024000  ( 4.8%) 
+LDR worldlights         17/8192         1496/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            534/32768        5340/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7623/65536       15246/131072   (11.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     5707112/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       23839/393216   ( 6.1%) 
+LDR ambient table     1360/65536        5440/262144   ( 2.1%) 
+HDR ambient table     1360/65536        5440/262144   ( 2.1%) 
+LDR leaf ambient      8180/65536      229040/1835008  (12.5%) 
+HDR leaf ambient      1360/65536       38080/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2826     ( 0.0%) 
+pakfile               [variable]         395/0        ( 0.0%) 
+physics               [variable]      122793/4194304  ( 2.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10769
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+16 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_harbor_a3/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1104.00 -88.00 392.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 56 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (124961 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 142 texinfos to 79
+Reduced 25 texdatas to 23 (600 bytes to 560)
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 475, actual size 395
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+No vis information, direct lighting only.
+3765 faces
+1209843 square feet [174217488.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0472 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                345/8192         4140/98304    ( 4.2%) 
+brushsides            2121/65536       16968/524288   ( 3.2%) 
+planes                 776/65536       15520/1310720  ( 1.2%) 
+vertexes              5493/65536       65916/786432   ( 8.4%) 
+nodes                 1370/65536       43840/2097152  ( 2.1%) 
+texinfos                79/12288        5688/884736   ( 0.6%) 
+texdata                 23/2048          736/65536    ( 1.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3765/65536      210840/3670016  ( 5.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1017/65536       56952/3670016  ( 1.6%) 
+leaves                1385/65536       44320/2097152  ( 2.1%) 
+leaffaces             4358/65536        8716/131072   ( 6.6%) 
+leafbrushes            904/65536        1808/131072   ( 1.4%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            22458/512000      89832/2048000  ( 4.4%) 
+edges                12300/256000      49200/1024000  ( 4.8%) 
+LDR worldlights         17/8192         1496/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            538/32768        5380/327680   ( 1.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7689/65536       15378/131072   (11.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6059400/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       23839/393216   ( 6.1%) 
+LDR ambient table     1385/65536        5540/262144   ( 2.1%) 
+HDR ambient table     1385/65536        5540/262144   ( 2.1%) 
+LDR leaf ambient      8306/65536      232568/1835008  (12.7%) 
+HDR leaf ambient      1385/65536       38780/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2826     ( 0.0%) 
+pakfile               [variable]         395/0        ( 0.0%) 
+physics               [variable]      124961/4194304  ( 3.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10831
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+17 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_harbor_a3/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1104.00 -88.00 392.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 56 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (122019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 164 texinfos to 102
+Reduced 31 texdatas to 30 (736 bytes to 714)
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 475, actual size 395
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+No vis information, direct lighting only.
+3700 faces
+1187272 square feet [170967168.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+17 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0431 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                337/8192         4044/98304    ( 4.1%) 
+brushsides            2067/65536       16536/524288   ( 3.2%) 
+planes                 760/65536       15200/1310720  ( 1.2%) 
+vertexes              5386/65536       64632/786432   ( 8.2%) 
+nodes                 1355/65536       43360/2097152  ( 2.1%) 
+texinfos               102/12288        7344/884736   ( 0.8%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3700/65536      207200/3670016  ( 5.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1006/65536       56336/3670016  ( 1.5%) 
+leaves                1370/65536       43840/2097152  ( 2.1%) 
+leaffaces             4221/65536        8442/131072   ( 6.4%) 
+leafbrushes            789/65536        1578/131072   ( 1.2%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            22063/512000      88252/2048000  ( 4.3%) 
+edges                12095/256000      48380/1024000  ( 4.7%) 
+LDR worldlights         17/8192         1496/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            504/32768        5040/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7263/65536       14526/131072   (11.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     7327792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       23839/393216   ( 6.1%) 
+LDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+HDR ambient table     1370/65536        5480/262144   ( 2.1%) 
+LDR leaf ambient      7989/65536      223692/1835008  (12.2%) 
+HDR leaf ambient      1370/65536       38360/1835008  ( 2.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5356     ( 0.0%) 
+pakfile               [variable]         395/0        ( 0.0%) 
+physics               [variable]      122019/4194304  ( 2.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10610
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\a3\koth_harbor_a3.bsp
+15 seconds elapsed
