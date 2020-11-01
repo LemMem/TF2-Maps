@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "91"
+	"mapversion" "95"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,13 +14,13 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "16"
+	"nGridSpacing" "8"
 	"bShow3DGrid" "0"
 }
 world
 {
 	"id" "1"
-	"mapversion" "91"
+	"mapversion" "95"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
@@ -11323,7 +11323,7 @@ world
 		side
 		{
 			"id" "8942"
-			"plane" "(-1088 3008 528) (-576 3008 528) (-576 2496 528)"
+			"plane" "(-576 2496 528) (-1088 2496 528) (-1088 3008 528)"
 			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
 			"uaxis" "[0 -1 0 -256] 0.25"
 			"vaxis" "[-1 0 0 -256] 0.25"
@@ -11334,7 +11334,7 @@ world
 		side
 		{
 			"id" "8941"
-			"plane" "(-1088 2496 384) (-576 2496 384) (-576 3008 384)"
+			"plane" "(-576 3008 384) (-1088 3008 384) (-1088 2496 384)"
 			"material" "TOOLS/TOOLSNODRAW"
 			"uaxis" "[0 -1 0 0] 0.25"
 			"vaxis" "[-1 0 0 0] 0.25"
@@ -18724,6 +18724,82 @@ world
 	}
 	solid
 	{
+		"id" "26076"
+		side
+		{
+			"id" "10117"
+			"plane" "(-1088 1088 640) (-1087 1088 640) (-1087 -1472 640)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10118"
+			"plane" "(-1088 -1472 0) (-1087 -1472 0) (-1087 1088 0)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10119"
+			"plane" "(-1088 1088 640) (-1088 -1472 640) (-1088 -1472 0)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10120"
+			"plane" "(-1087 1088 0) (-1087 -1472 0) (-1087 -1472 640)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10121"
+			"plane" "(-1087 1088 640) (-1088 1088 640) (-1088 1088 0)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10122"
+			"plane" "(-1087 -1472 0) (-1088 -1472 0) (-1088 -1472 640)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 173 126"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
 		"id" "1151"
 		side
 		{
@@ -25808,24 +25884,317 @@ world
 	}
 	solid
 	{
-		"id" "26064"
+		"id" "26788"
 		side
 		{
-			"id" "10110"
-			"plane" "(-1104 -4688 -152) (-1104 -4688 -160) (-1104 4560 -160)"
-			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[0 0 -1 -48] 0.25"
+			"id" "10129"
+			"plane" "(-1088 -2128 768) (-1087 -2128 768) (-1087 -3136 768)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 -64] 0.25"
+			"vaxis" "[0 -1 0 12] 0.25"
 			"rotation" "0"
-			"lightmapscale" "8"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
 		{
-			"id" "10109"
+			"id" "10130"
+			"plane" "(-1088 -3136 528) (-1087 -3136 528) (-1087 -2128 528)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 -64] 0.25"
+			"vaxis" "[0 -1 0 12] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10131"
+			"plane" "(-1088 -2128 768) (-1088 -3136 768) (-1088 -3136 528)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 12] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10132"
+			"plane" "(-1087 -2128 528) (-1087 -3136 528) (-1087 -3136 768)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 12] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10133"
+			"plane" "(-1087 -2128 768) (-1088 -2128 768) (-1088 -2128 528)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 -64] 0.25"
+			"vaxis" "[0 0 -1 12] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10134"
+			"plane" "(-1087 -3136 528) (-1088 -3136 528) (-1088 -3136 768)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 -64] 0.25"
+			"vaxis" "[0 0 -1 12] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 162 207"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "26882"
+		side
+		{
+			"id" "10153"
+			"plane" "(-1088 -3152 976) (-1080 -3152 976) (-1080 -3152 736)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 640] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10154"
+			"plane" "(-1088 -3136 736) (-1080 -3136 736) (-1080 -3136 976)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 640] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10155"
+			"plane" "(-1088 -3152 976) (-1088 -3152 736) (-1088 -3136 736)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[0 0 1 -640] 0.25"
+			"vaxis" "[0 1 0 768] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10156"
+			"plane" "(-1080 -3136 976) (-1080 -3136 736) (-1080 -3152 736)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[0 0 1 -640] 0.25"
+			"vaxis" "[0 1 0 768] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10157"
+			"plane" "(-1080 -3152 976) (-1088 -3152 976) (-1088 -3136 976)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 768] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10158"
+			"plane" "(-1080 -3136 736) (-1088 -3136 736) (-1088 -3152 736)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 1 0 768] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 196 253"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "26981"
+		side
+		{
+			"id" "10171"
+			"plane" "(-1088 -3152 976) (-1087 -3152 976) (-1087 -4672 976)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10172"
+			"plane" "(-1088 -4672 736) (-1087 -4672 736) (-1087 -3152 736)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10173"
+			"plane" "(-1088 -3152 976) (-1088 -4672 976) (-1088 -4672 736)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10174"
+			"plane" "(-1087 -3152 736) (-1087 -4672 736) (-1087 -4672 976)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10175"
+			"plane" "(-1087 -3152 976) (-1088 -3152 976) (-1088 -3152 736)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10176"
+			"plane" "(-1087 -4672 736) (-1088 -4672 736) (-1088 -4672 976)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 190 207"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "26989"
+		side
+		{
+			"id" "10189"
+			"plane" "(440 -4208 1216) (976 -4208 1216) (976 -4688 1216)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10190"
+			"plane" "(440 -4688 528) (976 -4688 528) (976 -4208 528)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10191"
+			"plane" "(440 -4208 1216) (440 -4688 1216) (440 -4688 528)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10192"
+			"plane" "(976 -4208 528) (976 -4688 528) (976 -4688 1216)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10193"
+			"plane" "(976 -4208 1216) (440 -4208 1216) (440 -4208 528)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10194"
+			"plane" "(976 -4688 528) (440 -4688 528) (440 -4688 1216)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 234 179"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "27019"
+		side
+		{
+			"id" "10242"
 			"plane" "(976 4560 -152) (976 4560 -160) (976 -4688 -160)"
 			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 -1 0 0] 0.25"
+			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -48] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
@@ -25833,44 +26202,55 @@ world
 		}
 		side
 		{
-			"id" "10108"
-			"plane" "(-1104 4560 -152) (-1104 4560 -160) (976 4560 -160)"
+			"id" "10241"
+			"plane" "(-1104 -4688 -152) (-1104 -4688 -160) (-1104 4560 -160)"
 			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 0 1 48] 0.25"
-			"vaxis" "[1 0 0 48] 0.25"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 -48] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
 		}
 		side
 		{
-			"id" "10107"
+			"id" "10240"
 			"plane" "(976 -4688 -152) (976 -4688 -160) (-1104 -4688 -160)"
 			"material" "TOOLS/TOOLSSKIP"
 			"uaxis" "[0 0 1 48] 0.25"
-			"vaxis" "[1 0 0 48] 0.25"
+			"vaxis" "[-1 0 0 -16] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
 		}
 		side
 		{
-			"id" "10106"
+			"id" "10239"
+			"plane" "(-1104 4560 -152) (-1104 4560 -160) (976 4560 -160)"
+			"material" "TOOLS/TOOLSSKIP"
+			"uaxis" "[0 0 1 48] 0.25"
+			"vaxis" "[-1 0 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "8"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10238"
 			"plane" "(976 4560 -152) (976 -4688 -152) (-1104 -4688 -152)"
 			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[1 0 0 48] 0.25"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[-1 0 0 -16] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
 		}
 		side
 		{
-			"id" "10105"
+			"id" "10237"
 			"plane" "(976 -4688 -160) (976 4560 -160) (-1104 4560 -160)"
 			"material" "TOOLS/TOOLSSKIP"
-			"uaxis" "[0 -1 0 0] 0.25"
-			"vaxis" "[1 0 0 48] 0.25"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[-1 0 0 -16] 0.25"
 			"rotation" "0"
 			"lightmapscale" "8"
 			"smoothing_groups" "0"
@@ -25884,12 +26264,12 @@ world
 	}
 	solid
 	{
-		"id" "26075"
+		"id" "27028"
 		side
 		{
-			"id" "10111"
-			"plane" "(959 1344 640) (960 1344 640) (960 -1216 640)"
-			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"id" "10243"
+			"plane" "(976 4560 1216) (984 4560 1216) (984 -4208 1216)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -25898,9 +26278,9 @@ world
 		}
 		side
 		{
-			"id" "10112"
-			"plane" "(959 -1216 0) (960 -1216 0) (960 1344 0)"
-			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"id" "10244"
+			"plane" "(976 -4208 -64.0001) (984 -4208 -64.0001) (984 4560 -64.0001)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -25909,9 +26289,9 @@ world
 		}
 		side
 		{
-			"id" "10113"
-			"plane" "(959 1344 640) (959 -1216 640) (959 -1216 0)"
-			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"id" "10245"
+			"plane" "(976 4560 1216) (976 -4208 1216) (976 -4208 -64.0001)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -25920,9 +26300,9 @@ world
 		}
 		side
 		{
-			"id" "10114"
-			"plane" "(960 1344 0) (960 -1216 0) (960 -1216 640)"
-			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"id" "10246"
+			"plane" "(984 4560 -64.0001) (984 -4208 -64.0001) (984 -4208 1216)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -25931,9 +26311,9 @@ world
 		}
 		side
 		{
-			"id" "10115"
-			"plane" "(960 1344 640) (959 1344 640) (959 1344 0)"
-			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"id" "10247"
+			"plane" "(984 4560 1216) (976 4560 1216) (976 4560 -64.0001)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -25942,9 +26322,9 @@ world
 		}
 		side
 		{
-			"id" "10116"
-			"plane" "(960 -1216 0) (959 -1216 0) (959 -1216 640)"
-			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"id" "10248"
+			"plane" "(984 -4208 -64.0001) (976 -4208 -64.0001) (976 -4208 1216)"
+			"material" "KOTH_VIADUCT_EVENT/BLENDROCKGROUNDWALLFOREST_VIADUCT_EVENT002"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -25953,18 +26333,18 @@ world
 		}
 		editor
 		{
-			"color" "0 255 160"
+			"color" "0 200 133"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
 	}
 	solid
 	{
-		"id" "26076"
+		"id" "27034"
 		side
 		{
-			"id" "10117"
-			"plane" "(-1088 1088 640) (-1087 1088 640) (-1087 -1472 640)"
+			"id" "10261"
+			"plane" "(-1088 3072 528) (-1087 3072 528) (-1087 2000 528)"
 			"material" "EGYPT/BARBED_WIRE_FENCE_01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -25974,8 +26354,8 @@ world
 		}
 		side
 		{
-			"id" "10118"
-			"plane" "(-1088 -1472 0) (-1087 -1472 0) (-1087 1088 0)"
+			"id" "10262"
+			"plane" "(-1088 2000 384) (-1087 2000 384) (-1087 3072 384)"
 			"material" "EGYPT/BARBED_WIRE_FENCE_01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
@@ -25985,8 +26365,8 @@ world
 		}
 		side
 		{
-			"id" "10119"
-			"plane" "(-1088 1088 640) (-1088 -1472 640) (-1088 -1472 0)"
+			"id" "10263"
+			"plane" "(-1088 3072 528) (-1088 2000 528) (-1088 2000 384)"
 			"material" "EGYPT/BARBED_WIRE_FENCE_01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -25996,8 +26376,8 @@ world
 		}
 		side
 		{
-			"id" "10120"
-			"plane" "(-1087 1088 0) (-1087 -1472 0) (-1087 -1472 640)"
+			"id" "10264"
+			"plane" "(-1087 3072 384) (-1087 2000 384) (-1087 2000 528)"
 			"material" "EGYPT/BARBED_WIRE_FENCE_01"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26007,8 +26387,8 @@ world
 		}
 		side
 		{
-			"id" "10121"
-			"plane" "(-1087 1088 640) (-1088 1088 640) (-1088 1088 0)"
+			"id" "10265"
+			"plane" "(-1087 3072 528) (-1088 3072 528) (-1088 3072 384)"
 			"material" "EGYPT/BARBED_WIRE_FENCE_01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26018,8 +26398,8 @@ world
 		}
 		side
 		{
-			"id" "10122"
-			"plane" "(-1087 -1472 0) (-1088 -1472 0) (-1088 -1472 640)"
+			"id" "10266"
+			"plane" "(-1087 2000 384) (-1088 2000 384) (-1088 2000 528)"
 			"material" "EGYPT/BARBED_WIRE_FENCE_01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -26029,7 +26409,159 @@ world
 		}
 		editor
 		{
-			"color" "0 173 126"
+			"color" "0 164 157"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "27035"
+		side
+		{
+			"id" "10267"
+			"plane" "(-1088 4080 856) (-1087 4080 856) (-1087 2504 856)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10268"
+			"plane" "(-1088 2504 528) (-1087 2504 528) (-1087 4080 528)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10269"
+			"plane" "(-1088 4080 856) (-1088 2504 856) (-1088 2504 528)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10270"
+			"plane" "(-1087 4080 528) (-1087 2504 528) (-1087 2504 856)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10271"
+			"plane" "(-1087 4080 856) (-1088 4080 856) (-1088 4080 528)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10272"
+			"plane" "(-1087 2504 528) (-1088 2504 528) (-1088 2504 856)"
+			"material" "EGYPT/BARBED_WIRE_FENCE_01"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 146 235"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "27037"
+		side
+		{
+			"id" "10273"
+			"plane" "(-1088 2504 856) (-1080 2504 856) (-1080 2496 856)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10274"
+			"plane" "(-1088 2496 528) (-1080 2496 528) (-1080 2504 528)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10275"
+			"plane" "(-1088 2504 856) (-1088 2496 856) (-1088 2496 528)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10276"
+			"plane" "(-1080 2504 528) (-1080 2496 528) (-1080 2496 856)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10277"
+			"plane" "(-1080 2504 856) (-1088 2504 856) (-1088 2504 528)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "10278"
+			"plane" "(-1080 2496 528) (-1088 2496 528) (-1088 2496 856)"
+			"material" "CONCRETE/CONCRETEFLOOR007_HARBOR"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 170 171"
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
