@@ -1,0 +1,1058 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1104.00 -88.00 392.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 50 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (143667 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 277 texinfos to 197
+Reduced 44 texdatas to 43 (1011 bytes to 989)
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+No vis information, direct lighting only.
+3221 faces
+792364 square feet [114100528.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0313 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                404/8192         4848/98304    ( 4.9%) 
+brushsides            2478/65536       19824/524288   ( 3.8%) 
+planes                 804/65536       16080/1310720  ( 1.2%) 
+vertexes              5338/65536       64056/786432   ( 8.1%) 
+nodes                 1619/65536       51808/2097152  ( 2.5%) 
+texinfos               197/12288       14184/884736   ( 1.6%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3221/65536      180376/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              943/65536       52808/3670016  ( 1.4%) 
+leaves                1634/65536       52288/2097152  ( 2.5%) 
+leaffaces             3750/65536        7500/131072   ( 5.7%) 
+leafbrushes           1131/65536        2262/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19515/512000      78060/2048000  ( 3.8%) 
+edges                11400/256000      45600/1024000  ( 4.5%) 
+LDR worldlights         20/8192         1760/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            488/32768        4880/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7137/65536       14274/131072   (10.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8829284/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25108/393216   ( 6.4%) 
+LDR ambient table     1634/65536        6536/262144   ( 2.5%) 
+HDR ambient table     1634/65536        6536/262144   ( 2.5%) 
+LDR leaf ambient     10007/65536      280196/1835008  (15.3%) 
+HDR leaf ambient      1634/65536       45752/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15760    ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      143667/4194304  ( 3.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9281
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+14 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_harbor_b3/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1104.00 -88.00 392.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4320.0 616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4552.0 1072.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4552.0 280.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4840.0 616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4608.0 1424.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 5120.0 632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 3584.0 632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3584.0 5120.0 632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Error! Entity sky_camera in solid volume! at -2762.5 -308.0 585.0
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+No vis information, direct lighting only.
+3221 faces
+792364 square feet [114100528.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0340 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                404/8192         4848/98304    ( 4.9%) 
+brushsides            2478/65536       19824/524288   ( 3.8%) 
+planes                 804/65536       16080/1310720  ( 1.2%) 
+vertexes              5338/65536       64056/786432   ( 8.1%) 
+nodes                 1619/65536       51808/2097152  ( 2.5%) 
+texinfos               197/12288       14184/884736   ( 1.6%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3221/65536      180376/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              943/65536       52808/3670016  ( 1.4%) 
+leaves                1634/65536       52288/2097152  ( 2.5%) 
+leaffaces             3750/65536        7500/131072   ( 5.7%) 
+leafbrushes           1131/65536        2262/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19515/512000      78060/2048000  ( 3.8%) 
+edges                11400/256000      45600/1024000  ( 4.5%) 
+LDR worldlights         20/8192         1760/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            488/32768        4880/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7137/65536       14274/131072   (10.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8829284/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25108/393216   ( 6.4%) 
+LDR ambient table     1634/65536        6536/262144   ( 2.5%) 
+HDR ambient table     1634/65536        6536/262144   ( 2.5%) 
+LDR leaf ambient     10007/65536      280196/1835008  (15.3%) 
+HDR leaf ambient      1634/65536       45752/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15760    ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      143667/4194304  ( 3.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9281
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+14 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_harbor_b3/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1104.00 -88.00 392.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4320.0 616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4552.0 1072.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4552.0 280.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4840.0 616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4608.0 1424.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 5120.0 632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 3584.0 632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3584.0 5120.0 632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Error! Entity sky_camera in solid volume! at -2762.5 -308.0 585.0
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+No vis information, direct lighting only.
+3221 faces
+792364 square feet [114100528.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0319 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                404/8192         4848/98304    ( 4.9%) 
+brushsides            2478/65536       19824/524288   ( 3.8%) 
+planes                 804/65536       16080/1310720  ( 1.2%) 
+vertexes              5338/65536       64056/786432   ( 8.1%) 
+nodes                 1619/65536       51808/2097152  ( 2.5%) 
+texinfos               197/12288       14184/884736   ( 1.6%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3221/65536      180376/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              943/65536       52808/3670016  ( 1.4%) 
+leaves                1634/65536       52288/2097152  ( 2.5%) 
+leaffaces             3750/65536        7500/131072   ( 5.7%) 
+leafbrushes           1131/65536        2262/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19515/512000      78060/2048000  ( 3.8%) 
+edges                11400/256000      45600/1024000  ( 4.5%) 
+LDR worldlights         20/8192         1760/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            488/32768        4880/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7137/65536       14274/131072   (10.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8829284/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25108/393216   ( 6.4%) 
+LDR ambient table     1634/65536        6536/262144   ( 2.5%) 
+HDR ambient table     1634/65536        6536/262144   ( 2.5%) 
+LDR leaf ambient     10007/65536      280196/1835008  (15.3%) 
+HDR leaf ambient      1634/65536       45752/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15760    ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      143667/4194304  ( 3.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9281
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+14 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1104.00 -88.00 392.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 50 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_dustbowl_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_dustbowl_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (142275 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 283 texinfos to 201
+Reduced 44 texdatas to 43 (1011 bytes to 989)
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+No vis information, direct lighting only.
+3308 faces
+822572 square feet [118450440.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0348 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                400/8192         4800/98304    ( 4.9%) 
+brushsides            2454/65536       19632/524288   ( 3.7%) 
+planes                 800/65536       16000/1310720  ( 1.2%) 
+vertexes              5418/65536       65016/786432   ( 8.3%) 
+nodes                 1610/65536       51520/2097152  ( 2.5%) 
+texinfos               201/12288       14472/884736   ( 1.6%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3308/65536      185248/3670016  ( 5.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              939/65536       52584/3670016  ( 1.4%) 
+leaves                1625/65536       52000/2097152  ( 2.5%) 
+leaffaces             3834/65536        7668/131072   ( 5.9%) 
+leafbrushes           1130/65536        2260/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19878/512000      79512/2048000  ( 3.9%) 
+edges                11556/256000      46224/1024000  ( 4.5%) 
+LDR worldlights         20/8192         1760/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            487/32768        4870/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7059/65536       14118/131072   (10.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    10145720/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25109/393216   ( 6.4%) 
+LDR ambient table     1625/65536        6500/262144   ( 2.5%) 
+HDR ambient table     1625/65536        6500/262144   ( 2.5%) 
+LDR leaf ambient      9921/65536      277788/1835008  (15.1%) 
+HDR leaf ambient      1625/65536       45500/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15760    ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      142275/4194304  ( 3.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9486
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+15 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.vmf
+Patching WVT material: maps/koth_harbor_b3/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3584.0 1024.0 600.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3072.0 512.0 600.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4608.0 1024.0 600.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-5120.0 512.0 600.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3584.0 -1024.0 600.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3072.0 -512.0 600.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4608.0 -1024.0 600.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-5120.0 -512.0 600.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Error! Entity sky_camera in solid volume! at -3925.0 -32.0 555.0
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+No vis information, direct lighting only.
+3308 faces
+822572 square feet [118450440.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0357 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                400/8192         4800/98304    ( 4.9%) 
+brushsides            2454/65536       19632/524288   ( 3.7%) 
+planes                 800/65536       16000/1310720  ( 1.2%) 
+vertexes              5418/65536       65016/786432   ( 8.3%) 
+nodes                 1610/65536       51520/2097152  ( 2.5%) 
+texinfos               201/12288       14472/884736   ( 1.6%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3308/65536      185248/3670016  ( 5.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              939/65536       52584/3670016  ( 1.4%) 
+leaves                1625/65536       52000/2097152  ( 2.5%) 
+leaffaces             3834/65536        7668/131072   ( 5.9%) 
+leafbrushes           1130/65536        2260/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19878/512000      79512/2048000  ( 3.9%) 
+edges                11556/256000      46224/1024000  ( 4.5%) 
+LDR worldlights         20/8192         1760/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            487/32768        4870/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7059/65536       14118/131072   (10.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    10145720/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25109/393216   ( 6.4%) 
+LDR ambient table     1625/65536        6500/262144   ( 2.5%) 
+HDR ambient table     1625/65536        6500/262144   ( 2.5%) 
+LDR leaf ambient      9921/65536      277788/1835008  (15.1%) 
+HDR leaf ambient      1625/65536       45500/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15760    ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      142275/4194304  ( 3.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9486
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+15 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.vmf
+Patching WVT material: maps/koth_harbor_b3/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3584.0 1024.0 600.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3072.0 512.0 600.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4608.0 1024.0 600.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-5120.0 512.0 600.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3584.0 -1024.0 600.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3072.0 -512.0 600.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-4608.0 -1024.0 600.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-5120.0 -512.0 600.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Error! Entity sky_camera in solid volume! at -3925.0 -32.0 555.0
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+No vis information, direct lighting only.
+3308 faces
+822572 square feet [118450440.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0344 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                400/8192         4800/98304    ( 4.9%) 
+brushsides            2454/65536       19632/524288   ( 3.7%) 
+planes                 800/65536       16000/1310720  ( 1.2%) 
+vertexes              5418/65536       65016/786432   ( 8.3%) 
+nodes                 1610/65536       51520/2097152  ( 2.5%) 
+texinfos               201/12288       14472/884736   ( 1.6%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3308/65536      185248/3670016  ( 5.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              939/65536       52584/3670016  ( 1.4%) 
+leaves                1625/65536       52000/2097152  ( 2.5%) 
+leaffaces             3834/65536        7668/131072   ( 5.9%) 
+leafbrushes           1130/65536        2260/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19878/512000      79512/2048000  ( 3.9%) 
+edges                11556/256000      46224/1024000  ( 4.5%) 
+LDR worldlights         20/8192         1760/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            487/32768        4870/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7059/65536       14118/131072   (10.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    10145720/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25109/393216   ( 6.4%) 
+LDR ambient table     1625/65536        6500/262144   ( 2.5%) 
+HDR ambient table     1625/65536        6500/262144   ( 2.5%) 
+LDR leaf ambient      9921/65536      277788/1835008  (15.1%) 
+HDR leaf ambient      1625/65536       45500/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15760    ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      142275/4194304  ( 3.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9486
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+14 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_harbor_b3/cp_mountainlab/nature/blendrocktograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1104.00 -88.00 392.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4320.0 616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4552.0 1072.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4552.0 280.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4840.0 616.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 4608.0 1424.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2560.0 5120.0 632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-2048.0 3584.0 632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-3584.0 5120.0 632.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Error! Entity sky_camera in solid volume! at -3925.0 -32.0 555.0
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+reading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+No vis information, direct lighting only.
+3308 faces
+822572 square feet [118450440.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0341 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  14/1024          672/49152    ( 1.4%) 
+brushes                400/8192         4800/98304    ( 4.9%) 
+brushsides            2454/65536       19632/524288   ( 3.7%) 
+planes                 800/65536       16000/1310720  ( 1.2%) 
+vertexes              5418/65536       65016/786432   ( 8.3%) 
+nodes                 1610/65536       51520/2097152  ( 2.5%) 
+texinfos               201/12288       14472/884736   ( 1.6%) 
+texdata                 43/2048         1376/65536    ( 2.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3308/65536      185248/3670016  ( 5.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              939/65536       52584/3670016  ( 1.4%) 
+leaves                1625/65536       52000/2097152  ( 2.5%) 
+leaffaces             3834/65536        7668/131072   ( 5.9%) 
+leafbrushes           1130/65536        2260/131072   ( 1.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            19878/512000      79512/2048000  ( 3.9%) 
+edges                11556/256000      46224/1024000  ( 4.5%) 
+LDR worldlights         20/8192         1760/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            487/32768        4870/327680   ( 1.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7059/65536       14118/131072   (10.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    10145720/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25109/393216   ( 6.4%) 
+LDR ambient table     1625/65536        6500/262144   ( 2.5%) 
+HDR ambient table     1625/65536        6500/262144   ( 2.5%) 
+LDR leaf ambient      9921/65536      277788/1835008  (15.1%) 
+HDR leaf ambient      1625/65536       45500/1835008  ( 2.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15760    ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]      142275/4194304  ( 3.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 9486
+Writing d:\documents\mapping\tf2\tf2-maps\harbor\b3\koth_harbor_b3.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+14 seconds elapsed
