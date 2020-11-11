@@ -1,0 +1,126 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (24975 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 28 texinfos to 16
+Reduced 4 texdatas to 4 (67 bytes to 67)
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+ 157 portalclusters
+ 469 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 509 visible clusters (2.30%)
+Total clusters visible: 22144
+Average clusters visible: 141
+Building PAS...
+Average clusters audible: 157
+visdatasize:7554  compressed from 7536
+writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+500 faces
+323590 square feet [46597084.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+500 patches before subdivision
+24292 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1489428, max 324
+transfer lists:  11.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0047 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 70/8192          840/98304    ( 0.9%) 
+brushsides             448/65536        3584/524288   ( 0.7%) 
+planes                 202/65536        4040/1310720  ( 0.3%) 
+vertexes               720/65536        8640/786432   ( 1.1%) 
+nodes                  306/65536        9792/2097152  ( 0.5%) 
+texinfos                16/12288        1152/884736   ( 0.1%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  500/65536       28000/3670016  ( 0.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              200/65536       11200/3670016  ( 0.3%) 
+leaves                 308/65536        9856/2097152  ( 0.5%) 
+leaffaces              589/65536        1178/131072   ( 0.9%) 
+leafbrushes            208/65536         416/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3155/512000      12620/2048000  ( 0.6%) 
+edges                 1741/256000       6964/1024000  ( 0.7%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             57/32768         570/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           765/65536        1530/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      483828/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        7554/16777216 ( 0.0%) 
+entdata               [variable]         550/393216   ( 0.1%) 
+LDR ambient table      308/65536        1232/262144   ( 0.5%) 
+HDR ambient table      308/65536        1232/262144   ( 0.5%) 
+LDR leaf ambient       157/65536        4396/1835008  ( 0.2%) 
+HDR leaf ambient       308/65536        8624/1835008  ( 0.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/786      ( 0.1%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       24975/4194304  ( 0.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1346
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+1 second elapsed
