@@ -1160,3 +1160,994 @@ Total triangle count: 2634
 Writing c:\users\liam\documents\tf2-maps\highway\a1\koth_highway_a1.bsp
 ZIP Output overshot buffer estimate: Estimated 0, actual 54
 6 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (2192.00 -1536.00 96.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (58680 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 141 texinfos to 92
+Reduced 11 texdatas to 11 (240 bytes to 240)
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+No vis information, direct lighting only.
+1010 faces
+995189 square feet [143307216.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0053 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                157/8192         1884/98304    ( 1.9%) 
+brushsides             999/65536        7992/524288   ( 1.5%) 
+planes                 482/65536        9640/1310720  ( 0.7%) 
+vertexes              1448/65536       17376/786432   ( 2.2%) 
+nodes                  689/65536       22048/2097152  ( 1.1%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1010/65536       56560/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              487/65536       27272/3670016  ( 0.7%) 
+leaves                 709/65536       22688/2097152  ( 1.1%) 
+leaffaces             1155/65536        2310/131072   ( 1.8%) 
+leafbrushes            326/65536         652/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6589/512000      26356/2048000  ( 1.3%) 
+edges                 3680/256000      14720/1024000  ( 1.4%) 
+LDR worldlights         14/8192         1232/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1029/65536        2058/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      734336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       17442/393216   ( 4.4%) 
+LDR ambient table      709/65536        2836/262144   ( 1.1%) 
+HDR ambient table      709/65536        2836/262144   ( 1.1%) 
+LDR leaf ambient      5543/65536      155204/1835008  ( 8.5%) 
+HDR leaf ambient       709/65536       19852/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2820     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       58680/4194304  ( 1.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2634
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (2192.00 -1536.00 96.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (58680 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 141 texinfos to 92
+Reduced 11 texdatas to 11 (240 bytes to 240)
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+No vis information, direct lighting only.
+1010 faces
+995189 square feet [143307216.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0053 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  19/1024          912/49152    ( 1.9%) 
+brushes                157/8192         1884/98304    ( 1.9%) 
+brushsides             999/65536        7992/524288   ( 1.5%) 
+planes                 482/65536        9640/1310720  ( 0.7%) 
+vertexes              1448/65536       17376/786432   ( 2.2%) 
+nodes                  689/65536       22048/2097152  ( 1.1%) 
+texinfos                92/12288        6624/884736   ( 0.7%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1010/65536       56560/3670016  ( 1.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              487/65536       27272/3670016  ( 0.7%) 
+leaves                 709/65536       22688/2097152  ( 1.1%) 
+leaffaces             1155/65536        2310/131072   ( 1.8%) 
+leafbrushes            326/65536         652/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6589/512000      26356/2048000  ( 1.3%) 
+edges                 3680/256000      14720/1024000  ( 1.4%) 
+LDR worldlights         14/8192         1232/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1029/65536        2058/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      734336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       17442/393216   ( 4.4%) 
+LDR ambient table      709/65536        2836/262144   ( 1.1%) 
+HDR ambient table      709/65536        2836/262144   ( 1.1%) 
+LDR leaf ambient      5543/65536      155204/1835008  ( 8.5%) 
+HDR leaf ambient       709/65536       19852/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2820     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       58680/4194304  ( 1.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2634
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+4 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (2192.00 -1536.00 96.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (63710 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 178 texinfos to 98
+Reduced 13 texdatas to 12 (276 bytes to 258)
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+No vis information, direct lighting only.
+1034 faces
+999476 square feet [143924608.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0054 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/1024         1248/49152    ( 2.5%) 
+brushes                164/8192         1968/98304    ( 2.0%) 
+brushsides            1057/65536        8456/524288   ( 1.6%) 
+planes                 534/65536       10680/1310720  ( 0.8%) 
+vertexes              1528/65536       18336/786432   ( 2.3%) 
+nodes                  743/65536       23776/2097152  ( 1.1%) 
+texinfos                98/12288        7056/884736   ( 0.8%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1034/65536       57904/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              511/65536       28616/3670016  ( 0.8%) 
+leaves                 770/65536       24640/2097152  ( 1.2%) 
+leaffaces             1179/65536        2358/131072   ( 1.8%) 
+leafbrushes            333/65536         666/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6829/512000      27316/2048000  ( 1.3%) 
+edges                 3824/256000      15296/1024000  ( 1.5%) 
+LDR worldlights         14/8192         1232/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1029/65536        2058/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      734336/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       21897/393216   ( 5.6%) 
+LDR ambient table      770/65536        3080/262144   ( 1.2%) 
+HDR ambient table      770/65536        3080/262144   ( 1.2%) 
+LDR leaf ambient      5817/65536      162876/1835008  ( 8.9%) 
+HDR leaf ambient       770/65536       21560/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2464     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       63710/4194304  ( 1.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2706
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+4 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (2192.00 -1536.00 96.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (63646 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 176 texinfos to 98
+Reduced 13 texdatas to 12 (276 bytes to 258)
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+No vis information, direct lighting only.
+1032 faces
+999476 square feet [143924608.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0053 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/1024         1248/49152    ( 2.5%) 
+brushes                164/8192         1968/98304    ( 2.0%) 
+brushsides            1057/65536        8456/524288   ( 1.6%) 
+planes                 526/65536       10520/1310720  ( 0.8%) 
+vertexes              1524/65536       18288/786432   ( 2.3%) 
+nodes                  743/65536       23776/2097152  ( 1.1%) 
+texinfos                98/12288        7056/884736   ( 0.8%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1032/65536       57792/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              509/65536       28504/3670016  ( 0.8%) 
+leaves                 770/65536       24640/2097152  ( 1.2%) 
+leaffaces             1177/65536        2354/131072   ( 1.8%) 
+leafbrushes            333/65536         666/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6813/512000      27252/2048000  ( 1.3%) 
+edges                 3814/256000      15256/1024000  ( 1.5%) 
+LDR worldlights         14/8192         1232/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1029/65536        2058/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      734192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       22620/393216   ( 5.8%) 
+LDR ambient table      770/65536        3080/262144   ( 1.2%) 
+HDR ambient table      770/65536        3080/262144   ( 1.2%) 
+LDR leaf ambient      5817/65536      162876/1835008  ( 8.9%) 
+HDR leaf ambient       770/65536       21560/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2466     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       63646/4194304  ( 1.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2702
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (2192.00 -1536.00 96.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (63646 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 176 texinfos to 98
+Reduced 13 texdatas to 12 (276 bytes to 258)
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+No vis information, direct lighting only.
+1032 faces
+999598 square feet [143942144.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+14 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0055 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/1024         1248/49152    ( 2.5%) 
+brushes                164/8192         1968/98304    ( 2.0%) 
+brushsides            1057/65536        8456/524288   ( 1.6%) 
+planes                 526/65536       10520/1310720  ( 0.8%) 
+vertexes              1524/65536       18288/786432   ( 2.3%) 
+nodes                  743/65536       23776/2097152  ( 1.1%) 
+texinfos                98/12288        7056/884736   ( 0.8%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1032/65536       57792/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              509/65536       28504/3670016  ( 0.8%) 
+leaves                 770/65536       24640/2097152  ( 1.2%) 
+leaffaces             1177/65536        2354/131072   ( 1.8%) 
+leafbrushes            333/65536         666/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6813/512000      27252/2048000  ( 1.3%) 
+edges                 3814/256000      15256/1024000  ( 1.5%) 
+LDR worldlights         14/8192         1232/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1029/65536        2058/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      734192/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25271/393216   ( 6.4%) 
+LDR ambient table      770/65536        3080/262144   ( 1.2%) 
+HDR ambient table      770/65536        3080/262144   ( 1.2%) 
+LDR leaf ambient      5819/65536      162932/1835008  ( 8.9%) 
+HDR leaf ambient       770/65536       21560/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2466     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       63646/4194304  ( 1.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2702
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+5 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (2192.00 -1536.00 96.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (64430 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 182 texinfos to 98
+Reduced 13 texdatas to 12 (276 bytes to 258)
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+No vis information, direct lighting only.
+1032 faces
+999526 square feet [143931856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0054 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/1024         1248/49152    ( 2.5%) 
+brushes                166/8192         1992/98304    ( 2.0%) 
+brushsides            1069/65536        8552/524288   ( 1.6%) 
+planes                 530/65536       10600/1310720  ( 0.8%) 
+vertexes              1524/65536       18288/786432   ( 2.3%) 
+nodes                  743/65536       23776/2097152  ( 1.1%) 
+texinfos                98/12288        7056/884736   ( 0.8%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1032/65536       57792/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              509/65536       28504/3670016  ( 0.8%) 
+leaves                 770/65536       24640/2097152  ( 1.2%) 
+leaffaces             1177/65536        2354/131072   ( 1.8%) 
+leafbrushes            337/65536         674/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6813/512000      27252/2048000  ( 1.3%) 
+edges                 3814/256000      15256/1024000  ( 1.5%) 
+LDR worldlights         16/8192         1408/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1029/65536        2058/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      734032/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       25923/393216   ( 6.6%) 
+LDR ambient table      770/65536        3080/262144   ( 1.2%) 
+HDR ambient table      770/65536        3080/262144   ( 1.2%) 
+LDR leaf ambient      5817/65536      162876/1835008  ( 8.9%) 
+HDR leaf ambient       770/65536       21560/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2614     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       64430/4194304  ( 1.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2702
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+4 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (2192.00 -1536.00 96.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (65540 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 188 texinfos to 104
+Reduced 13 texdatas to 12 (276 bytes to 258)
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+No vis information, direct lighting only.
+1044 faces
+1000465 square feet [144067024.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0055 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                168/8192         2016/98304    ( 2.1%) 
+brushsides            1081/65536        8648/524288   ( 1.6%) 
+planes                 542/65536       10840/1310720  ( 0.8%) 
+vertexes              1540/65536       18480/786432   ( 2.3%) 
+nodes                  755/65536       24160/2097152  ( 1.2%) 
+texinfos               104/12288        7488/884736   ( 0.8%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1044/65536       58464/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              521/65536       29176/3670016  ( 0.8%) 
+leaves                 784/65536       25088/2097152  ( 1.2%) 
+leaffaces             1189/65536        2378/131072   ( 1.8%) 
+leafbrushes            339/65536         678/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6909/512000      27636/2048000  ( 1.3%) 
+edges                 3862/256000      15448/1024000  ( 1.5%) 
+LDR worldlights         16/8192         1408/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1029/65536        2058/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      734032/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       27353/393216   ( 7.0%) 
+LDR ambient table      784/65536        3136/262144   ( 1.2%) 
+HDR ambient table      784/65536        3136/262144   ( 1.2%) 
+LDR leaf ambient      5889/65536      164892/1835008  ( 9.0%) 
+HDR leaf ambient       784/65536       21952/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2614     ( 0.0%) 
+pakfile               [variable]          54/0        ( 0.0%) 
+physics               [variable]       65540/4194304  ( 1.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 2726
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+3 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\Mapping\tf2\TF2-Maps\Highway\A1\koth_highway_a1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (2192.00 -1536.00 96.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_gravel_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_gravel_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (65540 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 188 texinfos to 104
+Reduced 13 texdatas to 12 (276 bytes to 258)
+Writing D:\Documents\Mapping\tf2\TF2-Maps\Highway\A1\koth_highway_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\Mapping\tf2\TF2-Maps\Highway\A1\koth_highway_a1.bsp', but we don't own that location. Allowing.
+ZIP Output overshot buffer estimate: Estimated 0, actual 54
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+No vis information, direct lighting only.
+1044 faces
+1000465 square feet [144067024.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0062 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                168/8192         2016/98304    ( 2.1%) 
+brushsides            1081/65536        8648/524288   ( 1.6%) 
+planes                 542/65536       10840/1310720  ( 0.8%) 
+vertexes              1540/65536       18480/786432   ( 2.3%) 
+nodes                  755/65536       24160/2097152  ( 1.2%) 
+texinfos               104/12288        7488/884736   ( 0.8%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1044/65536       58464/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              521/65536       29176/3670016  ( 0.8%) 
+leaves                 784/65536       25088/2097152  ( 1.2%) 
+leaffaces             1189/65536        2378/131072   ( 1.8%) 
+leafbrushes            339/65536         678/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6909/512000      27636/2048000  ( 1.3%) 
+edges                 3862/256000      15448/1024000  ( 1.5%) 
+LDR worldlights         16/8192         1408/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1029/65536        2058/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      734032/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       27353/393216   ( 7.0%) 
+LDR ambient table      784/65536        3136/262144   ( 1.2%) 
+HDR ambient table      784/65536        3136/262144   ( 1.2%) 
+LDR leaf ambient      5879/65536      164612/1835008  ( 9.0%) 
+HDR leaf ambient       784/65536       21952/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2614     ( 0.0%) 
+pakfile               [variable]      143790/0        ( 0.0%) 
+physics               [variable]       65540/4194304  ( 1.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 2726
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+36 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+No vis information, direct lighting only.
+1044 faces
+1000465 square feet [144067024.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+16 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0058 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/1024         1344/49152    ( 2.7%) 
+brushes                168/8192         2016/98304    ( 2.1%) 
+brushsides            1081/65536        8648/524288   ( 1.6%) 
+planes                 542/65536       10840/1310720  ( 0.8%) 
+vertexes              1540/65536       18480/786432   ( 2.3%) 
+nodes                  755/65536       24160/2097152  ( 1.2%) 
+texinfos               104/12288        7488/884736   ( 0.8%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1044/65536       58464/3670016  ( 1.6%) 
+hdr faces             1044/65536       58464/3670016  ( 1.6%) 
+origfaces              521/65536       29176/3670016  ( 0.8%) 
+leaves                 784/65536       25088/2097152  ( 1.2%) 
+leaffaces             1189/65536        2378/131072   ( 1.8%) 
+leafbrushes            339/65536         678/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             6909/512000      27636/2048000  ( 1.3%) 
+edges                 3862/256000      15448/1024000  ( 1.5%) 
+LDR worldlights         16/8192         1408/720896   ( 0.2%) 
+HDR worldlights         16/8192         1408/720896   ( 0.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             75/32768         750/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1029/65536        2058/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      734032/0        ( 0.0%) 
+HDR lightdata         [variable]      734032/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       27353/393216   ( 7.0%) 
+LDR ambient table      784/65536        3136/262144   ( 1.2%) 
+HDR ambient table      784/65536        3136/262144   ( 1.2%) 
+LDR leaf ambient      5879/65536      164612/1835008  ( 9.0%) 
+HDR leaf ambient      5870/65536      164360/1835008  ( 9.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2614     ( 0.0%) 
+pakfile               [variable]      287734/0        ( 0.0%) 
+physics               [variable]       65540/4194304  ( 1.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 2726
+Writing d:\documents\mapping\tf2\tf2-maps\highway\a1\koth_highway_a1.bsp
+36 seconds elapsed
