@@ -1,0 +1,696 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+material "+0~generic86r" not found.
+Material not found!: +0~GENERIC86R
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "+0~generic86" not found.
+Material not found!: +0~GENERIC86
+material "+0~generic85" not found.
+Material not found!: +0~GENERIC85
+material "+0~drkmtls2c" not found.
+Material not found!: +0~DRKMTLS2C
+material "lab1_cab2" not found.
+Material not found!: LAB1_CAB2
+material "c1a1c_w2b" not found.
+Material not found!: C1A1C_W2B
+material "black" not found.
+Material not found!: BLACK
+material "metal_bord01" not found.
+Material not found!: METAL_BORD01
+material "silo2_brd1a" not found.
+Material not found!: SILO2_BRD1A
+material "sign46" not found.
+Material not found!: SIGN46
+material "sign10" not found.
+Material not found!: SIGN10
+material "gateblueflr" not found.
+Material not found!: GATEBLUEFLR
+material "c1a4b_w2" not found.
+Material not found!: C1A4B_W2
+material "-0crete2_flr04" not found.
+Material not found!: -0CRETE2_FLR04
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-512.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity func_illusionary (258.00 2782.00 -80.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+material "+0~generic86r" not found.
+Material not found!: +0~GENERIC86R
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "+0~generic86" not found.
+Material not found!: +0~GENERIC86
+material "+0~generic85" not found.
+Material not found!: +0~GENERIC85
+material "+0~drkmtls2c" not found.
+Material not found!: +0~DRKMTLS2C
+material "lab1_cab2" not found.
+Material not found!: LAB1_CAB2
+material "c1a1c_w2b" not found.
+Material not found!: C1A1C_W2B
+material "black" not found.
+Material not found!: BLACK
+material "metal_bord01" not found.
+Material not found!: METAL_BORD01
+material "silo2_brd1a" not found.
+Material not found!: SILO2_BRD1A
+material "sign46" not found.
+Material not found!: SIGN46
+material "sign10" not found.
+Material not found!: SIGN10
+material "gateblueflr" not found.
+Material not found!: GATEBLUEFLR
+material "c1a4b_w2" not found.
+Material not found!: C1A4B_W2
+material "-0crete2_flr04" not found.
+Material not found!: -0CRETE2_FLR04
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-512.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity func_brush (258.00 2782.00 -80.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+material "+0~generic86r" not found.
+Material not found!: +0~GENERIC86R
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "+0~generic86" not found.
+Material not found!: +0~GENERIC86
+material "+0~generic85" not found.
+Material not found!: +0~GENERIC85
+material "+0~drkmtls2c" not found.
+Material not found!: +0~DRKMTLS2C
+material "lab1_cab2" not found.
+Material not found!: LAB1_CAB2
+material "c1a1c_w2b" not found.
+Material not found!: C1A1C_W2B
+material "black" not found.
+Material not found!: BLACK
+material "metal_bord01" not found.
+Material not found!: METAL_BORD01
+material "silo2_brd1a" not found.
+Material not found!: SILO2_BRD1A
+material "sign46" not found.
+Material not found!: SIGN46
+material "sign10" not found.
+Material not found!: SIGN10
+material "gateblueflr" not found.
+Material not found!: GATEBLUEFLR
+material "c1a4b_w2" not found.
+Material not found!: C1A4B_W2
+material "-0crete2_flr04" not found.
+Material not found!: -0CRETE2_FLR04
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-512.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity func_brush (258.00 2782.00 -80.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+material "+0~generic86r" not found.
+Material not found!: +0~GENERIC86R
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "+0~generic86" not found.
+Material not found!: +0~GENERIC86
+material "+0~generic85" not found.
+Material not found!: +0~GENERIC85
+material "+0~drkmtls2c" not found.
+Material not found!: +0~DRKMTLS2C
+material "lab1_cab2" not found.
+Material not found!: LAB1_CAB2
+material "c1a1c_w2b" not found.
+Material not found!: C1A1C_W2B
+material "black" not found.
+Material not found!: BLACK
+material "metal_bord01" not found.
+Material not found!: METAL_BORD01
+material "silo2_brd1a" not found.
+Material not found!: SILO2_BRD1A
+material "sign46" not found.
+Material not found!: SIGN46
+material "sign10" not found.
+Material not found!: SIGN10
+material "gateblueflr" not found.
+Material not found!: GATEBLUEFLR
+material "c1a4b_w2" not found.
+Material not found!: C1A4B_W2
+material "-0crete2_flr04" not found.
+Material not found!: -0CRETE2_FLR04
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-512.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity filter_activator_tfteam (64.00 2336.00 32.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+material "+0~generic86r" not found.
+Material not found!: +0~GENERIC86R
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "+0~generic86" not found.
+Material not found!: +0~GENERIC86
+material "+0~generic85" not found.
+Material not found!: +0~GENERIC85
+material "+0~drkmtls2c" not found.
+Material not found!: +0~DRKMTLS2C
+material "lab1_cab2" not found.
+Material not found!: LAB1_CAB2
+material "c1a1c_w2b" not found.
+Material not found!: C1A1C_W2B
+material "black" not found.
+Material not found!: BLACK
+material "metal_bord01" not found.
+Material not found!: METAL_BORD01
+material "silo2_brd1a" not found.
+Material not found!: SILO2_BRD1A
+material "sign46" not found.
+Material not found!: SIGN46
+material "sign10" not found.
+Material not found!: SIGN10
+material "gateblueflr" not found.
+Material not found!: GATEBLUEFLR
+material "c1a4b_w2" not found.
+Material not found!: C1A4B_W2
+material "-0crete2_flr04" not found.
+Material not found!: -0CRETE2_FLR04
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-512.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity filter_activator_tfteam (64.00 2336.00 48.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+material "+0~generic86r" not found.
+Material not found!: +0~GENERIC86R
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "+0~generic86" not found.
+Material not found!: +0~GENERIC86
+material "+0~generic85" not found.
+Material not found!: +0~GENERIC85
+material "+0~drkmtls2c" not found.
+Material not found!: +0~DRKMTLS2C
+material "lab1_cab2" not found.
+Material not found!: LAB1_CAB2
+material "c1a1c_w2b" not found.
+Material not found!: C1A1C_W2B
+material "black" not found.
+Material not found!: BLACK
+material "metal_bord01" not found.
+Material not found!: METAL_BORD01
+material "silo2_brd1a" not found.
+Material not found!: SILO2_BRD1A
+material "sign46" not found.
+Material not found!: SIGN46
+material "sign10" not found.
+Material not found!: SIGN10
+material "gateblueflr" not found.
+Material not found!: GATEBLUEFLR
+material "c1a4b_w2" not found.
+Material not found!: C1A4B_W2
+material "-0crete2_flr04" not found.
+Material not found!: -0CRETE2_FLR04
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-512.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity filter_activator_tfteam (64.00 2336.00 48.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+material "+0~generic86r" not found.
+Material not found!: +0~GENERIC86R
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "+0~generic86" not found.
+Material not found!: +0~GENERIC86
+material "+0~generic85" not found.
+Material not found!: +0~GENERIC85
+material "+0~drkmtls2c" not found.
+Material not found!: +0~DRKMTLS2C
+material "lab1_cab2" not found.
+Material not found!: LAB1_CAB2
+material "c1a1c_w2b" not found.
+Material not found!: C1A1C_W2B
+material "black" not found.
+Material not found!: BLACK
+material "metal_bord01" not found.
+Material not found!: METAL_BORD01
+material "silo2_brd1a" not found.
+Material not found!: SILO2_BRD1A
+material "sign46" not found.
+Material not found!: SIGN46
+material "sign10" not found.
+Material not found!: SIGN10
+material "gateblueflr" not found.
+Material not found!: GATEBLUEFLR
+material "c1a4b_w2" not found.
+Material not found!: C1A4B_W2
+material "-0crete2_flr04" not found.
+Material not found!: -0CRETE2_FLR04
+Patching WVT material: maps/ctf_crossover2_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-512.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity func_brush (130.00 2720.00 -80.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+material "+0~generic86r" not found.
+Material not found!: +0~GENERIC86R
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "+0~generic86" not found.
+Material not found!: +0~GENERIC86
+material "+0~generic85" not found.
+Material not found!: +0~GENERIC85
+material "+0~drkmtls2c" not found.
+Material not found!: +0~DRKMTLS2C
+material "lab1_cab2" not found.
+Material not found!: LAB1_CAB2
+material "c1a1c_w2b" not found.
+Material not found!: C1A1C_W2B
+material "black" not found.
+Material not found!: BLACK
+material "metal_bord01" not found.
+Material not found!: METAL_BORD01
+material "silo2_brd1a" not found.
+Material not found!: SILO2_BRD1A
+material "sign46" not found.
+Material not found!: SIGN46
+material "sign10" not found.
+Material not found!: SIGN10
+material "gateblueflr" not found.
+Material not found!: GATEBLUEFLR
+material "c1a4b_w2" not found.
+Material not found!: C1A4B_W2
+material "-0crete2_flr04" not found.
+Material not found!: -0CRETE2_FLR04
+Patching WVT material: maps/ctf_crossover2_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-512.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity trigger_multiple (736.00 1408.00 56.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+Patching WVT material: maps/ctf_crossover2_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-512.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity trigger_multiple (736.00 1408.00 56.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 12 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+Patching WVT material: maps/ctf_crossover2_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-544.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+**** leaked ****
+Entity light_environment (-32.00 -1456.00 464.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 12 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+HashVec: point outside valid range
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+Error opening d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.vmf
+Patching WVT material: maps/ctf_crossover2_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-544.000000, -3072.000000, 95.820335))
+WARNING: BSP node with unbounded volume (material: <NO BRUSH>, near (-351.743011, -3072.359375, 96.000000))
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (256.0 3072.0 -208.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2637: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-870.3 -2048.0 608.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 669: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-848.0 -2848.0 -65.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 71: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-944.0 -2848.0 -65.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 70: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-896.0 -2688.5 -125.8)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 1442: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-896.0 -2656.0 -159.7)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 1442: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-256.0 -3072.0 -208.1)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 1468: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 12 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.prt...Building visibility clusters...
+done (0)
+material "skybox/morningrt" not found.
+Can't load skybox file skybox/morning to build the default cubemap!
+Can't load skybox file skybox/morning to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1025795 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1439 texinfos to 843
+Reduced 98 texdatas to 93 (1457 bytes to 1382)
+Writing d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 485, actual size 405
+2 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.prt
+2505 portalclusters
+7980 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2849 visible clusters (0.73%)
+Total clusters visible: 388200
+Average clusters visible: 154
+Building PAS...
+Average clusters audible: 615
+visdatasize:501554  compressed from 1603200
+writing d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp', but we don't own that location. Allowing.
+1 minute, 6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+7955 faces
+42 degenerate faces
+482074 square feet [69418688.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7913 patches before subdivision
+zero area child patch
+75567 patches after subdivision
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9098085, max 494
+transfer lists:  69.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(28850, 12758, 5582)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3992, 1267, 402)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(634, 161, 40)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(109, 23, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(20, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0159 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  60/1024         2880/49152    ( 5.9%) 
+brushes               2882/8192        34584/98304    (35.2%) 
+brushsides           21136/65536      169088/524288   (32.3%) 
+planes                8178/65536      163560/1310720  (12.5%) 
+vertexes             13900/65536      166800/786432   (21.2%) 
+nodes                 5623/65536      179936/2097152  ( 8.6%) 
+texinfos               843/12288       60696/884736   ( 6.9%) 
+texdata                 93/2048         2976/65536    ( 4.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 7955/65536      445480/3670016  (12.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5486/65536      307216/3670016  ( 8.4%) 
+leaves                5684/65536      181888/2097152  ( 8.7%) 
+leaffaces             9673/65536       19346/131072   (14.8%) 
+leafbrushes           7716/65536       15432/131072   (11.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            60120/512000     240480/2048000  (11.7%) 
+edges                35426/256000     141704/1024000  (13.8%) 
+LDR worldlights          6/8192          528/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            678/32768        6780/327680   ( 2.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10413/65536       20826/131072   (15.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1555552/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      501554/16777216 ( 3.0%) 
+entdata               [variable]       31032/393216   ( 7.9%) 
+LDR ambient table     5684/65536       22736/262144   ( 8.7%) 
+HDR ambient table     5684/65536       22736/262144   ( 8.7%) 
+LDR leaf ambient     10084/65536      282352/1835008  (15.4%) 
+HDR leaf ambient      5684/65536      159152/1835008  ( 8.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]         405/0        ( 0.0%) 
+physics               [variable]     1025795/4194304  (24.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 22087
+Writing d:\documents\mapping\tf2\tf2-maps\crossover2\a1\ctf_crossover2_a1.bsp
+19 seconds elapsed
