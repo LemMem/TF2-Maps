@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8610"
-	"mapversion" "504"
+	"mapversion" "505"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,12 +20,12 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "504"
+	"mapversion" "505"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "sky_nightfall_01"
+	"skyname" "sky_well_01"
 	solid
 	{
 		"id" "62392"
@@ -13264,15 +13264,15 @@ entity
 {
 	"id" "161925"
 	"classname" "light_environment"
-	"_ambient" "90 69 101 15"
+	"_ambient" "142 154 185 200"
 	"_ambientHDR" "-1 -1 -1 1"
 	"_AmbientScaleHDR" "1"
-	"_light" "201 209 220 20"
+	"_light" "248 197 139 500"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
-	"angles" "0 280 0"
-	"pitch" "-60"
-	"SunSpreadAngle" "10"
+	"angles" "0 300 0"
+	"pitch" "-45"
+	"SunSpreadAngle" "1"
 	"origin" "2944 -1152 0"
 	editor
 	{
@@ -13287,8 +13287,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[1691.79 194.447 1271.06]"
-		"look" "[1691.32 193.907 1270.36]"
+		"position" "[1636.28 129.882 1186.51]"
+		"look" "[1635.81 129.343 1185.8]"
 	}
 }
 cordon
