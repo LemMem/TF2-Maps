@@ -1,11 +1,2 @@
-- Mid to open
-- Dark Spot (-1828 -2722 33)
-- Rollout to slow
-- Useless Corner (756 1511 -94)
 - Mark capping area
-- Sightline bad for perforance (-977 -2222 -86)
-- Useless hole (1027 -1329 -109) Extend brush
-- Spawns disconnect for no real reason.
-- Slope to steep
-- Bad step (-1937 -3206 -75)
-- Bad displacement (-603 -47 -76)
+- Make Soundscapes
