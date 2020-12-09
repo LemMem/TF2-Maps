@@ -1,2 +1,7 @@
-- Mark capping area
-- Make Soundscapes
+- Add Soundscapes
+- Point to wide, needs more focus
+- Stand on windows (107 -1247 196)
+- Remove the deadend
+- Heavy is sad
+- Custom stuff isn't packed? (???)
+- Add sign about class warfare

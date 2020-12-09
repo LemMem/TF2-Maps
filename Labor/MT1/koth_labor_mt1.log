@@ -1,0 +1,1077 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.vmf
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/winter/blendgraveltograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1392.00 -880.00 144.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (72995 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 247 texinfos to 124
+Reduced 17 texdatas to 14 (466 bytes to 364)
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1509, actual size 1161
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+No vis information, direct lighting only.
+1650 faces
+1109284 square feet [159736976.00 square inches]
+78 Displacements
+30796 Square Feet [4434729.00 Square Inches]
+40 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0095 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                204/8192         2448/98304    ( 2.5%) 
+brushsides            1238/65536        9904/524288   ( 1.9%) 
+planes                 386/65536        7720/1310720  ( 0.6%) 
+vertexes              2498/65536       29976/786432   ( 3.8%) 
+nodes                  987/65536       31584/2097152  ( 1.5%) 
+texinfos               124/12288        8928/884736   ( 1.0%) 
+texdata                 14/2048          448/65536    ( 0.7%) 
+dispinfos               78/0           13728/0        ( 0.0%) 
+disp_verts            5534/0          110680/0        ( 0.0%) 
+disp_tris             8640/0           17280/0        ( 0.0%) 
+disp_lmsamples       88544/0           88544/0        ( 0.0%) 
+faces                 1650/65536       92400/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              714/65536       39984/3670016  ( 1.1%) 
+leaves                 989/65536       31648/2097152  ( 1.5%) 
+leaffaces             1810/65536        3620/131072   ( 2.8%) 
+leafbrushes            502/65536        1004/131072   ( 0.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10584/512000      42336/2048000  ( 2.1%) 
+edges                 6066/256000      24264/1024000  ( 2.4%) 
+LDR worldlights         40/8192         3520/720896   ( 0.5%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            129/32768        1290/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1893/65536        3786/131072   ( 2.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                30/512         10560/180224   ( 5.9%) 
+LDR lightdata         [variable]     1178328/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       18782/393216   ( 4.8%) 
+LDR ambient table      989/65536        3956/262144   ( 1.5%) 
+HDR ambient table      989/65536        3956/262144   ( 1.5%) 
+LDR leaf ambient      7017/65536      196476/1835008  (10.7%) 
+HDR leaf ambient       989/65536       27692/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6186     ( 0.0%) 
+pakfile               [variable]        1161/0        ( 0.0%) 
+physics               [variable]       72995/4194304  ( 1.7%) 
+physics terrain       [variable]       10744/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 4434
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+13 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.vmf
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/winter/blendgraveltograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (1392.00 -880.00 144.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73568 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 116 texinfos to 60
+Reduced 22 texdatas to 17 (615 bytes to 438)
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1973, actual size 1491
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+No vis information, direct lighting only.
+1678 faces
+1118802 square feet [161107504.00 square inches]
+78 Displacements
+30796 Square Feet [4434729.00 Square Inches]
+50 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                206/8192         2472/98304    ( 2.5%) 
+brushsides            1250/65536       10000/524288   ( 1.9%) 
+planes                 390/65536        7800/1310720  ( 0.6%) 
+vertexes              2531/65536       30372/786432   ( 3.9%) 
+nodes                 1008/65536       32256/2097152  ( 1.5%) 
+texinfos                60/12288        4320/884736   ( 0.5%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos               78/0           13728/0        ( 0.0%) 
+disp_verts            5534/0          110680/0        ( 0.0%) 
+disp_tris             8640/0           17280/0        ( 0.0%) 
+disp_lmsamples       88544/0           88544/0        ( 0.0%) 
+faces                 1678/65536       93968/3670016  ( 2.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              704/65536       39424/3670016  ( 1.1%) 
+leaves                1010/65536       32320/2097152  ( 1.5%) 
+leaffaces             1841/65536        3682/131072   ( 2.8%) 
+leafbrushes            564/65536        1128/131072   ( 0.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges            10686/512000      42744/2048000  ( 2.1%) 
+edges                 6128/256000      24512/1024000  ( 2.4%) 
+LDR worldlights         50/8192         4400/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips            138/32768        1380/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2091/65536        4182/131072   ( 3.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                33/512         11616/180224   ( 6.4%) 
+LDR lightdata         [variable]     1165808/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       22134/393216   ( 5.6%) 
+LDR ambient table     1010/65536        4040/262144   ( 1.5%) 
+HDR ambient table     1010/65536        4040/262144   ( 1.5%) 
+LDR leaf ambient      6979/65536      195412/1835008  (10.6%) 
+HDR leaf ambient      1010/65536       28280/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6942     ( 0.0%) 
+pakfile               [variable]        1491/0        ( 0.0%) 
+physics               [variable]       73568/4194304  ( 1.8%) 
+physics terrain       [variable]       10744/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 4518
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+13 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.vmf
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/winter/blendgraveltograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73568 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 116 texinfos to 60
+Reduced 22 texdatas to 17 (615 bytes to 438)
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1973, actual size 1491
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+ 306 portalclusters
+ 748 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 238 visible clusters (0.72%)
+Total clusters visible: 32970
+Average clusters visible: 107
+Building PAS...
+Average clusters audible: 179
+visdatasize:22521  compressed from 24480
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+1257 faces
+572930 square feet [82501960.00 square inches]
+78 Displacements
+30796 Square Feet [4434729.00 Square Inches]
+1257 patches before subdivision
+52173 patches after subdivision
+50 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4314426, max 384
+transfer lists:  32.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(197318, 202642, 210920)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42816, 40359, 41863)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10609, 9493, 9800)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2781, 2403, 2474)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(751, 632, 650)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(206, 170, 174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(57, 46, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(16, 13, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0116 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                206/8192         2472/98304    ( 2.5%) 
+brushsides            1250/65536       10000/524288   ( 1.9%) 
+planes                 390/65536        7800/1310720  ( 0.6%) 
+vertexes              2066/65536       24792/786432   ( 3.2%) 
+nodes                  691/65536       22112/2097152  ( 1.1%) 
+texinfos                60/12288        4320/884736   ( 0.5%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos               78/0           13728/0        ( 0.0%) 
+disp_verts            5534/0          110680/0        ( 0.0%) 
+disp_tris             8640/0           17280/0        ( 0.0%) 
+disp_lmsamples       88544/0           88544/0        ( 0.0%) 
+faces                 1257/65536       70392/3670016  ( 1.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              605/65536       33880/3670016  ( 0.9%) 
+leaves                 693/65536       22176/2097152  ( 1.1%) 
+leaffaces             1333/65536        2666/131072   ( 2.0%) 
+leafbrushes            588/65536        1176/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8295/512000      33180/2048000  ( 1.6%) 
+edges                 4846/256000      19384/1024000  ( 1.9%) 
+LDR worldlights         50/8192         4400/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             97/32768         970/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1416/65536        2832/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                33/512         11616/180224   ( 6.4%) 
+LDR lightdata         [variable]      988260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       22521/16777216 ( 0.1%) 
+entdata               [variable]       22122/393216   ( 5.6%) 
+LDR ambient table      693/65536        2772/262144   ( 1.1%) 
+HDR ambient table      693/65536        2772/262144   ( 1.1%) 
+LDR leaf ambient      4000/65536      112000/1835008  ( 6.1%) 
+HDR leaf ambient       693/65536       19404/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6946     ( 0.0%) 
+pakfile               [variable]        1491/0        ( 0.0%) 
+physics               [variable]       73568/4194304  ( 1.8%) 
+physics terrain       [variable]       10744/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 3363
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+10 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.vmf
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/winter/blendgraveltograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73568 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 116 texinfos to 60
+Reduced 22 texdatas to 17 (599 bytes to 430)
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1949, actual size 1467
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+ 306 portalclusters
+ 748 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 238 visible clusters (0.72%)
+Total clusters visible: 32970
+Average clusters visible: 107
+Building PAS...
+Average clusters audible: 179
+visdatasize:22521  compressed from 24480
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+1257 faces
+572930 square feet [82501960.00 square inches]
+78 Displacements
+30796 Square Feet [4434729.00 Square Inches]
+1257 patches before subdivision
+52173 patches after subdivision
+50 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4314426, max 384
+transfer lists:  32.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(197318, 202643, 210921)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42816, 40359, 41863)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10609, 9493, 9800)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2781, 2403, 2474)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(751, 632, 650)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(206, 170, 174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(57, 46, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(16, 13, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0110 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                206/8192         2472/98304    ( 2.5%) 
+brushsides            1250/65536       10000/524288   ( 1.9%) 
+planes                 390/65536        7800/1310720  ( 0.6%) 
+vertexes              2066/65536       24792/786432   ( 3.2%) 
+nodes                  691/65536       22112/2097152  ( 1.1%) 
+texinfos                60/12288        4320/884736   ( 0.5%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos               78/0           13728/0        ( 0.0%) 
+disp_verts            5534/0          110680/0        ( 0.0%) 
+disp_tris             8640/0           17280/0        ( 0.0%) 
+disp_lmsamples       88544/0           88544/0        ( 0.0%) 
+faces                 1257/65536       70392/3670016  ( 1.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              605/65536       33880/3670016  ( 0.9%) 
+leaves                 693/65536       22176/2097152  ( 1.1%) 
+leaffaces             1333/65536        2666/131072   ( 2.0%) 
+leafbrushes            588/65536        1176/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8295/512000      33180/2048000  ( 1.6%) 
+edges                 4846/256000      19384/1024000  ( 1.9%) 
+LDR worldlights         50/8192         4400/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             97/32768         970/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1416/65536        2832/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                33/512         11616/180224   ( 6.4%) 
+LDR lightdata         [variable]      988260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       22521/16777216 ( 0.1%) 
+entdata               [variable]       22122/393216   ( 5.6%) 
+LDR ambient table      693/65536        2772/262144   ( 1.1%) 
+HDR ambient table      693/65536        2772/262144   ( 1.1%) 
+LDR leaf ambient      4000/65536      112000/1835008  ( 6.1%) 
+HDR leaf ambient       693/65536       19404/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6946     ( 0.0%) 
+pakfile               [variable]        1467/0        ( 0.0%) 
+physics               [variable]       73568/4194304  ( 1.8%) 
+physics terrain       [variable]       10744/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 3363
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+10 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.vmf
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/winter/blendgraveltograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (73568 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 116 texinfos to 60
+Reduced 22 texdatas to 17 (592 bytes to 426)
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1940, actual size 1458
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+ 306 portalclusters
+ 748 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 239 visible clusters (0.72%)
+Total clusters visible: 32971
+Average clusters visible: 107
+Building PAS...
+Average clusters audible: 179
+visdatasize:22521  compressed from 24480
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+1257 faces
+572930 square feet [82501960.00 square inches]
+78 Displacements
+30796 Square Feet [4434729.00 Square Inches]
+1257 patches before subdivision
+52173 patches after subdivision
+50 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4314426, max 384
+transfer lists:  32.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(197318, 202642, 210920)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42816, 40359, 41863)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10609, 9493, 9800)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2781, 2403, 2474)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(751, 632, 650)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(206, 170, 174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(57, 46, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(16, 13, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0112 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                206/8192         2472/98304    ( 2.5%) 
+brushsides            1250/65536       10000/524288   ( 1.9%) 
+planes                 390/65536        7800/1310720  ( 0.6%) 
+vertexes              2066/65536       24792/786432   ( 3.2%) 
+nodes                  691/65536       22112/2097152  ( 1.1%) 
+texinfos                60/12288        4320/884736   ( 0.5%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos               78/0           13728/0        ( 0.0%) 
+disp_verts            5534/0          110680/0        ( 0.0%) 
+disp_tris             8640/0           17280/0        ( 0.0%) 
+disp_lmsamples       88544/0           88544/0        ( 0.0%) 
+faces                 1257/65536       70392/3670016  ( 1.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              605/65536       33880/3670016  ( 0.9%) 
+leaves                 693/65536       22176/2097152  ( 1.1%) 
+leaffaces             1333/65536        2666/131072   ( 2.0%) 
+leafbrushes            588/65536        1176/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8295/512000      33180/2048000  ( 1.6%) 
+edges                 4846/256000      19384/1024000  ( 1.9%) 
+LDR worldlights         50/8192         4400/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             97/32768         970/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1416/65536        2832/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                33/512         11616/180224   ( 6.4%) 
+LDR lightdata         [variable]      988260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       22521/16777216 ( 0.1%) 
+entdata               [variable]       22122/393216   ( 5.6%) 
+LDR ambient table      693/65536        2772/262144   ( 1.1%) 
+HDR ambient table      693/65536        2772/262144   ( 1.1%) 
+LDR leaf ambient      4000/65536      112000/1835008  ( 6.1%) 
+HDR leaf ambient       693/65536       19404/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6946     ( 0.0%) 
+pakfile               [variable]        1458/0        ( 0.0%) 
+physics               [variable]       73568/4194304  ( 1.8%) 
+physics terrain       [variable]       10744/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 3363
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+11 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.vmf
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/winter/blendgraveltograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74124 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 119 texinfos to 63
+Reduced 23 texdatas to 18 (634 bytes to 457)
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1973, actual size 1491
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+ 306 portalclusters
+ 748 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 238 visible clusters (0.72%)
+Total clusters visible: 32970
+Average clusters visible: 107
+Building PAS...
+Average clusters audible: 179
+visdatasize:22521  compressed from 24480
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+1263 faces
+577876 square feet [83214152.00 square inches]
+78 Displacements
+30796 Square Feet [4434729.00 Square Inches]
+1263 patches before subdivision
+52179 patches after subdivision
+50 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4315498, max 384
+transfer lists:  32.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(197379, 202713, 210994)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42840, 40385, 41889)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10618, 9502, 9809)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2784, 2406, 2477)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(752, 633, 651)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(206, 170, 174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(57, 46, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(16, 13, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0113 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                207/8192         2484/98304    ( 2.5%) 
+brushsides            1256/65536       10048/524288   ( 1.9%) 
+planes                 398/65536        7960/1310720  ( 0.6%) 
+vertexes              2074/65536       24888/786432   ( 3.2%) 
+nodes                  697/65536       22304/2097152  ( 1.1%) 
+texinfos                63/12288        4536/884736   ( 0.5%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos               78/0           13728/0        ( 0.0%) 
+disp_verts            5534/0          110680/0        ( 0.0%) 
+disp_tris             8640/0           17280/0        ( 0.0%) 
+disp_lmsamples       88544/0           88544/0        ( 0.0%) 
+faces                 1263/65536       70728/3670016  ( 1.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              611/65536       34216/3670016  ( 0.9%) 
+leaves                 700/65536       22400/2097152  ( 1.1%) 
+leaffaces             1339/65536        2678/131072   ( 2.0%) 
+leafbrushes            589/65536        1178/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8343/512000      33372/2048000  ( 1.6%) 
+edges                 4870/256000      19480/1024000  ( 1.9%) 
+LDR worldlights         50/8192         4400/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             97/32768         970/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1416/65536        2832/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                33/512         11616/180224   ( 6.4%) 
+LDR lightdata         [variable]      988260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       22521/16777216 ( 0.1%) 
+entdata               [variable]       23930/393216   ( 6.1%) 
+LDR ambient table      700/65536        2800/262144   ( 1.1%) 
+HDR ambient table      700/65536        2800/262144   ( 1.1%) 
+LDR leaf ambient      4051/65536      113428/1835008  ( 6.2%) 
+HDR leaf ambient       700/65536       19600/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6946     ( 0.0%) 
+pakfile               [variable]        1491/0        ( 0.0%) 
+physics               [variable]       74124/4194304  ( 1.8%) 
+physics terrain       [variable]       10744/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 3375
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+12 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.vmf
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/winter/blendgraveltograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74124 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 119 texinfos to 63
+Reduced 23 texdatas to 18 (634 bytes to 457)
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1973, actual size 1491
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+ 306 portalclusters
+ 748 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 238 visible clusters (0.72%)
+Total clusters visible: 32970
+Average clusters visible: 107
+Building PAS...
+Average clusters audible: 179
+visdatasize:22521  compressed from 24480
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+1263 faces
+577876 square feet [83214152.00 square inches]
+78 Displacements
+30796 Square Feet [4434729.00 Square Inches]
+1263 patches before subdivision
+52179 patches after subdivision
+50 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4315498, max 384
+transfer lists:  32.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(197379, 202713, 210994)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42840, 40385, 41889)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10618, 9502, 9809)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2784, 2406, 2477)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(752, 633, 651)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(206, 170, 174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(57, 46, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(16, 13, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0112 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                207/8192         2484/98304    ( 2.5%) 
+brushsides            1256/65536       10048/524288   ( 1.9%) 
+planes                 398/65536        7960/1310720  ( 0.6%) 
+vertexes              2074/65536       24888/786432   ( 3.2%) 
+nodes                  697/65536       22304/2097152  ( 1.1%) 
+texinfos                63/12288        4536/884736   ( 0.5%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos               78/0           13728/0        ( 0.0%) 
+disp_verts            5534/0          110680/0        ( 0.0%) 
+disp_tris             8640/0           17280/0        ( 0.0%) 
+disp_lmsamples       88544/0           88544/0        ( 0.0%) 
+faces                 1263/65536       70728/3670016  ( 1.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              611/65536       34216/3670016  ( 0.9%) 
+leaves                 700/65536       22400/2097152  ( 1.1%) 
+leaffaces             1339/65536        2678/131072   ( 2.0%) 
+leafbrushes            589/65536        1178/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8343/512000      33372/2048000  ( 1.6%) 
+edges                 4870/256000      19480/1024000  ( 1.9%) 
+LDR worldlights         50/8192         4400/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             97/32768         970/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1416/65536        2832/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                33/512         11616/180224   ( 6.4%) 
+LDR lightdata         [variable]      988260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       22521/16777216 ( 0.1%) 
+entdata               [variable]       23930/393216   ( 6.1%) 
+LDR ambient table      700/65536        2800/262144   ( 1.1%) 
+HDR ambient table      700/65536        2800/262144   ( 1.1%) 
+LDR leaf ambient      4051/65536      113428/1835008  ( 6.2%) 
+HDR leaf ambient       700/65536       19600/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6946     ( 0.0%) 
+pakfile               [variable]        1491/0        ( 0.0%) 
+physics               [variable]       74124/4194304  ( 1.8%) 
+physics terrain       [variable]       10744/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 3375
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+11 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\Mapping\tf2\TF2-Maps\Labor\MT1\koth_labor_mt1.vmf
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/winter/blendgraveltograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\Mapping\tf2\TF2-Maps\Labor\MT1\koth_labor_mt1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74124 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 119 texinfos to 63
+Reduced 23 texdatas to 18 (634 bytes to 457)
+Writing D:\Documents\Mapping\tf2\TF2-Maps\Labor\MT1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\Mapping\tf2\TF2-Maps\Labor\MT1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1973, actual size 1491
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+ 306 portalclusters
+ 748 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 238 visible clusters (0.72%)
+Total clusters visible: 32970
+Average clusters visible: 107
+Building PAS...
+Average clusters audible: 179
+visdatasize:22521  compressed from 24480
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+1263 faces
+577876 square feet [83214152.00 square inches]
+78 Displacements
+30796 Square Feet [4434729.00 Square Inches]
+1263 patches before subdivision
+52179 patches after subdivision
+50 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4314868, max 384
+transfer lists:  32.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(197262, 202581, 210845)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42822, 40368, 41869)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10615, 9500, 9806)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2783, 2405, 2477)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(752, 633, 651)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(206, 170, 174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(57, 46, 47)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(16, 13, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0180 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                207/8192         2484/98304    ( 2.5%) 
+brushsides            1256/65536       10048/524288   ( 1.9%) 
+planes                 398/65536        7960/1310720  ( 0.6%) 
+vertexes              2074/65536       24888/786432   ( 3.2%) 
+nodes                  697/65536       22304/2097152  ( 1.1%) 
+texinfos                63/12288        4536/884736   ( 0.5%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos               78/0           13728/0        ( 0.0%) 
+disp_verts            5534/0          110680/0        ( 0.0%) 
+disp_tris             8640/0           17280/0        ( 0.0%) 
+disp_lmsamples       88544/0           88544/0        ( 0.0%) 
+faces                 1263/65536       70728/3670016  ( 1.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              611/65536       34216/3670016  ( 0.9%) 
+leaves                 700/65536       22400/2097152  ( 1.1%) 
+leaffaces             1339/65536        2678/131072   ( 2.0%) 
+leafbrushes            589/65536        1178/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8343/512000      33372/2048000  ( 1.6%) 
+edges                 4870/256000      19480/1024000  ( 1.9%) 
+LDR worldlights         50/8192         4400/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips             97/32768         970/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1416/65536        2832/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                35/512         12320/180224   ( 6.8%) 
+LDR lightdata         [variable]      988260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       22521/16777216 ( 0.1%) 
+entdata               [variable]       24700/393216   ( 6.3%) 
+LDR ambient table      700/65536        2800/262144   ( 1.1%) 
+HDR ambient table      700/65536        2800/262144   ( 1.1%) 
+LDR leaf ambient      4041/65536      113148/1835008  ( 6.2%) 
+HDR leaf ambient       700/65536       19600/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6946     ( 0.0%) 
+pakfile               [variable]      351843/0        ( 0.0%) 
+physics               [variable]       74124/4194304  ( 1.8%) 
+physics terrain       [variable]       10744/1048576  ( 1.0%) 
+
+Level flags = 1
+
+Total triangle count: 3375
+Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+1 minute, 12 seconds elapsed
