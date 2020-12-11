@@ -1075,3 +1075,72 @@ Level flags = 1
 Total triangle count: 3375
 Writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
 1 minute, 12 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\Mapping\tf2\TF2-Maps\Labor\MT1\koth_labor_mt1.vmf
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/koth_labor_mt1/winter/blendgraveltograss002_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\Mapping\tf2\TF2-Maps\Labor\MT1\koth_labor_mt1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_alpinestorm_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_alpinestorm_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (74124 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 119 texinfos to 63
+Reduced 23 texdatas to 18 (634 bytes to 457)
+Writing D:\Documents\Mapping\tf2\TF2-Maps\Labor\MT1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\Mapping\tf2\TF2-Maps\Labor\MT1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1973, actual size 1491
+1 second elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.prt
+ 306 portalclusters
+ 748 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 240 visible clusters (0.73%)
+Total clusters visible: 32972
+Average clusters visible: 107
+Building PAS...
+Average clusters audible: 179
+visdatasize:22521  compressed from 24480
+writing d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\labor\mt1\koth_labor_mt1.bsp
+1263 faces
+577876 square feet [83214152.00 square inches]
+78 Displacements
+30796 Square Feet [4434729.00 Square Inches]
+1263 patches before subdivision
+52179 patches after subdivision
+50 direct lights
+0...1...2...3...4
