@@ -2154,3 +2154,969 @@ Level flags = 0
 Total triangle count: 7536
 Writing c:\users\liam\documents\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
 16 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.vmf
+Patching WVT material: maps/cp_snowtown_a1/nature/blendsnowtocobble001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (180662 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 254 texinfos to 186
+Reduced 12 texdatas to 11 (311 bytes to 253)
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 643, actual size 563
+1 second elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt
+ 594 portalclusters
+1735 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2325 visible clusters (1.26%)
+Total clusters visible: 184786
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 591
+visdatasize:91543  compressed from 95040
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+29 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+2702 faces
+636921 square feet [91716632.00 square inches]
+52 Displacements
+23749 Square Feet [3419884.00 Square Inches]
+2702 patches before subdivision
+43124 patches after subdivision
+26 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2524081, max 423
+transfer lists:  19.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(144194, 58115, 18893)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30113, 5561, 494)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7252, 645, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1844, 76, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(485, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(129, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0083 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                504/8192         6048/98304    ( 6.2%) 
+brushsides            4019/65536       32152/524288   ( 6.1%) 
+planes                2544/65536       50880/1310720  ( 3.9%) 
+vertexes              3540/65536       42480/786432   ( 5.4%) 
+nodes                 1213/65536       38816/2097152  ( 1.9%) 
+texinfos               186/12288       13392/884736   ( 1.5%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos               52/0            9152/0        ( 0.0%) 
+disp_verts            4212/0           84240/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples       67392/0           67392/0        ( 0.0%) 
+faces                 2702/65536      151312/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1812/65536      101472/3670016  ( 2.8%) 
+leaves                1221/65536       39072/2097152  ( 1.9%) 
+leaffaces             3642/65536        7284/131072   ( 5.6%) 
+leafbrushes           1112/65536        2224/131072   ( 1.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            20064/512000      80256/2048000  ( 3.9%) 
+edges                11402/256000      45608/1024000  ( 4.5%) 
+LDR worldlights         26/8192         2288/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            264/32768        2640/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4878/65536        9756/131072   ( 7.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     1380564/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       91543/16777216 ( 0.5%) 
+entdata               [variable]       18810/393216   ( 4.8%) 
+LDR ambient table     1221/65536        4884/262144   ( 1.9%) 
+HDR ambient table     1221/65536        4884/262144   ( 1.9%) 
+LDR leaf ambient      6666/65536      186648/1835008  (10.2%) 
+HDR leaf ambient      1221/65536       34188/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9628     ( 0.0%) 
+pakfile               [variable]         563/0        ( 0.0%) 
+physics               [variable]      180662/4194304  ( 4.3%) 
+physics terrain       [variable]       11942/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 7536
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+13 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.vmf
+Patching WVT material: maps/cp_snowtown_a1/nature/blendsnowtocobble001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (180662 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 254 texinfos to 186
+Reduced 12 texdatas to 11 (311 bytes to 253)
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 643, actual size 563
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt
+ 594 portalclusters
+1735 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2325 visible clusters (1.26%)
+Total clusters visible: 184786
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 591
+visdatasize:91543  compressed from 95040
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+32 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+2702 faces
+636921 square feet [91716632.00 square inches]
+52 Displacements
+23749 Square Feet [3419884.00 Square Inches]
+2702 patches before subdivision
+43124 patches after subdivision
+26 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2524081, max 423
+transfer lists:  19.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(144195, 58115, 18893)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(30113, 5561, 494)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7252, 645, 25)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1844, 76, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(485, 9, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(129, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0082 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                504/8192         6048/98304    ( 6.2%) 
+brushsides            4019/65536       32152/524288   ( 6.1%) 
+planes                2544/65536       50880/1310720  ( 3.9%) 
+vertexes              3540/65536       42480/786432   ( 5.4%) 
+nodes                 1213/65536       38816/2097152  ( 1.9%) 
+texinfos               186/12288       13392/884736   ( 1.5%) 
+texdata                 11/2048          352/65536    ( 0.5%) 
+dispinfos               52/0            9152/0        ( 0.0%) 
+disp_verts            4212/0           84240/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples       67392/0           67392/0        ( 0.0%) 
+faces                 2702/65536      151312/3670016  ( 4.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1812/65536      101472/3670016  ( 2.8%) 
+leaves                1221/65536       39072/2097152  ( 1.9%) 
+leaffaces             3642/65536        7284/131072   ( 5.6%) 
+leafbrushes           1112/65536        2224/131072   ( 1.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            20064/512000      80256/2048000  ( 3.9%) 
+edges                11402/256000      45608/1024000  ( 4.5%) 
+LDR worldlights         26/8192         2288/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            264/32768        2640/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4878/65536        9756/131072   ( 7.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     1380564/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       91543/16777216 ( 0.5%) 
+entdata               [variable]       18810/393216   ( 4.8%) 
+LDR ambient table     1221/65536        4884/262144   ( 1.9%) 
+HDR ambient table     1221/65536        4884/262144   ( 1.9%) 
+LDR leaf ambient      6666/65536      186648/1835008  (10.2%) 
+HDR leaf ambient      1221/65536       34188/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/9628     ( 0.0%) 
+pakfile               [variable]         563/0        ( 0.0%) 
+physics               [variable]      180662/4194304  ( 4.3%) 
+physics terrain       [variable]       11942/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 7536
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+14 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.vmf
+Patching WVT material: maps/cp_snowtown_a1/nature/blendsnowtocobble001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (182409 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 262 texinfos to 191
+Reduced 13 texdatas to 13 (345 bytes to 345)
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 643, actual size 563
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt
+ 597 portalclusters
+1738 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2254 visible clusters (1.21%)
+Total clusters visible: 185710
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 594
+visdatasize:91860  compressed from 95520
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+32 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+2753 faces
+657180 square feet [94634008.00 square inches]
+52 Displacements
+23749 Square Feet [3419884.00 Square Inches]
+2753 patches before subdivision
+47023 patches after subdivision
+26 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2731976, max 423
+transfer lists:  20.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(157003, 66049, 24084)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(31226, 5998, 619)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7357, 677, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1852, 78, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(484, 10, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(129, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                509/8192         6108/98304    ( 6.2%) 
+brushsides            4049/65536       32392/524288   ( 6.2%) 
+planes                2550/65536       51000/1310720  ( 3.9%) 
+vertexes              3607/65536       43284/786432   ( 5.5%) 
+nodes                 1226/65536       39232/2097152  ( 1.9%) 
+texinfos               191/12288       13752/884736   ( 1.6%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos               52/0            9152/0        ( 0.0%) 
+disp_verts            4212/0           84240/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples       67392/0           67392/0        ( 0.0%) 
+faces                 2753/65536      154168/3670016  ( 4.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1829/65536      102424/3670016  ( 2.8%) 
+leaves                1234/65536       39488/2097152  ( 1.9%) 
+leaffaces             3728/65536        7456/131072   ( 5.7%) 
+leafbrushes           1123/65536        2246/131072   ( 1.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            20382/512000      81528/2048000  ( 4.0%) 
+edges                11579/256000      46316/1024000  ( 4.5%) 
+LDR worldlights         26/8192         2288/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            272/32768        2720/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5001/65536       10002/131072   ( 7.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     1598392/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       91860/16777216 ( 0.5%) 
+entdata               [variable]       18810/393216   ( 4.8%) 
+LDR ambient table     1234/65536        4936/262144   ( 1.9%) 
+HDR ambient table     1234/65536        4936/262144   ( 1.9%) 
+LDR leaf ambient      6703/65536      187684/1835008  (10.2%) 
+HDR leaf ambient      1234/65536       34552/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/10146    ( 0.0%) 
+pakfile               [variable]         563/0        ( 0.0%) 
+physics               [variable]      182409/4194304  ( 4.3%) 
+physics terrain       [variable]       11942/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 7684
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+15 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.vmf
+Patching WVT material: maps/cp_snowtown_a1/nature/blendsnowtocobble001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (186297 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 276 texinfos to 204
+Reduced 15 texdatas to 15 (394 bytes to 394)
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 643, actual size 563
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt
+ 624 portalclusters
+1782 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2070 visible clusters (1.07%)
+Total clusters visible: 192711
+Average clusters visible: 308
+Building PAS...
+Average clusters audible: 622
+visdatasize:99559  compressed from 99840
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+24 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+2845 faces
+638032 square feet [91876744.00 square inches]
+52 Displacements
+23749 Square Feet [3419884.00 Square Inches]
+2845 patches before subdivision
+50537 patches after subdivision
+26 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2943207, max 425
+transfer lists:  22.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(170725, 74310, 29180)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(33181, 6869, 1007)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(7621, 772, 62)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1893, 89, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(491, 11, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(130, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(35, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0096 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                517/8192         6204/98304    ( 6.3%) 
+brushsides            4119/65536       32952/524288   ( 6.3%) 
+planes                2622/65536       52440/1310720  ( 4.0%) 
+vertexes              3765/65536       45180/786432   ( 5.7%) 
+nodes                 1262/65536       40384/2097152  ( 1.9%) 
+texinfos               204/12288       14688/884736   ( 1.7%) 
+texdata                 15/2048          480/65536    ( 0.7%) 
+dispinfos               52/0            9152/0        ( 0.0%) 
+disp_verts            4212/0           84240/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples       67392/0           67392/0        ( 0.0%) 
+faces                 2845/65536      159320/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1871/65536      104776/3670016  ( 2.9%) 
+leaves                1270/65536       40640/2097152  ( 1.9%) 
+leaffaces             3856/65536        7712/131072   ( 5.9%) 
+leafbrushes           1155/65536        2310/131072   ( 1.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            21004/512000      84016/2048000  ( 4.1%) 
+edges                11917/256000      47668/1024000  ( 4.7%) 
+LDR worldlights         26/8192         2288/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            286/32768        2860/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5199/65536       10398/131072   ( 7.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     1753160/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       99559/16777216 ( 0.6%) 
+entdata               [variable]       18810/393216   ( 4.8%) 
+LDR ambient table     1270/65536        5080/262144   ( 1.9%) 
+HDR ambient table     1270/65536        5080/262144   ( 1.9%) 
+LDR leaf ambient      7042/65536      197176/1835008  (10.7%) 
+HDR leaf ambient      1270/65536       35560/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/10350    ( 0.0%) 
+pakfile               [variable]         563/0        ( 0.0%) 
+physics               [variable]      186297/4194304  ( 4.4%) 
+physics terrain       [variable]       11942/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 7946
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+14 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.vmf
+Patching WVT material: maps/cp_snowtown_a1/nature/blendsnowtocobble001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (196971 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 326 texinfos to 236
+Reduced 17 texdatas to 17 (441 bytes to 441)
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 643, actual size 563
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt
+ 683 portalclusters
+1955 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3166 visible clusters (1.40%)
+Total clusters visible: 225616
+Average clusters visible: 330
+Building PAS...
+Average clusters audible: 681
+visdatasize:119001  compressed from 120208
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+32 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+3190 faces
+725200 square feet [104428840.00 square inches]
+52 Displacements
+23749 Square Feet [3419884.00 Square Inches]
+3190 patches before subdivision
+65526 patches after subdivision
+26 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 4555843, max 575
+transfer lists:  34.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(247108, 114079, 52425)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(46586, 11662, 3058)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(10374, 1437, 255)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2431, 180, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(600, 24, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(152, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(10, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0131 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                545/8192         6540/98304    ( 6.7%) 
+brushsides            4297/65536       34376/524288   ( 6.6%) 
+planes                2712/65536       54240/1310720  ( 4.1%) 
+vertexes              4224/65536       50688/786432   ( 6.4%) 
+nodes                 1408/65536       45056/2097152  ( 2.1%) 
+texinfos               236/12288       16992/884736   ( 1.9%) 
+texdata                 17/2048          544/65536    ( 0.8%) 
+dispinfos               52/0            9152/0        ( 0.0%) 
+disp_verts            4212/0           84240/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples       67392/0           67392/0        ( 0.0%) 
+faces                 3190/65536      178640/3670016  ( 4.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1970/65536      110320/3670016  ( 3.0%) 
+leaves                1420/65536       45440/2097152  ( 2.2%) 
+leaffaces             4231/65536        8462/131072   ( 6.5%) 
+leafbrushes           1237/65536        2474/131072   ( 1.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            22989/512000      91956/2048000  ( 4.5%) 
+edges                12991/256000      51964/1024000  ( 5.1%) 
+LDR worldlights         26/8192         2288/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            308/32768        3080/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5520/65536       11040/131072   ( 8.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     2248852/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      119001/16777216 ( 0.7%) 
+entdata               [variable]       21431/393216   ( 5.5%) 
+LDR ambient table     1420/65536        5680/262144   ( 2.2%) 
+HDR ambient table     1420/65536        5680/262144   ( 2.2%) 
+LDR leaf ambient      7924/65536      221872/1835008  (12.1%) 
+HDR leaf ambient      1420/65536       39760/1835008  ( 2.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/11860    ( 0.0%) 
+pakfile               [variable]         563/0        ( 0.0%) 
+physics               [variable]      196971/4194304  ( 4.7%) 
+physics terrain       [variable]       11942/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 8845
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+18 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.vmf
+Patching WVT material: maps/cp_snowtown_a1/nature/blendsnowtocobble001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (226433 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 407 texinfos to 298
+Reduced 16 texdatas to 16 (419 bytes to 419)
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 643, actual size 563
+1 second elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt
+ 886 portalclusters
+2492 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5464 visible clusters (1.79%)
+Total clusters visible: 305091
+Average clusters visible: 344
+Building PAS...
+Average clusters audible: 872
+visdatasize:189740  compressed from 198464
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+1 minute, 16 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+4016 faces
+1023316 square feet [147357520.00 square inches]
+52 Displacements
+23749 Square Feet [3419860.50 Square Inches]
+4016 patches before subdivision
+96800 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7054124, max 612
+transfer lists:  53.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(333927, 152000, 73538)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(64056, 15837, 5038)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14038, 1921, 473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3286, 241, 51)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(806, 32, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(203, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(52, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0214 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                628/8192         7536/98304    ( 7.7%) 
+brushsides            4865/65536       38920/524288   ( 7.4%) 
+planes                2938/65536       58760/1310720  ( 4.5%) 
+vertexes              5376/65536       64512/786432   ( 8.2%) 
+nodes                 1778/65536       56896/2097152  ( 2.7%) 
+texinfos               298/12288       21456/884736   ( 2.4%) 
+texdata                 16/2048          512/65536    ( 0.8%) 
+dispinfos               52/0            9152/0        ( 0.0%) 
+disp_verts            4212/0           84240/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples       66816/0           66816/0        ( 0.0%) 
+faces                 4016/65536      224896/3670016  ( 6.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2202/65536      123312/3670016  ( 3.4%) 
+leaves                1786/65536       57152/2097152  ( 2.7%) 
+leaffaces             5237/65536       10474/131072   ( 8.0%) 
+leafbrushes           1484/65536        2968/131072   ( 2.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            27826/512000     111304/2048000  ( 5.4%) 
+edges                15695/256000      62780/1024000  ( 6.1%) 
+LDR worldlights         58/8192         5104/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            407/32768        4070/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7047/65536       14094/131072   (10.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 4/512          1408/180224   ( 0.8%) 
+LDR lightdata         [variable]     3499960/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      189740/16777216 ( 1.1%) 
+entdata               [variable]       39941/393216   (10.2%) 
+LDR ambient table     1786/65536        7144/262144   ( 2.7%) 
+HDR ambient table     1786/65536        7144/262144   ( 2.7%) 
+LDR leaf ambient      9946/65536      278488/1835008  (15.2%) 
+HDR leaf ambient      1786/65536       50008/1835008  ( 2.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16872    ( 0.0%) 
+pakfile               [variable]         563/0        ( 0.0%) 
+physics               [variable]      226433/4194304  ( 5.4%) 
+physics terrain       [variable]       11914/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 11102
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+30 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.vmf
+Patching WVT material: maps/cp_snowtown_a1/nature/blendsnowtocobble001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 100 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_well_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_well_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (247762 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 475 texinfos to 315
+Reduced 19 texdatas to 19 (473 bytes to 473)
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 643, actual size 563
+1 second elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.prt
+ 894 portalclusters
+2512 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5155 visible clusters (1.74%)
+Total clusters visible: 296742
+Average clusters visible: 331
+Building PAS...
+Average clusters audible: 878
+visdatasize:190843  compressed from 200256
+writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp', but we don't own that location. Allowing.
+59 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+4062 faces
+976813 square feet [140661088.00 square inches]
+52 Displacements
+23749 Square Feet [3419860.50 Square Inches]
+4062 patches before subdivision
+95674 patches after subdivision
+59 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6876141, max 619
+transfer lists:  52.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(329315, 147485, 68114)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(63606, 15436, 4600)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14023, 1901, 448)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3290, 241, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(808, 32, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(203, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(52, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(14, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0238 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                658/8192         7896/98304    ( 8.0%) 
+brushsides            5080/65536       40640/524288   ( 7.8%) 
+planes                3064/65536       61280/1310720  ( 4.7%) 
+vertexes              5443/65536       65316/786432   ( 8.3%) 
+nodes                 1816/65536       58112/2097152  ( 2.8%) 
+texinfos               315/12288       22680/884736   ( 2.6%) 
+texdata                 19/2048          608/65536    ( 0.9%) 
+dispinfos               52/0            9152/0        ( 0.0%) 
+disp_verts            4212/0           84240/0        ( 0.0%) 
+disp_tris             6656/0           13312/0        ( 0.0%) 
+disp_lmsamples       66816/0           66816/0        ( 0.0%) 
+faces                 4062/65536      227472/3670016  ( 6.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2238/65536      125328/3670016  ( 3.4%) 
+leaves                1828/65536       58496/2097152  ( 2.8%) 
+leaffaces             5296/65536       10592/131072   ( 8.1%) 
+leafbrushes           1795/65536        3590/131072   ( 2.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            28201/512000     112804/2048000  ( 5.5%) 
+edges                15877/256000      63508/1024000  ( 6.2%) 
+LDR worldlights         58/8192         5104/720896   ( 0.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            409/32768        4090/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7155/65536       14310/131072   (10.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                14/512          4928/180224   ( 2.7%) 
+LDR lightdata         [variable]     3519724/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      190843/16777216 ( 1.1%) 
+entdata               [variable]       43711/393216   (11.1%) 
+LDR ambient table     1828/65536        7312/262144   ( 2.8%) 
+HDR ambient table     1828/65536        7312/262144   ( 2.8%) 
+LDR leaf ambient     10107/65536      282996/1835008  (15.4%) 
+HDR leaf ambient      1828/65536       51184/1835008  ( 2.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/17140    ( 0.0%) 
+pakfile               [variable]         563/0        ( 0.0%) 
+physics               [variable]      247762/4194304  ( 5.9%) 
+physics terrain       [variable]       11914/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 11241
+Writing d:\documents\mapping\tf2\tf2-maps\snowtown\a1\cp_snowtown_a1.bsp
+30 seconds elapsed
