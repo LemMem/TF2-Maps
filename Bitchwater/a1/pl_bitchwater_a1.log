@@ -1158,3 +1158,257 @@ Level flags = 0
 Total triangle count: 1012
 Writing c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
 1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.vmf
+Patching WVT material: maps/pl_bitchwater_a1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/pl_bitchwater_a1/autumnal/blend/echoeblend001_wvt_patch
+Patching WVT material: maps/pl_bitchwater_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (34054 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 64 texinfos to 40
+Reduced 16 texdatas to 13 (478 bytes to 374)
+Writing c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1663, actual size 1315
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+reading c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.prt
+ 170 portalclusters
+ 487 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 361 visible clusters (1.36%)
+Total clusters visible: 26525
+Average clusters visible: 156
+Building PAS...
+Average clusters audible: 170
+visdatasize:8868  compressed from 8160
+writing c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+615 faces
+611584 square feet [88068152.00 square inches]
+34 Displacements
+15490 Square Feet [2230687.25 Square Inches]
+615 patches before subdivision
+25821 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 675515, max 319
+transfer lists:   5.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0074 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                 93/8192         1116/98304    ( 1.1%) 
+brushsides             572/65536        4576/524288   ( 0.9%) 
+planes                 316/65536        6320/1310720  ( 0.5%) 
+vertexes               937/65536       11244/786432   ( 1.4%) 
+nodes                  441/65536       14112/2097152  ( 0.7%) 
+texinfos                40/12288        2880/884736   ( 0.3%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos               34/0            5984/0        ( 0.0%) 
+disp_verts            2754/0           55080/0        ( 0.0%) 
+disp_tris             4352/0            8704/0        ( 0.0%) 
+disp_lmsamples       44064/0           44064/0        ( 0.0%) 
+faces                  615/65536       34440/3670016  ( 0.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              310/65536       17360/3670016  ( 0.5%) 
+leaves                 449/65536       14368/2097152  ( 0.7%) 
+leaffaces              636/65536        1272/131072   ( 1.0%) 
+leafbrushes            268/65536         536/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4111/512000      16444/2048000  ( 0.8%) 
+edges                 2354/256000       9416/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             64/32768         640/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           882/65536        1764/131072   ( 1.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      649272/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8868/16777216 ( 0.1%) 
+entdata               [variable]        6678/393216   ( 1.7%) 
+LDR ambient table      449/65536        1796/262144   ( 0.7%) 
+HDR ambient table      449/65536        1796/262144   ( 0.7%) 
+LDR leaf ambient       206/65536        5768/1835008  ( 0.3%) 
+HDR leaf ambient       449/65536       12572/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/6932     ( 0.0%) 
+pakfile               [variable]        1315/0        ( 0.0%) 
+physics               [variable]       34054/4194304  ( 0.8%) 
+physics terrain       [variable]        2770/1048576  ( 0.3%) 
+
+Level flags = 0
+
+Total triangle count: 1640
+Writing c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.vmf
+Patching WVT material: maps/pl_bitchwater_a1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/pl_bitchwater_a1/autumnal/blend/echoeblend001_wvt_patch
+Patching WVT material: maps/pl_bitchwater_a1/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_harvest_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_harvest_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_harvest_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (37542 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 68 texinfos to 41
+Reduced 16 texdatas to 13 (478 bytes to 374)
+Writing c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1663, actual size 1315
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+reading c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.prt
+ 189 portalclusters
+ 556 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 587 visible clusters (1.80%)
+Total clusters visible: 32628
+Average clusters visible: 172
+Building PAS...
+Average clusters audible: 189
+visdatasize:10603  compressed from 9072
+writing c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+667 faces
+612547 square feet [88206904.00 square inches]
+34 Displacements
+15491 Square Feet [2230728.50 Square Inches]
+667 patches before subdivision
+26353 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 671640, max 321
+transfer lists:   5.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0115 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                103/8192         1236/98304    ( 1.3%) 
+brushsides             636/65536        5088/524288   ( 1.0%) 
+planes                 352/65536        7040/1310720  ( 0.5%) 
+vertexes              1017/65536       12204/786432   ( 1.6%) 
+nodes                  478/65536       15296/2097152  ( 0.7%) 
+texinfos                41/12288        2952/884736   ( 0.3%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos               34/0            5984/0        ( 0.0%) 
+disp_verts            2754/0           55080/0        ( 0.0%) 
+disp_tris             4352/0            8704/0        ( 0.0%) 
+disp_lmsamples       44064/0           44064/0        ( 0.0%) 
+faces                  667/65536       37352/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              334/65536       18704/3670016  ( 0.5%) 
+leaves                 486/65536       15552/2097152  ( 0.7%) 
+leaffaces              690/65536        1380/131072   ( 1.1%) 
+leafbrushes            286/65536         572/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4438/512000      17752/2048000  ( 0.9%) 
+edges                 2546/256000      10184/1024000  ( 1.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             69/32768         690/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           957/65536        1914/131072   ( 1.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      654728/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10603/16777216 ( 0.1%) 
+entdata               [variable]        7540/393216   ( 1.9%) 
+LDR ambient table      486/65536        1944/262144   ( 0.7%) 
+HDR ambient table      486/65536        1944/262144   ( 0.7%) 
+LDR leaf ambient       225/65536        6300/1835008  ( 0.3%) 
+HDR leaf ambient       486/65536       13608/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/7844     ( 0.0%) 
+pakfile               [variable]        1315/0        ( 0.0%) 
+physics               [variable]       37542/4194304  ( 0.9%) 
+physics terrain       [variable]        3064/1048576  ( 0.3%) 
+
+Level flags = 0
+
+Total triangle count: 1770
+Writing c:\users\owner\documents\tf2-maps\bitchwater\a1\pl_bitchwater_a1.bsp
+3 seconds elapsed
