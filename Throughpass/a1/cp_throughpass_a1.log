@@ -402,3 +402,138 @@ Total triangle count: 624
 Writing d:\documents\mapping\tf2\tf2-maps\throughpass\a1\cp_throughpass_a1.bsp
 ZIP Output overshot buffer estimate: Estimated 0, actual 54
 0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.vmf
+Patching WVT material: maps/cp_throughpass_a1/nature/blendgroundtograss007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (548757 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+.10
+Compacting texture/material tables...
+Reduced 41 texinfos to 24
+Reduced 9 texdatas to 8 (239 bytes to 177)
+Writing c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 646, actual size 566
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.bsp
+reading c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.prt
+ 206 portalclusters
+ 615 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 812 visible clusters (2.11%)
+Total clusters visible: 38468
+Average clusters visible: 186
+Building PAS...
+Average clusters audible: 206
+visdatasize:12427  compressed from 13184
+writing c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.bsp
+686 faces
+377063 square feet [54297144.00 square inches]
+9 Displacements
+16386 Square Feet [2359641.25 Square Inches]
+686 patches before subdivision
+26436 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1447492, max 316
+transfer lists:  11.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0071 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                 87/8192         1044/98304    ( 1.1%) 
+brushsides             538/65536        4304/524288   ( 0.8%) 
+planes                 346/65536        6920/1310720  ( 0.5%) 
+vertexes               983/65536       11796/786432   ( 1.5%) 
+nodes                  475/65536       15200/2097152  ( 0.7%) 
+texinfos                24/12288        1728/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                9/0            1584/0        ( 0.0%) 
+disp_verts            2601/0           52020/0        ( 0.0%) 
+disp_tris             4608/0            9216/0        ( 0.0%) 
+disp_lmsamples       46827/0           46827/0        ( 0.0%) 
+faces                  686/65536       38416/3670016  ( 1.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              294/65536       16464/3670016  ( 0.4%) 
+leaves                 481/65536       15392/2097152  ( 0.7%) 
+leaffaces              751/65536        1502/131072   ( 1.1%) 
+leafbrushes            255/65536         510/131072   ( 0.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4373/512000      17492/2048000  ( 0.9%) 
+edges                 2407/256000       9628/1024000  ( 0.9%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             58/32768         580/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           777/65536        1554/131072   ( 1.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      587152/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       12427/16777216 ( 0.1%) 
+entdata               [variable]        5356/393216   ( 1.4%) 
+LDR ambient table      481/65536        1924/262144   ( 0.7%) 
+HDR ambient table      481/65536        1924/262144   ( 0.7%) 
+LDR leaf ambient       232/65536        6496/1835008  ( 0.4%) 
+HDR leaf ambient       481/65536       13468/1835008  ( 0.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/2362     ( 0.0%) 
+pakfile               [variable]         566/0        ( 0.0%) 
+physics               [variable]      548757/4194304  (13.1%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1830
+Writing c:\users\owner\documents\tf2-maps\throughpass\a1\cp_throughpass_a1.bsp
+2 seconds elapsed
