@@ -1,0 +1,204 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.vmf
+Patching WVT material: maps/cp_server_a1/nature/blendgroundtograss007_wvt_patch
+Patching WVT material: maps/cp_server_a1/nature/blendrockgroundwallforest_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (45397 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8..Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+.Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+9..Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+.Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+Material NATURE/BLENDGROUNDTOGRASS007 uses unknown detail object type tf_forest_grass!
+10
+Compacting texture/material tables...
+Reduced 127 texinfos to 21
+Reduced 10 texdatas to 8 (302 bytes to 184)
+Writing c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1227, actual size 1013
+2 seconds elapsed
+
+
+
+4 threads
+reading c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.bsp
+reading c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.prt
+ 262 portalclusters
+ 701 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2886 visible clusters (5.27%)
+Total clusters visible: 54738
+Average clusters visible: 208
+Building PAS...
+Average clusters audible: 261
+visdatasize:19293  compressed from 20960
+writing c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.bsp
+1058 faces
+652929 square feet [94021848.00 square inches]
+142 Displacements
+47772 Square Feet [6879263.50 Square Inches]
+1058 patches before subdivision
+32872 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1789592, max 321
+transfer lists:  13.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0153 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                123/8192         1476/98304    ( 1.5%) 
+brushsides             801/65536        6408/524288   ( 1.2%) 
+planes                 552/65536       11040/1310720  ( 0.8%) 
+vertexes              1563/65536       18756/786432   ( 2.4%) 
+nodes                  592/65536       18944/2097152  ( 0.9%) 
+texinfos                21/12288        1512/884736   ( 0.2%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos              142/0           24992/0        ( 0.0%) 
+disp_verts           11502/0          230040/0        ( 0.0%) 
+disp_tris            18176/0           36352/0        ( 0.0%) 
+disp_lmsamples      143492/0          143492/0        ( 0.0%) 
+faces                 1058/65536       59248/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              546/65536       30576/3670016  ( 0.8%) 
+leaves                 596/65536       19072/2097152  ( 0.9%) 
+leaffaces             1029/65536        2058/131072   ( 1.6%) 
+leafbrushes            340/65536         680/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7151/512000      28604/2048000  ( 1.4%) 
+edges                 4108/256000      16432/1024000  ( 1.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            105/32768        1050/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1548/65536        3096/131072   ( 2.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1152908/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       19293/16777216 ( 0.1%) 
+entdata               [variable]        1874/393216   ( 0.5%) 
+LDR ambient table      596/65536        2384/262144   ( 0.9%) 
+HDR ambient table      596/65536        2384/262144   ( 0.9%) 
+LDR leaf ambient       275/65536        7700/1835008  ( 0.4%) 
+HDR leaf ambient       596/65536       16688/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5268     ( 0.0%) 
+pakfile               [variable]        1013/0        ( 0.0%) 
+physics               [variable]       45397/4194304  ( 1.1%) 
+physics terrain       [variable]       25322/1048576  ( 2.4%) 
+
+Level flags = 0
+
+Total triangle count: 2849
+Writing c:\users\liam\documents\tf2-maps\server\a1\cp_server_a1.bsp
+7 seconds elapsed
