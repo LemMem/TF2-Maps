@@ -1,0 +1,2231 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.vmf
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-14_550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-14_550_890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/koth_ashville_b5b/glass/glasswindow002a_38_-550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_38_-550_890
+material "maps/koth_ashville_b5b/glass/glasswindow001a_409_-3608_353" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_409_-3608_353
+material "maps/koth_ashville_b5b/glass/glasswindow001a_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_1095_-2049_574
+material "maps/koth_ashville_b5b/glass/glasswindow001a_-872_3614_302" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_-872_3614_302
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-550_2925_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-550_2925_574
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-98_1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-98_1299_288
+material "maps/koth_ashville_b5b/metal/metalchrome001_-1071_2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-1071_2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_1095_-2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_122_-1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_122_-1299_288
+Patching WVT material: maps/koth_slushville_x2/pl_barnblitz/blendmetalroofsnow_02_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendgroundtosnow001_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 322 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (637370 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2643 texinfos to 1620
+Reduced 161 texdatas to 146 (5726 bytes to 5181)
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 24536, actual size 18024
+9 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 12
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt
+1326 portalclusters
+3764 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4638 visible clusters (1.72%)
+Total clusters visible: 269874
+Average clusters visible: 203
+Building PAS...
+Average clusters audible: 835
+visdatasize:318008  compressed from 445536
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+51 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+6420 faces
+1 degenerate faces
+1196588 square feet [172308800.00 square inches]
+86 Displacements
+216873 Square Feet [31229724.00 Square Inches]
+6419 patches before subdivision
+zero area child patch
+zero area child patch
+113647 patches after subdivision
+115 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9192149, max 492
+transfer lists:  70.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(274144, 168402, 128853)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(55918, 31140, 21885)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13499, 7232, 4670)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3633, 1913, 1124)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1061, 553, 292)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(328, 167, 79)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(106, 53, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(35, 17, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(12, 5, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(4, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0456 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  82/1024         3936/49152    ( 8.0%) 
+brushes               1827/8192        21924/98304    (22.3%) 
+brushsides           11576/65536       92608/524288   (17.7%) 
+planes                5184/65536      103680/1310720  ( 7.9%) 
+vertexes             12548/65536      150576/786432   (19.1%) 
+nodes                 3609/65536      115488/2097152  ( 5.5%) 
+texinfos              1620/12288      116640/884736   (13.2%) 
+texdata                146/2048         4672/65536    ( 7.1%) 
+dispinfos               86/0           15136/0        ( 0.0%) 
+disp_verts            3438/0           68760/0        ( 0.0%) 
+disp_tris             4960/0            9920/0        ( 0.0%) 
+disp_lmsamples      436148/0          436148/0        ( 0.0%) 
+faces                 6420/65536      359520/3670016  ( 9.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4066/65536      227696/3670016  ( 6.2%) 
+leaves                3692/65536      118144/2097152  ( 5.6%) 
+leaffaces             8143/65536       16286/131072   (12.4%) 
+leafbrushes           5065/65536       10130/131072   ( 7.7%) 
+areas                    6/256            48/2048     ( 2.3%) 
+surfedges            47652/512000     190608/2048000  ( 9.3%) 
+edges                30526/256000     122104/1024000  (11.9%) 
+LDR worldlights        115/8192        10120/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            765/32768        7650/327680   ( 2.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13122/65536       26244/131072   (20.0%) 
+cubemapsamples          24/1024          384/16384    ( 2.3%) 
+overlays                90/512         31680/180224   (17.6%) 
+LDR lightdata         [variable]     6901352/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      318008/16777216 ( 1.9%) 
+entdata               [variable]      111968/393216   (28.5%) 
+LDR ambient table     3692/65536       14768/262144   ( 5.6%) 
+HDR ambient table     3692/65536       14768/262144   ( 5.6%) 
+LDR leaf ambient     16294/65536      456232/1835008  (24.9%) 
+HDR leaf ambient      3692/65536      103376/1835008  ( 5.6%) 
+occluders                6/0             240/0        ( 0.0%) 
+occluder polygons       44/0             528/0        ( 0.0%) 
+occluder vert ind      206/0             824/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82902    ( 0.0%) 
+pakfile               [variable]       18024/0        ( 0.0%) 
+physics               [variable]      637370/4194304  (15.2%) 
+physics terrain       [variable]       17804/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 18532
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+58 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.vmf
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-14_550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-14_550_890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/koth_ashville_b5b/glass/glasswindow002a_38_-550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_38_-550_890
+material "maps/koth_ashville_b5b/glass/glasswindow001a_409_-3608_353" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_409_-3608_353
+material "maps/koth_ashville_b5b/glass/glasswindow001a_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_1095_-2049_574
+material "maps/koth_ashville_b5b/glass/glasswindow001a_-872_3614_302" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_-872_3614_302
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-550_2925_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-550_2925_574
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-98_1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-98_1299_288
+material "maps/koth_ashville_b5b/metal/metalchrome001_-1071_2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-1071_2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_1095_-2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_122_-1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_122_-1299_288
+Patching WVT material: maps/koth_slushville_x2/pl_barnblitz/blendmetalroofsnow_02_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendgroundtosnow001_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 332 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (608063 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2561 texinfos to 1614
+Reduced 153 texdatas to 141 (5554 bytes to 5073)
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 24536, actual size 18024
+8 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 12
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt
+1253 portalclusters
+3573 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3954 visible clusters (1.70%)
+Total clusters visible: 233185
+Average clusters visible: 186
+Building PAS...
+Average clusters audible: 771
+visdatasize:282241  compressed from 400960
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+31 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+6230 faces
+1 degenerate faces
+1196589 square feet [172308864.00 square inches]
+86 Displacements
+216873 Square Feet [31229724.00 Square Inches]
+6229 patches before subdivision
+zero area child patch
+zero area child patch
+113009 patches after subdivision
+115 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8978611, max 485
+transfer lists:  68.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(185512, 108383, 81289)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(28591, 13440, 8908)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5692, 2080, 1184)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1373, 392, 186)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(384, 85, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(119, 21, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(42, 6, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(16, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(7, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0399 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  82/1024         3936/49152    ( 8.0%) 
+brushes               1719/8192        20628/98304    (21.0%) 
+brushsides           10862/65536       86896/524288   (16.6%) 
+planes                4786/65536       95720/1310720  ( 7.3%) 
+vertexes             12301/65536      147612/786432   (18.8%) 
+nodes                 3538/65536      113216/2097152  ( 5.4%) 
+texinfos              1614/12288      116208/884736   (13.1%) 
+texdata                141/2048         4512/65536    ( 6.9%) 
+dispinfos               86/0           15136/0        ( 0.0%) 
+disp_verts            3438/0           68760/0        ( 0.0%) 
+disp_tris             4960/0            9920/0        ( 0.0%) 
+disp_lmsamples      436148/0          436148/0        ( 0.0%) 
+faces                 6230/65536      348880/3670016  ( 9.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4029/65536      225624/3670016  ( 6.1%) 
+leaves                3621/65536      115872/2097152  ( 5.5%) 
+leaffaces             7932/65536       15864/131072   (12.1%) 
+leafbrushes           4404/65536        8808/131072   ( 6.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            46726/512000     186904/2048000  ( 9.1%) 
+edges                29771/256000     119084/1024000  (11.6%) 
+LDR worldlights        115/8192        10120/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            786/32768        7860/327680   ( 2.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13386/65536       26772/131072   (20.4%) 
+cubemapsamples          24/1024          384/16384    ( 2.3%) 
+overlays                90/512         31680/180224   (17.6%) 
+LDR lightdata         [variable]     6501536/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      282241/16777216 ( 1.7%) 
+entdata               [variable]      109735/393216   (27.9%) 
+LDR ambient table     3621/65536       14484/262144   ( 5.5%) 
+HDR ambient table     3621/65536       14484/262144   ( 5.5%) 
+LDR leaf ambient     15563/65536      435764/1835008  (23.7%) 
+HDR leaf ambient      3621/65536      101388/1835008  ( 5.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82838    ( 0.0%) 
+pakfile               [variable]       18024/0        ( 0.0%) 
+physics               [variable]      608063/4194304  (14.5%) 
+physics terrain       [variable]       17804/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 18134
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+56 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.vmf
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-14_550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-14_550_890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/koth_ashville_b5b/glass/glasswindow002a_38_-550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_38_-550_890
+material "maps/koth_ashville_b5b/glass/glasswindow001a_409_-3608_353" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_409_-3608_353
+material "maps/koth_ashville_b5b/glass/glasswindow001a_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_1095_-2049_574
+material "maps/koth_ashville_b5b/glass/glasswindow001a_-872_3614_302" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_-872_3614_302
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-550_2925_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-550_2925_574
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-98_1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-98_1299_288
+material "maps/koth_ashville_b5b/metal/metalchrome001_-1071_2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-1071_2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_1095_-2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_122_-1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_122_-1299_288
+Patching WVT material: maps/koth_slushville_x2/pl_barnblitz/blendmetalroofsnow_02_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendgroundtosnow001_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 316 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (607827 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2599 texinfos to 1641
+Reduced 155 texdatas to 143 (5624 bytes to 5143)
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 24536, actual size 18024
+8 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 12
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt
+1266 portalclusters
+3610 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4047 visible clusters (1.71%)
+Total clusters visible: 237337
+Average clusters visible: 187
+Building PAS...
+Average clusters audible: 810
+visdatasize:289868  compressed from 405120
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+33 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+6303 faces
+1 degenerate faces
+1197269 square feet [172406752.00 square inches]
+86 Displacements
+216873 Square Feet [31229724.00 Square Inches]
+6302 patches before subdivision
+zero area child patch
+zero area child patch
+113424 patches after subdivision
+115 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9056149, max 485
+transfer lists:  69.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(264207, 159095, 118593)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(51294, 25899, 16899)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11195, 4778, 2711)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2656, 965, 476)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(668, 209, 89)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(177, 48, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(49, 12, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(14, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0415 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  82/1024         3936/49152    ( 8.0%) 
+brushes               1718/8192        20616/98304    (21.0%) 
+brushsides           10856/65536       86848/524288   (16.6%) 
+planes                4784/65536       95680/1310720  ( 7.3%) 
+vertexes             12353/65536      148236/786432   (18.8%) 
+nodes                 3571/65536      114272/2097152  ( 5.4%) 
+texinfos              1641/12288      118152/884736   (13.4%) 
+texdata                143/2048         4576/65536    ( 7.0%) 
+dispinfos               86/0           15136/0        ( 0.0%) 
+disp_verts            3438/0           68760/0        ( 0.0%) 
+disp_tris             4960/0            9920/0        ( 0.0%) 
+disp_lmsamples      436148/0          436148/0        ( 0.0%) 
+faces                 6303/65536      352968/3670016  ( 9.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4071/65536      227976/3670016  ( 6.2%) 
+leaves                3654/65536      116928/2097152  ( 5.6%) 
+leaffaces             8008/65536       16016/131072   (12.2%) 
+leafbrushes           4426/65536        8852/131072   ( 6.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            47214/512000     188856/2048000  ( 9.2%) 
+edges                30023/256000     120092/1024000  (11.7%) 
+LDR worldlights        115/8192        10120/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            783/32768        7830/327680   ( 2.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13317/65536       26634/131072   (20.3%) 
+cubemapsamples          24/1024          384/16384    ( 2.3%) 
+overlays                88/512         30976/180224   (17.2%) 
+LDR lightdata         [variable]     6180016/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      289868/16777216 ( 1.7%) 
+entdata               [variable]      109735/393216   (27.9%) 
+LDR ambient table     3654/65536       14616/262144   ( 5.6%) 
+HDR ambient table     3654/65536       14616/262144   ( 5.6%) 
+LDR leaf ambient     15726/65536      440328/1835008  (24.0%) 
+HDR leaf ambient      3654/65536      102312/1835008  ( 5.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82832    ( 0.0%) 
+pakfile               [variable]       18024/0        ( 0.0%) 
+physics               [variable]      607827/4194304  (14.5%) 
+physics terrain       [variable]       17804/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 18308
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+57 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.vmf
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-14_550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-14_550_890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/koth_ashville_b5b/glass/glasswindow002a_38_-550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_38_-550_890
+material "maps/koth_ashville_b5b/glass/glasswindow001a_409_-3608_353" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_409_-3608_353
+material "maps/koth_ashville_b5b/glass/glasswindow001a_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_1095_-2049_574
+material "maps/koth_ashville_b5b/glass/glasswindow001a_-872_3614_302" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_-872_3614_302
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-550_2925_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-550_2925_574
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-98_1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-98_1299_288
+material "maps/koth_ashville_b5b/metal/metalchrome001_-1071_2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-1071_2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_1095_-2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_122_-1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_122_-1299_288
+Patching WVT material: maps/koth_slushville_x2/pl_barnblitz/blendmetalroofsnow_02_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendgroundtosnow001_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 316 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt...Building visibility clusters...
+done (1)
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (607827 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2612 texinfos to 1653
+Reduced 160 texdatas to 149 (5989 bytes to 5540)
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 28437, actual size 20853
+9 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 12
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt
+1266 portalclusters
+3610 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4049 visible clusters (1.71%)
+Total clusters visible: 237339
+Average clusters visible: 187
+Building PAS...
+Average clusters audible: 810
+visdatasize:289868  compressed from 405120
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+45 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+6303 faces
+1 degenerate faces
+1197269 square feet [172406784.00 square inches]
+86 Displacements
+216873 Square Feet [31229724.00 Square Inches]
+6302 patches before subdivision
+zero area child patch
+zero area child patch
+113428 patches after subdivision
+115 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9043235, max 481
+transfer lists:  69.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(283432, 174009, 132562)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(58694, 31180, 21086)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13616, 6378, 3831)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3423, 1421, 754)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(907, 335, 157)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(251, 82, 34)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(73, 21, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(22, 6, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(7, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0454 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  82/1024         3936/49152    ( 8.0%) 
+brushes               1718/8192        20616/98304    (21.0%) 
+brushsides           10856/65536       86848/524288   (16.6%) 
+planes                4784/65536       95680/1310720  ( 7.3%) 
+vertexes             12351/65536      148212/786432   (18.8%) 
+nodes                 3571/65536      114272/2097152  ( 5.4%) 
+texinfos              1653/12288      119016/884736   (13.5%) 
+texdata                149/2048         4768/65536    ( 7.3%) 
+dispinfos               86/0           15136/0        ( 0.0%) 
+disp_verts            3438/0           68760/0        ( 0.0%) 
+disp_tris             4960/0            9920/0        ( 0.0%) 
+disp_lmsamples      436148/0          436148/0        ( 0.0%) 
+faces                 6303/65536      352968/3670016  ( 9.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4067/65536      227752/3670016  ( 6.2%) 
+leaves                3654/65536      116928/2097152  ( 5.6%) 
+leaffaces             8010/65536       16020/131072   (12.2%) 
+leafbrushes           4426/65536        8852/131072   ( 6.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            47200/512000     188800/2048000  ( 9.2%) 
+edges                30011/256000     120044/1024000  (11.7%) 
+LDR worldlights        115/8192        10120/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            782/32768        7820/327680   ( 2.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13323/65536       26646/131072   (20.3%) 
+cubemapsamples          24/1024          384/16384    ( 2.3%) 
+overlays                87/512         30624/180224   (17.0%) 
+LDR lightdata         [variable]     7340188/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      289868/16777216 ( 1.7%) 
+entdata               [variable]      109736/393216   (27.9%) 
+LDR ambient table     3654/65536       14616/262144   ( 5.6%) 
+HDR ambient table     3654/65536       14616/262144   ( 5.6%) 
+LDR leaf ambient     15774/65536      441672/1835008  (24.1%) 
+HDR leaf ambient      3654/65536      102312/1835008  ( 5.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82832    ( 0.0%) 
+pakfile               [variable]       20853/0        ( 0.0%) 
+physics               [variable]      607827/4194304  (14.5%) 
+physics terrain       [variable]       17804/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 18311
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+1 minute, 16 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.vmf
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-14_550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-14_550_890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/koth_ashville_b5b/glass/glasswindow002a_38_-550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_38_-550_890
+material "maps/koth_ashville_b5b/glass/glasswindow001a_409_-3608_353" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_409_-3608_353
+material "maps/koth_ashville_b5b/glass/glasswindow001a_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_1095_-2049_574
+material "maps/koth_ashville_b5b/glass/glasswindow001a_-872_3614_302" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_-872_3614_302
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-550_2925_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-550_2925_574
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-98_1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-98_1299_288
+material "maps/koth_ashville_b5b/metal/metalchrome001_-1071_2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-1071_2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_1095_-2049_574
+material "maps/koth_ashville_b5b/metal/metalchrome001_122_-1299_288" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_122_-1299_288
+Patching WVT material: maps/koth_slushville_x2/pl_barnblitz/blendmetalroofsnow_02_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendgroundtosnow001_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 316 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (607827 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2607 texinfos to 1649
+Reduced 159 texdatas to 148 (5968 bytes to 5519)
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 28437, actual size 20853
+9 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 12
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt
+1266 portalclusters
+3610 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4053 visible clusters (1.71%)
+Total clusters visible: 237343
+Average clusters visible: 187
+Building PAS...
+Average clusters audible: 810
+visdatasize:289868  compressed from 405120
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+39 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+6301 faces
+1 degenerate faces
+1197269 square feet [172406784.00 square inches]
+86 Displacements
+216873 Square Feet [31229724.00 Square Inches]
+6300 patches before subdivision
+zero area child patch
+zero area child patch
+113422 patches after subdivision
+115 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9043689, max 481
+transfer lists:  69.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(271016, 165566, 125369)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(54870, 28698, 19241)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12674, 5736, 3386)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3196, 1253, 647)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(854, 290, 131)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(239, 70, 27)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(70, 18, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(21, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(7, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0462 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  82/1024         3936/49152    ( 8.0%) 
+brushes               1718/8192        20616/98304    (21.0%) 
+brushsides           10856/65536       86848/524288   (16.6%) 
+planes                4784/65536       95680/1310720  ( 7.3%) 
+vertexes             12348/65536      148176/786432   (18.8%) 
+nodes                 3571/65536      114272/2097152  ( 5.4%) 
+texinfos              1649/12288      118728/884736   (13.4%) 
+texdata                148/2048         4736/65536    ( 7.2%) 
+dispinfos               86/0           15136/0        ( 0.0%) 
+disp_verts            3438/0           68760/0        ( 0.0%) 
+disp_tris             4960/0            9920/0        ( 0.0%) 
+disp_lmsamples      436148/0          436148/0        ( 0.0%) 
+faces                 6301/65536      352856/3670016  ( 9.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4068/65536      227808/3670016  ( 6.2%) 
+leaves                3654/65536      116928/2097152  ( 5.6%) 
+leaffaces             8006/65536       16012/131072   (12.2%) 
+leafbrushes           4426/65536        8852/131072   ( 6.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            47191/512000     188764/2048000  ( 9.2%) 
+edges                30004/256000     120016/1024000  (11.7%) 
+LDR worldlights        115/8192        10120/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            782/32768        7820/327680   ( 2.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13311/65536       26622/131072   (20.3%) 
+cubemapsamples          24/1024          384/16384    ( 2.3%) 
+overlays                87/512         30624/180224   (17.0%) 
+LDR lightdata         [variable]     6331412/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      289868/16777216 ( 1.7%) 
+entdata               [variable]      109736/393216   (27.9%) 
+LDR ambient table     3654/65536       14616/262144   ( 5.6%) 
+HDR ambient table     3654/65536       14616/262144   ( 5.6%) 
+LDR leaf ambient     15770/65536      441560/1835008  (24.1%) 
+HDR leaf ambient      3654/65536      102312/1835008  ( 5.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/82832    ( 0.0%) 
+pakfile               [variable]       20853/0        ( 0.0%) 
+physics               [variable]      607827/4194304  (14.5%) 
+physics terrain       [variable]       17804/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 18302
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+1 minute, 5 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.vmf
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-14_550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-14_550_890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/koth_ashville_b5b/glass/glasswindow002a_38_-550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_38_-550_890
+material "maps/koth_ashville_b5b/glass/glasswindow001a_409_-3608_353" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_409_-3608_353
+material "maps/koth_ashville_b5b/glass/glasswindow001a_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_1095_-2049_574
+material "maps/koth_ashville_b5b/glass/glasswindow001a_-872_3614_302" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_-872_3614_302
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-550_2925_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-550_2925_574
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-682_3131_292
+Patching WVT material: maps/koth_slushville_x2/pl_barnblitz/blendmetalroofsnow_02_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendgroundtosnow001_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (599308 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2405 texinfos to 1560
+Reduced 169 texdatas to 149 (6228 bytes to 5415)
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 30512, actual size 22392
+8 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 8
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt
+1327 portalclusters
+3756 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4629 visible clusters (1.71%)
+Total clusters visible: 270704
+Average clusters visible: 203
+Building PAS...
+Average clusters audible: 864
+visdatasize:318435  compressed from 445872
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+43 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+6225 faces
+1 degenerate faces
+1198571 square feet [172594272.00 square inches]
+86 Displacements
+216873 Square Feet [31229724.00 Square Inches]
+6224 patches before subdivision
+zero area child patch
+zero area child patch
+112868 patches after subdivision
+115 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9229499, max 490
+transfer lists:  70.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(281432, 173087, 131161)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(60657, 32449, 21983)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15606, 7371, 4463)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4655, 1967, 1064)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1550, 587, 284)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(570, 193, 84)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(225, 68, 26)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(93, 25, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(40, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(18, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(8, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0362 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  68/1024         3264/49152    ( 6.6%) 
+brushes               1739/8192        20868/98304    (21.2%) 
+brushsides           11048/65536       88384/524288   (16.9%) 
+planes                4978/65536       99560/1310720  ( 7.6%) 
+vertexes             12059/65536      144708/786432   (18.4%) 
+nodes                 3413/65536      109216/2097152  ( 5.2%) 
+texinfos              1560/12288      112320/884736   (12.7%) 
+texdata                149/2048         4768/65536    ( 7.3%) 
+dispinfos               86/0           15136/0        ( 0.0%) 
+disp_verts            3438/0           68760/0        ( 0.0%) 
+disp_tris             4960/0            9920/0        ( 0.0%) 
+disp_lmsamples      436148/0          436148/0        ( 0.0%) 
+faces                 6225/65536      348600/3670016  ( 9.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3846/65536      215376/3670016  ( 5.9%) 
+leaves                3482/65536      111424/2097152  ( 5.3%) 
+leaffaces             7901/65536       15802/131072   (12.1%) 
+leafbrushes           4953/65536        9906/131072   ( 7.6%) 
+areas                    6/256            48/2048     ( 2.3%) 
+surfedges            45874/512000     183496/2048000  ( 9.0%) 
+edges                29142/256000     116568/1024000  (11.4%) 
+LDR worldlights        115/8192        10120/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            762/32768        7620/327680   ( 2.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13023/65536       26046/131072   (19.9%) 
+cubemapsamples          24/1024          384/16384    ( 2.3%) 
+overlays                85/512         29920/180224   (16.6%) 
+LDR lightdata         [variable]     6294308/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      318435/16777216 ( 1.9%) 
+entdata               [variable]      107220/393216   (27.3%) 
+LDR ambient table     3482/65536       13928/262144   ( 5.3%) 
+HDR ambient table     3482/65536       13928/262144   ( 5.3%) 
+LDR leaf ambient     16069/65536      449932/1835008  (24.5%) 
+HDR leaf ambient      3482/65536       97496/1835008  ( 5.3%) 
+occluders                6/0             240/0        ( 0.0%) 
+occluder polygons       44/0             528/0        ( 0.0%) 
+occluder vert ind      206/0             824/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/80054    ( 0.0%) 
+pakfile               [variable]       22392/0        ( 0.0%) 
+physics               [variable]      599308/4194304  (14.3%) 
+physics terrain       [variable]       17804/1048576  ( 1.7%) 
+
+Level flags = 0
+
+Total triangle count: 18025
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+51 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.vmf
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-14_550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-14_550_890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/koth_ashville_b5b/glass/glasswindow002a_38_-550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_38_-550_890
+material "maps/koth_ashville_b5b/glass/glasswindow001a_409_-3608_353" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_409_-3608_353
+material "maps/koth_ashville_b5b/glass/glasswindow001a_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_1095_-2049_574
+material "maps/koth_ashville_b5b/glass/glasswindow001a_-872_3614_302" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_-872_3614_302
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-550_2925_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-550_2925_574
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-682_3131_292
+Error: displacement found on a(n) func_detail entity - not supported (entity 1423, brush 0)
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.vmf
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-14_550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-14_550_890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/koth_ashville_b5b/glass/glasswindow002a_38_-550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_38_-550_890
+material "maps/koth_ashville_b5b/glass/glasswindow001a_409_-3608_353" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_409_-3608_353
+material "maps/koth_ashville_b5b/glass/glasswindow001a_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_1095_-2049_574
+material "maps/koth_ashville_b5b/glass/glasswindow001a_-872_3614_302" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_-872_3614_302
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-550_2925_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-550_2925_574
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-682_3131_292
+Error: displacement found on a(n) func_detail entity - not supported (entity 1423, brush 0)
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.vmf
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-14_550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-14_550_890
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/koth_ashville_b5b/glass/glasswindow002a_38_-550_890" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_38_-550_890
+material "maps/koth_ashville_b5b/glass/glasswindow001a_409_-3608_353" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_409_-3608_353
+material "maps/koth_ashville_b5b/glass/glasswindow001a_1095_-2049_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_1095_-2049_574
+material "maps/koth_ashville_b5b/glass/glasswindow001a_-872_3614_302" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW001A_-872_3614_302
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-550_2925_574" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-550_2925_574
+material "maps/koth_ashville_b5b/glass/glasswindow002a_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/GLASS/GLASSWINDOW002A_-682_3131_292
+material "maps/koth_ashville_b5b/metal/metalchrome001_-682_3131_292" not found.
+Material not found!: MAPS/KOTH_ASHVILLE_B5B/METAL/METALCHROME001_-682_3131_292
+Patching WVT material: maps/koth_slushville_x2/pl_barnblitz/blendmetalroofsnow_02_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendgroundtosnow001_wvt_patch
+Patching WVT material: maps/koth_slushville_x2/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_twilight_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_twilight_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (605916 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2498 texinfos to 1620
+Reduced 171 texdatas to 157 (6174 bytes to 5661)
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 29458, actual size 21606
+8 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 8
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+reading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.prt
+1334 portalclusters
+3776 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4678 visible clusters (1.71%)
+Total clusters visible: 273246
+Average clusters visible: 204
+Building PAS...
+Average clusters audible: 870
+visdatasize:322959  compressed from 448224
+writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp', but we don't own that location. Allowing.
+51 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+6319 faces
+1 degenerate faces
+1200406 square feet [172858496.00 square inches]
+88 Displacements
+217204 Square Feet [31277442.00 Square Inches]
+6318 patches before subdivision
+zero area child patch
+zero area child patch
+113378 patches after subdivision
+115 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 9280054, max 490
+transfer lists:  70.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(280363, 172642, 130677)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(59788, 32323, 21727)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(14953, 7258, 4294)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4284, 1914, 988)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1348, 562, 252)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(464, 183, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(171, 63, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(66, 23, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(27, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(11, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(5, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0369 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  68/1024         3264/49152    ( 6.6%) 
+brushes               1757/8192        21084/98304    (21.4%) 
+brushsides           11156/65536       89248/524288   (17.0%) 
+planes                5028/65536      100560/1310720  ( 7.7%) 
+vertexes             12199/65536      146388/786432   (18.6%) 
+nodes                 3421/65536      109472/2097152  ( 5.2%) 
+texinfos              1620/12288      116640/884736   (13.2%) 
+texdata                157/2048         5024/65536    ( 7.7%) 
+dispinfos               88/0           15488/0        ( 0.0%) 
+disp_verts            3600/0           72000/0        ( 0.0%) 
+disp_tris             5216/0           10432/0        ( 0.0%) 
+disp_lmsamples      437188/0          437188/0        ( 0.0%) 
+faces                 6319/65536      353864/3670016  ( 9.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3937/65536      220472/3670016  ( 6.0%) 
+leaves                3490/65536      111680/2097152  ( 5.3%) 
+leaffaces             8031/65536       16062/131072   (12.3%) 
+leafbrushes           4984/65536        9968/131072   ( 7.6%) 
+areas                    6/256            48/2048     ( 2.3%) 
+surfedges            46710/512000     186840/2048000  ( 9.1%) 
+edges                29599/256000     118396/1024000  (11.6%) 
+LDR worldlights        115/8192        10120/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            768/32768        7680/327680   ( 2.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         13143/65536       26286/131072   (20.1%) 
+cubemapsamples          24/1024          384/16384    ( 2.3%) 
+overlays                91/512         32032/180224   (17.8%) 
+LDR lightdata         [variable]     6304432/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      322959/16777216 ( 1.9%) 
+entdata               [variable]      107220/393216   (27.3%) 
+LDR ambient table     3490/65536       13960/262144   ( 5.3%) 
+HDR ambient table     3490/65536       13960/262144   ( 5.3%) 
+LDR leaf ambient     16141/65536      451948/1835008  (24.6%) 
+HDR leaf ambient      3490/65536       97720/1835008  ( 5.3%) 
+occluders                6/0             240/0        ( 0.0%) 
+occluder polygons       44/0             528/0        ( 0.0%) 
+occluder vert ind      206/0             824/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/79758    ( 0.0%) 
+pakfile               [variable]       21606/0        ( 0.0%) 
+physics               [variable]      605916/4194304  (14.4%) 
+physics terrain       [variable]       18778/1048576  ( 1.8%) 
+
+Level flags = 0
+
+Total triangle count: 18309
+Writing d:\documents\mapping\tf2\tf2-maps\slushville\x2\koth_slushville_x2.bsp
+49 seconds elapsed
