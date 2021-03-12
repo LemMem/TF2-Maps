@@ -139,3 +139,343 @@ Level flags = 0
 Total triangle count: 1088
 Writing d:\documents\mapping\tf2\tf2-maps\yellow\a1\cp_yellow_a1.bsp
 1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.vmf
+Patching WVT material: maps/cp_yellow_a1/nature/blendgrassground001_wvt_patch
+Patching WVT material: maps/cp_yellow_a1/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (26687 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9.Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+.Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+.Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+10
+Compacting texture/material tables...
+Reduced 37 texinfos to 14
+Reduced 8 texdatas to 6 (245 bytes to 168)
+Writing c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1102, actual size 888
+6 seconds elapsed
+
+
+
+4 threads
+reading c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+reading c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.prt
+ 125 portalclusters
+ 384 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 69 visible clusters (0.52%)
+Total clusters visible: 13236
+Average clusters visible: 105
+Building PAS...
+Average clusters audible: 125
+visdatasize:4973  compressed from 4000
+writing c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+455 faces
+329430 square feet [47437996.00 square inches]
+19 Displacements
+19585 Square Feet [2820247.75 Square Inches]
+455 patches before subdivision
+17651 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 531222, max 227
+transfer lists:   4.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0056 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                 73/8192          876/98304    ( 0.9%) 
+brushsides             484/65536        3872/524288   ( 0.7%) 
+planes                 356/65536        7120/1310720  ( 0.5%) 
+vertexes               711/65536        8532/786432   ( 1.1%) 
+nodes                  291/65536        9312/2097152  ( 0.4%) 
+texinfos                14/12288        1008/884736   ( 0.1%) 
+texdata                  6/2048          192/65536    ( 0.3%) 
+dispinfos               19/0            3344/0        ( 0.0%) 
+disp_verts            1539/0           30780/0        ( 0.0%) 
+disp_tris             2432/0            4864/0        ( 0.0%) 
+disp_lmsamples       51248/0           51248/0        ( 0.0%) 
+faces                  455/65536       25480/3670016  ( 0.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              269/65536       15064/3670016  ( 0.4%) 
+leaves                 294/65536        9408/2097152  ( 0.4%) 
+leaffaces              588/65536        1176/131072   ( 0.9%) 
+leafbrushes            193/65536         386/131072   ( 0.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             3249/512000      12996/2048000  ( 0.6%) 
+edges                 1845/256000       7380/1024000  ( 0.7%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             52/32768         520/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           750/65536        1500/131072   ( 1.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      515724/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        4973/16777216 ( 0.0%) 
+entdata               [variable]         602/393216   ( 0.2%) 
+LDR ambient table      294/65536        1176/262144   ( 0.4%) 
+HDR ambient table      294/65536        1176/262144   ( 0.4%) 
+LDR leaf ambient       132/65536        3696/1835008  ( 0.2%) 
+HDR leaf ambient       294/65536        8232/1835008  ( 0.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/5176     ( 0.0%) 
+pakfile               [variable]         888/0        ( 0.0%) 
+physics               [variable]       26687/4194304  ( 0.6%) 
+physics terrain       [variable]        2367/1048576  ( 0.2%) 
+
+Level flags = 0
+
+Total triangle count: 1263
+Writing c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.vmf
+Patching WVT material: maps/cp_yellow_a1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/cp_yellow_a1/nature/blendgrassground001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 2 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.prt...Building visibility clusters...
+done (1)
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_tf2_04 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_tf2_04 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (75526 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+.Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+Material NATURE/BLENDGRASSGROUND001 uses unknown detail object type tf_granary_grass!
+10
+Compacting texture/material tables...
+Reduced 188 texinfos to 126
+Reduced 10 texdatas to 9 (290 bytes to 268)
+Writing c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1102, actual size 888
+6 seconds elapsed
+
+
+
+4 threads
+reading c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+reading c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.prt
+ 431 portalclusters
+1358 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 2376 visible clusters (1.42%)
+Total clusters visible: 167467
+Average clusters visible: 388
+Building PAS...
+Average clusters audible: 430
+visdatasize:49499  compressed from 48272
+writing c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+1503 faces
+937486 square feet [134998048.00 square inches]
+62 Displacements
+72042 Square Feet [10374111.00 Square Inches]
+1503 patches before subdivision
+60631 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2369602, max 444
+transfer lists:  18.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0215 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                208/8192         2496/98304    ( 2.5%) 
+brushsides            1362/65536       10896/524288   ( 2.1%) 
+planes                 708/65536       14160/1310720  ( 1.1%) 
+vertexes              2186/65536       26232/786432   ( 3.3%) 
+nodes                  944/65536       30208/2097152  ( 1.4%) 
+texinfos               126/12288        9072/884736   ( 1.0%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos               62/0           10912/0        ( 0.0%) 
+disp_verts            5022/0          100440/0        ( 0.0%) 
+disp_tris             7936/0           15872/0        ( 0.0%) 
+disp_lmsamples      186848/0          186848/0        ( 0.0%) 
+faces                 1503/65536       84168/3670016  ( 2.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              838/65536       46928/3670016  ( 1.3%) 
+leaves                 948/65536       30336/2097152  ( 1.4%) 
+leaffaces             1820/65536        3640/131072   ( 2.8%) 
+leafbrushes            588/65536        1176/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10442/512000      41768/2048000  ( 2.0%) 
+edges                 5840/256000      23360/1024000  ( 2.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            140/32768        1400/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1974/65536        3948/131072   ( 3.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/512           704/180224   ( 0.4%) 
+LDR lightdata         [variable]     1801660/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       49499/16777216 ( 0.3%) 
+entdata               [variable]         956/393216   ( 0.2%) 
+LDR ambient table      948/65536        3792/262144   ( 1.4%) 
+HDR ambient table      948/65536        3792/262144   ( 1.4%) 
+LDR leaf ambient       445/65536       12460/1835008  ( 0.7%) 
+HDR leaf ambient       948/65536       26544/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/10610    ( 0.0%) 
+pakfile               [variable]         888/0        ( 0.0%) 
+physics               [variable]       75526/4194304  ( 1.8%) 
+physics terrain       [variable]        9140/1048576  ( 0.9%) 
+
+Level flags = 0
+
+Total triangle count: 4082
+Writing c:\users\liam\documents\tf2-maps\yellow\a1\cp_yellow_a1.bsp
+14 seconds elapsed
