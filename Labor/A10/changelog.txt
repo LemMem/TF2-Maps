@@ -1,0 +1,4 @@
+- More Detailing
+- Removed death pit
+- Moved box on heaven
+- Removed Window on hut
