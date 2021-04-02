@@ -11,6 +11,12 @@ What I think:
  - Health and ammo need to be more obvious (probably will be fixed when left is more prevalent)
  - Roof to strong and not interesting (if it was strong but lead to interesting gameplay, then I would be ok with it)
  
+ Changes I should make:
+ 
+ - Add new building to side of hut
+ - Move amogus closer to the entrance on con 
+ - Add more cover to bats
+ 
 General gameplay stuff I should fix:
 
 - Displacements are fucky

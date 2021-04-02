@@ -1,4 +1,8 @@
 - More Detailing
 - Removed death pit
-- Moved box on heaven
 - Removed Window on hut
+- Removed clipping on amogus
+- Added new building to side of hut
+- Made batts smaller
+- Move spawn to the left
+- Removed health from mid
