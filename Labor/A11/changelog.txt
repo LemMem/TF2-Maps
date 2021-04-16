@@ -1,5 +1,7 @@
-- Changed Main Building (2 layers, has turbine)
+- Changed Main Building (2 layers, has tank)
 - Added second story to banana (Only makes rotating to roof easier)
 - Changed Health Pack locations (Easier to see)
 - Detailing
 - Added Health Pack to Lower Banana
+- Changed Cover around Mid
+- Removed Bunker (Not used very much, Simplifies mid signifcantly
