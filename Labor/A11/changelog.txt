@@ -5,3 +5,4 @@
 - Added Health Pack to Lower Banana
 - Changed Cover around Mid
 - Removed Bunker (Not used very much, Simplifies mid signifcantly
+- Added new cover to The exit to banana
