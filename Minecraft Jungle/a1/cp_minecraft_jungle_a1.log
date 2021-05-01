@@ -783,3 +783,289 @@ Level flags = 0
 Total triangle count: 9748
 Writing c:\users\mem\documents\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp
 44 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\Mapping\tf2\TF2-Maps\Minecraft Jungle\a1\cp_minecraft_jungle_a1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/cp_minecraft_jungle_a1/jungle/blendgroundtograss_jungle_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 140 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing D:\Documents\Mapping\tf2\TF2-Maps\Minecraft Jungle\a1\cp_minecraft_jungle_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_jungle_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_jungle_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_jungle_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_jungle_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (289506 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 365 texinfos to 180
+Reduced 34 texdatas to 32 (766 bytes to 688)
+Writing D:\Documents\Mapping\tf2\TF2-Maps\Minecraft Jungle\a1\cp_minecraft_jungle_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\Mapping\tf2\TF2-Maps\Minecraft Jungle\a1\cp_minecraft_jungle_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1121, actual size 907
+4 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.prt
+ 736 portalclusters
+1954 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1992 visible clusters (1.15%)
+Total clusters visible: 173604
+Average clusters visible: 235
+Building PAS...
+Average clusters audible: 647
+visdatasize:121094  compressed from 141312
+writing d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp', but we don't own that location. Allowing.
+32 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp
+3697 faces
+915630 square feet [131850752.00 square inches]
+180 Displacements
+81384 Square Feet [11719337.00 Square Inches]
+3697 patches before subdivision
+81695 patches after subdivision
+47 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7520107, max 625
+transfer lists:  57.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(569054, 639309, 814995)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(101454, 105427, 129671)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(19735, 18599, 22181)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4116, 3527, 4176)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(903, 700, 835)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(207, 145, 177)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(49, 31, 39)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(12, 7, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0192 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                756/8192         9072/98304    ( 9.2%) 
+brushsides            5833/65536       46664/524288   ( 8.9%) 
+planes                3316/65536       66320/1310720  ( 5.1%) 
+vertexes              5336/65536       64032/786432   ( 8.1%) 
+nodes                 1935/65536       61920/2097152  ( 3.0%) 
+texinfos               180/12288       12960/884736   ( 1.5%) 
+texdata                 32/2048         1024/65536    ( 1.6%) 
+dispinfos              180/0           31680/0        ( 0.0%) 
+disp_verts           14580/0          291600/0        ( 0.0%) 
+disp_tris            23040/0           46080/0        ( 0.0%) 
+disp_lmsamples      231120/0          231120/0        ( 0.0%) 
+faces                 3697/65536      207032/3670016  ( 5.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2402/65536      134512/3670016  ( 3.7%) 
+leaves                1986/65536       63552/2097152  ( 3.0%) 
+leaffaces             3984/65536        7968/131072   ( 6.1%) 
+leafbrushes           1854/65536        3708/131072   ( 2.8%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26683/512000     106732/2048000  ( 5.2%) 
+edges                15490/256000      61960/1024000  ( 6.1%) 
+LDR worldlights         47/8192         4136/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            328/32768        3280/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5196/65536       10392/131072   ( 7.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                42/512         14784/180224   ( 8.2%) 
+LDR lightdata         [variable]     2392232/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      121094/16777216 ( 0.7%) 
+entdata               [variable]       56877/393216   (14.5%) 
+LDR ambient table     1986/65536        7944/262144   ( 3.0%) 
+HDR ambient table     1986/65536        7944/262144   ( 3.0%) 
+LDR leaf ambient     11440/65536      320320/1835008  (17.5%) 
+HDR leaf ambient      1986/65536       55608/1835008  ( 3.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/653792   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/11180    ( 0.0%) 
+pakfile               [variable]         907/0        ( 0.0%) 
+physics               [variable]      289506/4194304  ( 6.9%) 
+physics terrain       [variable]       30388/1048576  ( 2.9%) 
+
+Level flags = 0
+
+Total triangle count: 9750
+Writing d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp
+30 seconds elapsed
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\Mapping\tf2\TF2-Maps\Minecraft Jungle\a1\cp_minecraft_jungle_a1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/cp_minecraft_jungle_a1/jungle/blendgroundtograss_jungle_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 188 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\Mapping\tf2\TF2-Maps\Minecraft Jungle\a1\cp_minecraft_jungle_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_jungle_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_jungle_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_jungle_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_jungle_01 to build the default cubemap!
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (292148 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 382 texinfos to 192
+Reduced 34 texdatas to 32 (766 bytes to 688)
+Writing D:\Documents\Mapping\tf2\TF2-Maps\Minecraft Jungle\a1\cp_minecraft_jungle_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\Mapping\tf2\TF2-Maps\Minecraft Jungle\a1\cp_minecraft_jungle_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1121, actual size 907
+3 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp
+reading d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.prt
+ 671 portalclusters
+1787 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1625 visible clusters (1.03%)
+Total clusters visible: 157526
+Average clusters visible: 234
+Building PAS...
+Average clusters audible: 602
+visdatasize:102496  compressed from 118096
+writing d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp', but we don't own that location. Allowing.
+48 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp
+3681 faces
+930424 square feet [133981088.00 square inches]
+180 Displacements
+81384 Square Feet [11719402.00 Square Inches]
+3681 patches before subdivision
+82833 patches after subdivision
+47 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7393009, max 617
+transfer lists:  56.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(560217, 629355, 802557)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(100067, 104006, 128022)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(19368, 18249, 21771)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4042, 3467, 4108)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(885, 687, 819)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(203, 143, 174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(48, 30, 38)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(12, 7, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0182 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  54/1024         2592/49152    ( 5.3%) 
+brushes                762/8192         9144/98304    ( 9.3%) 
+brushsides            5869/65536       46952/524288   ( 9.0%) 
+planes                3340/65536       66800/1310720  ( 5.1%) 
+vertexes              5355/65536       64260/786432   ( 8.2%) 
+nodes                 1835/65536       58720/2097152  ( 2.8%) 
+texinfos               192/12288       13824/884736   ( 1.6%) 
+texdata                 32/2048         1024/65536    ( 1.6%) 
+dispinfos              180/0           31680/0        ( 0.0%) 
+disp_verts           14580/0          291600/0        ( 0.0%) 
+disp_tris            23040/0           46080/0        ( 0.0%) 
+disp_lmsamples      231120/0          231120/0        ( 0.0%) 
+faces                 3681/65536      206136/3670016  ( 5.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2442/65536      136752/3670016  ( 3.7%) 
+leaves                1890/65536       60480/2097152  ( 2.9%) 
+leaffaces             4028/65536        8056/131072   ( 6.1%) 
+leafbrushes           1871/65536        3742/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            26928/512000     107712/2048000  ( 5.3%) 
+edges                15825/256000      63300/1024000  ( 6.2%) 
+LDR worldlights         47/8192         4136/720896   ( 0.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            366/32768        3660/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5988/65536       11976/131072   ( 9.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                42/512         14784/180224   ( 8.2%) 
+LDR lightdata         [variable]     2408324/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      102496/16777216 ( 0.6%) 
+entdata               [variable]       59458/393216   (15.1%) 
+LDR ambient table     1890/65536        7560/262144   ( 2.9%) 
+HDR ambient table     1890/65536        7560/262144   ( 2.9%) 
+LDR leaf ambient     10580/65536      296240/1835008  (16.1%) 
+HDR leaf ambient      1890/65536       52920/1835008  ( 2.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/679792   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/11490    ( 0.0%) 
+pakfile               [variable]         907/0        ( 0.0%) 
+physics               [variable]      292148/4194304  ( 7.0%) 
+physics terrain       [variable]       30318/1048576  ( 2.9%) 
+
+Level flags = 0
+
+Total triangle count: 9869
+Writing d:\documents\mapping\tf2\tf2-maps\minecraft jungle\a1\cp_minecraft_jungle_a1.bsp
+32 seconds elapsed
