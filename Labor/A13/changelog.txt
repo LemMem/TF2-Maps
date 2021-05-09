@@ -1,0 +1,8 @@
+- Removed a bunch of stupid prop jumps
+	- Only 1 exists, onto the train
+	- Some of the fixes feel a little strange, might rework some areas
+- Redid detailing at spawn (new roofs)
+- Added more cover on point
+- ROOF IS GONE
+
+Something about this version feels a little off to me... besides the new details.
