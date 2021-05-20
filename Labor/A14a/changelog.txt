@@ -1,0 +1,8 @@
+- Gave less cover to defenders on mid
+	- I changed the cover once again because the point barely switched hands. This should give less cover to defenders. or maybe they'll just adjust their hold. Who knows?
+- Changed cap zone to be bigger
+	- This could go either way. It's diagonal so it fits more in-line with the buildings.
+- Used some arrows from this pack: https://tf2maps.net/downloads/arrow-pack.8921/
+- Changed some details around mid
+- Clipped some things that should've been clipped
+- Removed barrels on upper spawn
