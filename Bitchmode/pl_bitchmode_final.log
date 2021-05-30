@@ -1,0 +1,369 @@
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.vmf
+Patching WVT material: maps/pl_bitchmode_final/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/pl_bitchmode_final/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity filter_activator_tfteam (-1024.00 -416.71 2016.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4384.0 1024.0 168.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4896.0 1024.0 168.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4384.0 1024.0 1160.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4896.0 1024.0 1160.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 2048.0 624.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 1536.0 624.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 1024.0 168.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 1024.0 1160.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_granary_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_granary_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_granary_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_granary_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (93673 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 158
+Reduced 32 texdatas to 29 (785 bytes to 724)
+Writing D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 970, actual size 756
+5 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.bsp
+reading d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.prt
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.vmf
+Patching WVT material: maps/pl_bitchmode_final/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/pl_bitchmode_final/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity filter_activator_tfteam (-1024.00 -448.00 1332.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4384.0 1024.0 168.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4896.0 1024.0 168.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4384.0 1024.0 1160.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4896.0 1024.0 1160.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 2048.0 624.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 1536.0 624.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 1024.0 168.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 1024.0 1160.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_granary_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_granary_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_granary_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_granary_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (93673 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 158
+Reduced 32 texdatas to 29 (785 bytes to 724)
+Writing D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 970, actual size 756
+5 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.bsp
+reading d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.prt
+LoadPortals: couldn't read d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.prt
+
+
+
+materialPath: D:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.vmf
+Patching WVT material: maps/pl_bitchmode_final/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/pl_bitchmode_final/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_granary_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_granary_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_granary_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_granary_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (93641 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 212 texinfos to 154
+Reduced 32 texdatas to 29 (785 bytes to 724)
+Writing D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'D:\Documents\Mapping\tf2\TF2-Maps\Bitchmode\pl_bitchmode_final.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 970, actual size 756
+3 seconds elapsed
+
+
+
+4 threads
+reading d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.bsp
+reading d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.prt
+ 312 portalclusters
+ 821 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 231 visible clusters (0.69%)
+Total clusters visible: 33425
+Average clusters visible: 107
+Building PAS...
+Average clusters audible: 264
+visdatasize:24819  compressed from 24960
+writing d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'd:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.bsp', but we don't own that location. Allowing.
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.bsp
+1572 faces
+931224 square feet [134096288.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1572 patches before subdivision
+86256 patches after subdivision
+19 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10284258, max 547
+transfer lists:  78.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(183386, 138532, 148123)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(24667, 16364, 17526)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(4048, 2403, 2440)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(794, 428, 393)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(177, 88, 71)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(43, 20, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(11, 5, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0189 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  22/1024         1056/49152    ( 2.1%) 
+brushes                261/8192         3132/98304    ( 3.2%) 
+brushsides            1634/65536       13072/524288   ( 2.5%) 
+planes                 762/65536       15240/1310720  ( 1.2%) 
+vertexes              2377/65536       28524/786432   ( 3.6%) 
+nodes                  793/65536       25376/2097152  ( 1.2%) 
+texinfos               154/12288       11088/884736   ( 1.3%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1572/65536       88032/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              692/65536       38752/3670016  ( 1.1%) 
+leaves                 816/65536       26112/2097152  ( 1.2%) 
+leaffaces             1827/65536        3654/131072   ( 2.8%) 
+leafbrushes            580/65536        1160/131072   ( 0.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            10238/512000      40952/2048000  ( 2.0%) 
+edges                 5860/256000      23440/1024000  ( 2.3%) 
+LDR worldlights         19/8192         1672/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            182/32768        1820/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2598/65536        5196/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1915036/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       24819/16777216 ( 0.1%) 
+entdata               [variable]       35604/393216   ( 9.1%) 
+LDR ambient table      816/65536        3264/262144   ( 1.2%) 
+HDR ambient table      816/65536        3264/262144   ( 1.2%) 
+LDR leaf ambient      5290/65536      148120/1835008  ( 8.1%) 
+HDR leaf ambient       816/65536       22848/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1116     ( 0.1%) 
+pakfile               [variable]         756/0        ( 0.0%) 
+physics               [variable]       93641/4194304  ( 2.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 4339
+Writing d:\documents\mapping\tf2\tf2-maps\bitchmode\pl_bitchmode_final.bsp
+11 seconds elapsed
