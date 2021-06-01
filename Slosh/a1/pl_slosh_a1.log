@@ -1,0 +1,312 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mem\Documents\TF2-Maps\Slosh\a1\pl_slosh_a1.vmf
+KeyValues Error: LoadFromBuffer: missing { in file materials/swamp/water/water_swamp.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/swamp/water/water_swamp.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+Patching WVT material: maps/pl_slosh_a1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/swamp/nature/blendswampdirttograss001_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/swamp/nature/blendkarsttoswampdirt001_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/swamp/concrete/blendswampconcretetodirt_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/swamp/nature/blendswampmudtodirt001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-2048.00 4816.00 -112.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 5160.0 376.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 5160.0 -296.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 5160.0 1048.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 5672.0 376.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1536.0 6144.0 376.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2048.0 5632.0 376.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 4608.0 -296.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1024.0 4112.0 -8.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 14 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_haze_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_haze_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_haze_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_haze_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Building Physics collision data...
+done (0) (196060 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 342 texinfos to 199
+Reduced 58 texdatas to 47 (1635 bytes to 1148)
+Writing C:\Users\Mem\Documents\TF2-Maps\Slosh\a1\pl_slosh_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Mem\Documents\TF2-Maps\Slosh\a1\pl_slosh_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 4676, actual size 3524
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\mem\documents\tf2-maps\slosh\a1\pl_slosh_a1.bsp
+reading c:\users\mem\documents\tf2-maps\slosh\a1\pl_slosh_a1.prt
+LoadPortals: couldn't read c:\users\mem\documents\tf2-maps\slosh\a1\pl_slosh_a1.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mem\Documents\TF2-Maps\Slosh\a1\pl_slosh_a1.vmf
+KeyValues Error: LoadFromBuffer: missing { in file materials/swamp/water/water_swamp.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/swamp/water/water_swamp.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+Patching WVT material: maps/pl_slosh_a1/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/dev/dev_blendmeasure2_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/swamp/nature/blendswampdirttograss001_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/swamp/nature/blendkarsttoswampdirt001_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/swamp/concrete/blendswampconcretetodirt_wvt_patch
+Patching WVT material: maps/pl_slosh_a1/swamp/nature/blendswampmudtodirt001_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+KeyValues Error: LoadFromBuffer: missing { in file materials/SWAMP/WATER/WATER_SWAMP.vmt
+(*Water*), (*WaterLOD*), (*dummy*), (*TextureScroll*), 
+done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 14 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mem\Documents\TF2-Maps\Slosh\a1\pl_slosh_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_haze_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_haze_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_haze_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_haze_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Building Physics collision data...
+done (0) (196028 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 342 texinfos to 197
+Reduced 58 texdatas to 47 (1635 bytes to 1148)
+Writing C:\Users\Mem\Documents\TF2-Maps\Slosh\a1\pl_slosh_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Mem\Documents\TF2-Maps\Slosh\a1\pl_slosh_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 4676, actual size 3524
+4 seconds elapsed
+
+
+
+4 threads
+reading c:\users\mem\documents\tf2-maps\slosh\a1\pl_slosh_a1.bsp
+reading c:\users\mem\documents\tf2-maps\slosh\a1\pl_slosh_a1.prt
+ 760 portalclusters
+2063 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 1376 visible clusters (0.93%)
+Total clusters visible: 148096
+Average clusters visible: 194
+Building PAS...
+Average clusters audible: 588
+visdatasize:124700  compressed from 145920
+writing c:\users\mem\documents\tf2-maps\slosh\a1\pl_slosh_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\mem\documents\tf2-maps\slosh\a1\pl_slosh_a1.bsp', but we don't own that location. Allowing.
+43 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\mem\documents\tf2-maps\slosh\a1\pl_slosh_a1.bsp
+3062 faces
+1 degenerate faces
+1276408 square feet [183802880.00 square inches]
+53 Displacements
+96938 Square Feet [13959173.00 Square Inches]
+3061 patches before subdivision
+111623 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 11420523, max 602
+transfer lists:  87.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(274866, 198136, 111291)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(41125, 28552, 17387)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(6619, 4407, 3035)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1246, 809, 630)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(246, 156, 139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(52, 33, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(11, 7, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0369 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  26/1024         1248/49152    ( 2.5%) 
+brushes                501/8192         6012/98304    ( 6.1%) 
+brushsides            3401/65536       27208/524288   ( 5.2%) 
+planes                1702/65536       34040/1310720  ( 2.6%) 
+vertexes              4386/65536       52632/786432   ( 6.7%) 
+nodes                 1776/65536       56832/2097152  ( 2.7%) 
+texinfos               197/12288       14184/884736   ( 1.6%) 
+texdata                 47/2048         1504/65536    ( 2.3%) 
+dispinfos               53/0            9328/0        ( 0.0%) 
+disp_verts            4293/0           85860/0        ( 0.0%) 
+disp_tris             6784/0           13568/0        ( 0.0%) 
+disp_lmsamples      245072/0          245072/0        ( 0.0%) 
+faces                 3062/65536      171472/3670016  ( 4.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1561/65536       87416/3670016  ( 2.4%) 
+leaves                1803/65536       57696/2097152  ( 2.8%) 
+leaffaces             3621/65536        7242/131072   ( 5.5%) 
+leafbrushes           1492/65536        2984/131072   ( 2.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            20756/512000      83024/2048000  ( 4.1%) 
+edges                11867/256000      47468/1024000  ( 4.6%) 
+LDR worldlights          9/8192          792/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            261/32768        2610/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4035/65536        8070/131072   ( 6.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                22/512          7744/180224   ( 4.3%) 
+LDR lightdata         [variable]     2680952/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      124700/16777216 ( 0.7%) 
+entdata               [variable]       26971/393216   ( 6.9%) 
+LDR ambient table     1803/65536        7212/262144   ( 2.8%) 
+HDR ambient table     1803/65536        7212/262144   ( 2.8%) 
+LDR leaf ambient     10186/65536      285208/1835008  (15.5%) 
+HDR leaf ambient      1803/65536       50484/1835008  ( 2.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/21266    ( 0.0%) 
+pakfile               [variable]        3524/0        ( 0.0%) 
+physics               [variable]      196028/4194304  ( 4.7%) 
+physics terrain       [variable]       10945/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 8407
+Writing c:\users\mem\documents\tf2-maps\slosh\a1\pl_slosh_a1.bsp
+30 seconds elapsed
