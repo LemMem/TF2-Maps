@@ -137,3 +137,287 @@ Level flags = 0
 Total triangle count: 40654
 Writing d:\documents\mapping\tf2\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp
 1 minute, 27 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mem\Documents\TF2-Maps\Snoduct\x2\koth_snoduct_x2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_snoduct_x2/nature/blendgrasstosnow001_wvt_patch
+Patching WVT material: maps/koth_snoduct_x2/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1692 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Mem\Documents\TF2-Maps\Snoduct\x2\koth_snoduct_x2.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_nightfall_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_nightfall_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_nightfall_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_nightfall_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/bubblebobbler" not found.
+Building Physics collision data...
+done (1) (1305839 bytes)
+Error loading studio model "models/props_misc/dogbread_small.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 6811 texinfos to 5067
+Reduced 128 texdatas to 118 (3572 bytes to 3122)
+Writing C:\Users\Mem\Documents\TF2-Maps\Snoduct\x2\koth_snoduct_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Mem\Documents\TF2-Maps\Snoduct\x2\koth_snoduct_x2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 14183, actual size 10485
+13 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+4 threads
+reading c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp
+reading c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.prt
+ 982 portalclusters
+2714 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3233 visible clusters (0.89%)
+Total clusters visible: 362633
+Average clusters visible: 369
+Building PAS...
+Average clusters audible: 918
+visdatasize:223567  compressed from 251392
+writing c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp', but we don't own that location. Allowing.
+4 minutes, 15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp
+11230 faces
+13 degenerate faces
+1677450 square feet [241552800.00 square inches]
+513 Displacements
+432996 Square Feet [62351448.00 Square Inches]
+11217 patches before subdivision
+113615 patches after subdivision
+113 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8798065, max 899
+transfer lists:  67.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(94100, 88439, 92202)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12538, 9185, 7776)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2093, 1325, 1016)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(353, 188, 120)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(69, 35, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(14, 7, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0492 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 16 (25% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  69/1024         3312/49152    ( 6.7%) 
+brushes               3457/8192        41484/98304    (42.2%) 
+brushsides           27191/65536      217528/524288   (41.5%) 
+planes               15304/65536      306080/1310720  (23.4%) 
+vertexes             25567/65536      306804/786432   (39.0%) 
+nodes                 3049/65536       97568/2097152  ( 4.7%) 
+texinfos              5067/12288      364824/884736   (41.2%) 
+texdata                118/2048         3776/65536    ( 5.8%) 
+dispinfos              513/0           90288/0        ( 0.0%) 
+disp_verts           15177/0          303540/0        ( 0.0%) 
+disp_tris            20448/0           40896/0        ( 0.0%) 
+disp_lmsamples     1237572/0         1237572/0        ( 0.0%) 
+faces                11230/65536      628880/3670016  (17.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9608/65536      538048/3670016  (14.7%) 
+leaves                3119/65536       99808/2097152  ( 4.8%) 
+leaffaces            13798/65536       27596/131072   (21.1%) 
+leafbrushes           6031/65536       12062/131072   ( 9.2%) 
+areas                    6/256            48/2048     ( 2.3%) 
+surfedges            99312/512000     397248/2048000  (19.4%) 
+edges                68962/256000     275848/1024000  (26.9%) 
+LDR worldlights        113/8192         9944/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1971/32768       19710/327680   ( 6.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         49740/65536       99480/131072   (75.9%) 
+cubemapsamples          13/1024          208/16384    ( 1.3%) 
+overlays                93/512         32736/180224   (18.2%) 
+LDR lightdata         [variable]     7823216/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      223567/16777216 ( 1.3%) 
+entdata               [variable]       67199/393216   (17.1%) 
+LDR ambient table     3119/65536       12476/262144   ( 4.8%) 
+HDR ambient table     3119/65536       12476/262144   ( 4.8%) 
+LDR leaf ambient     11391/65536      318948/1835008  (17.4%) 
+HDR leaf ambient      3119/65536       87332/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/88624    ( 0.0%) 
+pakfile               [variable]       10485/0        ( 0.0%) 
+physics               [variable]     1305839/4194304  (31.1%) 
+physics terrain       [variable]       82967/1048576  ( 7.9%) 
+
+Level flags = 0
+
+Total triangle count: 38291
+Writing c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp
+2 minutes, 8 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mem\Documents\TF2-Maps\Snoduct\x2\koth_snoduct_x2.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/koth_snoduct_x2/nature/blendgrasstosnow001_wvt_patch
+Patching WVT material: maps/koth_snoduct_x2/nature/blendrockgroundwallsnow_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 5796 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Mem\Documents\TF2-Maps\Snoduct\x2\koth_snoduct_x2.prt...Building visibility clusters...
+done (1)
+*** Error: Skybox vtf files for skybox/sky_nightfall_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_nightfall_01 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_nightfall_01 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_nightfall_01 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/bubblebobbler" not found.
+Building Physics collision data...
+done (1) (1455102 bytes)
+Error loading studio model "models/props_misc/dogbread_small.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7076 texinfos to 5107
+Reduced 135 texdatas to 123 (3703 bytes to 3219)
+Writing C:\Users\Mem\Documents\TF2-Maps\Snoduct\x2\koth_snoduct_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Mem\Documents\TF2-Maps\Snoduct\x2\koth_snoduct_x2.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 14183, actual size 10485
+15 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+4 threads
+reading c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp
+reading c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.prt
+1501 portalclusters
+4229 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5555 visible clusters (0.85%)
+Total clusters visible: 655400
+Average clusters visible: 436
+Building PAS...
+Average clusters audible: 1372
+visdatasize:484552  compressed from 576384
+writing c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp', but we don't own that location. Allowing.
+6 minutes, 51 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp
+11428 faces
+13 degenerate faces
+1745006 square feet [251280928.00 square inches]
+513 Displacements
+432996 Square Feet [62351448.00 Square Inches]
+11415 patches before subdivision
+114197 patches after subdivision
+114 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 8933817, max 881
+transfer lists:  68.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(94953, 89350, 93222)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(12615, 9255, 7847)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2110, 1339, 1028)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(357, 190, 121)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(70, 35, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(15, 7, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0480 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 16 (25% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  85/1024         4080/49152    ( 8.3%) 
+brushes               3998/8192        47976/98304    (48.8%) 
+brushsides           31613/65536      252904/524288   (48.2%) 
+planes               17606/65536      352120/1310720  (26.9%) 
+vertexes             28921/65536      347052/786432   (44.1%) 
+nodes                 4110/65536      131520/2097152  ( 6.3%) 
+texinfos              5107/12288      367704/884736   (41.6%) 
+texdata                123/2048         3936/65536    ( 6.0%) 
+dispinfos              513/0           90288/0        ( 0.0%) 
+disp_verts           15177/0          303540/0        ( 0.0%) 
+disp_tris            20448/0           40896/0        ( 0.0%) 
+disp_lmsamples     1237572/0         1237572/0        ( 0.0%) 
+faces                11428/65536      639968/3670016  (17.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             9709/65536      543704/3670016  (14.8%) 
+leaves                4196/65536      134272/2097152  ( 6.4%) 
+leaffaces            15901/65536       31802/131072   (24.3%) 
+leafbrushes          11460/65536       22920/131072   (17.5%) 
+areas                    8/256            64/2048     ( 3.1%) 
+surfedges           102475/512000     409900/2048000  (20.0%) 
+edges                70875/256000     283500/1024000  (27.7%) 
+LDR worldlights        114/8192        10032/720896   ( 1.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           2730/32768       27300/327680   ( 8.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         63792/65536      127584/131072   (97.3%) VERY FULL!
+cubemapsamples          13/1024          208/16384    ( 1.3%) 
+overlays                93/512         32736/180224   (18.2%) 
+LDR lightdata         [variable]     7839784/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      484552/16777216 ( 2.9%) 
+entdata               [variable]       73866/393216   (18.8%) 
+LDR ambient table     4196/65536       16784/262144   ( 6.4%) 
+HDR ambient table     4196/65536       16784/262144   ( 6.4%) 
+LDR leaf ambient     18323/65536      513044/1835008  (28.0%) 
+HDR leaf ambient      4196/65536      117488/1835008  ( 6.4%) 
+occluders                8/0             320/0        ( 0.0%) 
+occluder polygons       16/0             192/0        ( 0.0%) 
+occluder vert ind       64/0             256/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/89832    ( 0.0%) 
+pakfile               [variable]       10485/0        ( 0.0%) 
+physics               [variable]     1455102/4194304  (34.7%) 
+physics terrain       [variable]       83009/1048576  ( 7.9%) 
+
+Level flags = 0
+
+Total triangle count: 40654
+Writing c:\users\mem\documents\tf2-maps\snoduct\x2\koth_snoduct_x2.bsp
+1 minute, 55 seconds elapsed
