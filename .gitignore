@@ -1,1 +1,3 @@
-.bsp
+*.bsp
+*.log
+*.prt
