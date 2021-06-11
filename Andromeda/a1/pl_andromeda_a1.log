@@ -741,3 +741,315 @@ Level flags = 0
 Total triangle count: 1734
 Writing d:\documents\mapping\tf2\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp
 5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mem\Documents\TF2-Maps\Andromeda\a1\pl_andromeda_a1.vmf
+Patching WVT material: maps/pl_andromeda_a1/nature/blendrockgroundwallforest_wvt_patch
+Patching WVT material: maps/pl_andromeda_a1/nature/blendconcretetograss001_wvt_patch
+Patching WVT material: maps/pl_andromeda_a1/nature/blendgroundtograss007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 68 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mem\Documents\TF2-Maps\Andromeda\a1\pl_andromeda_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_earlymorning_02 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_earlymorning_02 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_earlymorning_02 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_earlymorning_02 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/arrow_blu_rt" not found.
+material "signs/arrow_blu_lt" not found.
+Building Physics collision data...
+done (0) (58518 bytes)
+Error! To use model "models/player/hwm/sniper.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/sniper.mdl"!
+Error! To use model "models/player/hwm/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/demo.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 159 texinfos to 104
+Reduced 23 texdatas to 20 (673 bytes to 527)
+Writing C:\Users\Mem\Documents\TF2-Maps\Andromeda\a1\pl_andromeda_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Mem\Documents\TF2-Maps\Andromeda\a1\pl_andromeda_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1828, actual size 1480
+5 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 2
+
+
+
+4 threads
+reading c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp
+reading c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.prt
+ 254 portalclusters
+ 795 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 239 visible clusters (0.59%)
+Total clusters visible: 40385
+Average clusters visible: 158
+Building PAS...
+Average clusters audible: 252
+visdatasize:18110  compressed from 16256
+writing c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp', but we don't own that location. Allowing.
+4 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp
+1075 faces
+537773 square feet [77439408.00 square inches]
+83 Displacements
+37210 Square Feet [5358242.50 Square Inches]
+1075 patches before subdivision
+30329 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1296467, max 354
+transfer lists:   9.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(204108, 96102, 69737)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(51505, 24302, 18084)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15139, 7182, 5547)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4886, 2308, 1868)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1685, 795, 677)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(614, 287, 259)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(234, 108, 103)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(93, 42, 42)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(38, 17, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(16, 7, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(7, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0094 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  11/1024          528/49152    ( 1.1%) 
+brushes                160/8192         1920/98304    ( 2.0%) 
+brushsides             994/65536        7952/524288   ( 1.5%) 
+planes                 508/65536       10160/1310720  ( 0.8%) 
+vertexes              1495/65536       17940/786432   ( 2.3%) 
+nodes                  577/65536       18464/2097152  ( 0.9%) 
+texinfos               104/12288        7488/884736   ( 0.8%) 
+texdata                 20/2048          640/65536    ( 1.0%) 
+dispinfos               83/0           14608/0        ( 0.0%) 
+disp_verts            6723/0          134460/0        ( 0.0%) 
+disp_tris            10624/0           21248/0        ( 0.0%) 
+disp_lmsamples      107024/0          107024/0        ( 0.0%) 
+faces                 1075/65536       60200/3670016  ( 1.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              685/65536       38360/3670016  ( 1.0%) 
+leaves                 589/65536       18848/2097152  ( 0.9%) 
+leaffaces             1156/65536        2312/131072   ( 1.8%) 
+leafbrushes            317/65536         634/131072   ( 0.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             7796/512000      31184/2048000  ( 1.5%) 
+edges                 4468/256000      17872/1024000  ( 1.7%) 
+LDR worldlights          4/8192          352/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             93/32768         930/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1455/65536        2910/131072   ( 2.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 5/512          1760/180224   ( 1.0%) 
+LDR lightdata         [variable]      997116/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       18110/16777216 ( 0.1%) 
+entdata               [variable]       13323/393216   ( 3.4%) 
+LDR ambient table      589/65536        2356/262144   ( 0.9%) 
+HDR ambient table      589/65536        2356/262144   ( 0.9%) 
+LDR leaf ambient      3462/65536       96936/1835008  ( 5.3%) 
+HDR leaf ambient       589/65536       16492/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/236700   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/10160    ( 0.0%) 
+pakfile               [variable]        1480/0        ( 0.0%) 
+physics               [variable]       58518/4194304  ( 1.4%) 
+physics terrain       [variable]       11289/1048576  ( 1.1%) 
+
+Level flags = 0
+
+Total triangle count: 2910
+Writing c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp
+9 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mem\Documents\TF2-Maps\Andromeda\a1\pl_andromeda_a1.vmf
+Patching WVT material: maps/pl_andromeda_a1/nature/blendconcretetograss001_wvt_patch
+Patching WVT material: maps/pl_andromeda_a1/nature/blendrockgroundwallforest_wvt_patch
+Patching WVT material: maps/pl_andromeda_a1/nature/blendgroundtograss007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 76 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mem\Documents\TF2-Maps\Andromeda\a1\pl_andromeda_a1.prt...Building visibility clusters...
+done (0)
+*** Error: Skybox vtf files for skybox/sky_earlymorning_02 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_earlymorning_02 to build the default cubemap!
+*** Error: Skybox vtf files for skybox/sky_earlymorning_02 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_earlymorning_02 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+material "signs/arrow_blu_rt" not found.
+material "signs/arrow_blu_lt" not found.
+Building Physics collision data...
+done (0) (65093 bytes)
+Error! To use model "models/player/hwm/sniper.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/sniper.mdl"!
+Error! To use model "models/player/hwm/demo.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/player/hwm/demo.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 124 texinfos to 74
+Reduced 25 texdatas to 23 (714 bytes to 590)
+Writing C:\Users\Mem\Documents\TF2-Maps\Andromeda\a1\pl_andromeda_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'C:\Users\Mem\Documents\TF2-Maps\Andromeda\a1\pl_andromeda_a1.bsp', but we don't own that location. Allowing.
+Wrote ZIP buffer, estimated size 1828, actual size 1480
+5 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 2
+
+
+
+4 threads
+reading c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp
+reading c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.prt
+ 326 portalclusters
+1086 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 407 visible clusters (0.55%)
+Total clusters visible: 74241
+Average clusters visible: 227
+Building PAS...
+Average clusters audible: 325
+visdatasize:29345  compressed from 31296
+writing c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp', but we don't own that location. Allowing.
+18 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp
+1195 faces
+711455 square feet [102449560.00 square inches]
+91 Displacements
+41067 Square Feet [5913728.00 Square Inches]
+1195 patches before subdivision
+39239 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1501454, max 358
+transfer lists:  11.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(281114, 134070, 97929)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(58563, 28361, 21294)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15351, 7754, 6136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4664, 2451, 2069)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1566, 855, 774)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(568, 320, 309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(218, 126, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(87, 51, 55)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(36, 21, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(15, 9, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(7, 4, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0111 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes                177/8192         2124/98304    ( 2.2%) 
+brushsides            1104/65536        8832/524288   ( 1.7%) 
+planes                 578/65536       11560/1310720  ( 0.9%) 
+vertexes              1681/65536       20172/786432   ( 2.6%) 
+nodes                  704/65536       22528/2097152  ( 1.1%) 
+texinfos                74/12288        5328/884736   ( 0.6%) 
+texdata                 23/2048          736/65536    ( 1.1%) 
+dispinfos               91/0           16016/0        ( 0.0%) 
+disp_verts            7371/0          147420/0        ( 0.0%) 
+disp_tris            11648/0           23296/0        ( 0.0%) 
+disp_lmsamples      117936/0          117936/0        ( 0.0%) 
+faces                 1195/65536       66920/3670016  ( 1.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              744/65536       41664/3670016  ( 1.1%) 
+leaves                 717/65536       22944/2097152  ( 1.1%) 
+leaffaces             1301/65536        2602/131072   ( 2.0%) 
+leafbrushes            388/65536         776/131072   ( 0.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             8598/512000      34392/2048000  ( 1.7%) 
+edges                 4964/256000      19856/1024000  ( 1.9%) 
+LDR worldlights          5/8192          440/720896   ( 0.1%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            119/32768        1190/327680   ( 0.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1794/65536        3588/131072   ( 2.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 6/512          2112/180224   ( 1.2%) 
+LDR lightdata         [variable]     1131592/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       29345/16777216 ( 0.2%) 
+entdata               [variable]       14004/393216   ( 3.6%) 
+LDR ambient table      717/65536        2868/262144   ( 1.1%) 
+HDR ambient table      717/65536        2868/262144   ( 1.1%) 
+LDR leaf ambient      4395/65536      123060/1835008  ( 6.7%) 
+HDR leaf ambient       717/65536       20076/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/299776   ( 0.0%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/12022    ( 0.0%) 
+pakfile               [variable]        1480/0        ( 0.0%) 
+physics               [variable]       65093/4194304  ( 1.6%) 
+physics terrain       [variable]       12441/1048576  ( 1.2%) 
+
+Level flags = 0
+
+Total triangle count: 3227
+Writing c:\users\mem\documents\tf2-maps\andromeda\a1\pl_andromeda_a1.bsp
+11 seconds elapsed
