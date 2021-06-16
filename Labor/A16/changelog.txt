@@ -1,0 +1,14 @@
+Gameplay
+- Removed Dropdown
+// It was finicky, and simply not fun
+- Added connector from concrete to main
+// This is another entrance to mid and connects concrete and big door
+- Patched up entrance from Bungalo to concrete
+// Sightlines here were ass, so i decided it would be better if you could just see it.
+- Added battlements in bungalo facing the point
+// Bungalo was useless, so this entrance should make it viable. IDK though, im thinking of redoing that route. Again.
+Detailing
+- Changed Some textures around mid
+- Made the difference between the 2 buildings on the left more obvious
+Polish
+- Clipping Changes
