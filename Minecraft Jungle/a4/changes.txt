@@ -1,0 +1,20 @@
+Layout
+- Completely reworked mid
+// People really liked to complain about sightlines, and that was mostly because of mid. 
+// Mid has been tightened up with a bunch of rocks, a nipple, and 2 big ol' fashioned houses. I'm afraid these will clash with the connector and end up being doorway soup, so i may seal it up.
+-Added rock to valley
+//Once again, more sightline problems. I feel the sightlines at choke aren't too bad but i may end up plugging some of them up
+- Changed around middle lobby for different angles
+// Snipers. Fuck em, amiright?
+
+Detailing
+- Made point visual for 2nd go ontop of the spire instead of below.
+// Someone said the points didn't feel "important" enough. I don't know what that means, but hopefully moving this ontop will make second play better
+- Changed Skybox and Lighting
+// The new skybox really hurt visibility last time, so I changed it to the the gravelpit skybox. I might just end up going back to the old overcast sky, but I really don't want to. I don't want to be known as the guy who makes overcast maps.
+- Brightened up Lower Lobby
+// idk why i thought it was good in a3
+
+Overall, I'm happy with last. So far it's played the best of the map. Or at least, it's shown the least amount of problems. 
+Second "works," although I might redo it to make something like Process second, as my "doors" would work well with that kind of design I feel.
+I like the new mid. The nipple is more gullywash and less bagel. It's there to act as cover more than as something the entire mid revolves around. I mentioned some of my gripes earlier but overall I'm pretty happy with the result.
