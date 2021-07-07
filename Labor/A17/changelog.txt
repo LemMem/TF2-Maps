@@ -1,5 +1,23 @@
 Gameplay
+- Reworked Concrete
+// Concrete was a little generic and I felt I could do much more with the area, so I've reworked it. This change is also so I can make space for the new flank route.
+
+- Reworked Batts
+// Battlements was by far the strangest part of the map. The sightlines felt strange and it didn't come out the way I wanted to.
+//I've reworked Batts to have:
+1. More flanking opprotunities, for both sides
+2. Better sightlines, so snipers have more options
+3. A more open sky so it's a more viable retreat route for soldiers
+// Small health has been moved to lower batts (sewer?) so you have to give up height to get the high ground.
+
+- Changed capture area and capture time
+// These felt very uncomftorable in the previous version, so I believe that by doing this the point should feel much better
+
+- Changed cover on point
+// This is another playability thing, as the sidelanes on the point were very uncomftorable. Now it should feel much better to play.
 
 Detailing
+- Removed a metal sheet from Red's shield
 
 Polish
+- Clipping Improvements
