@@ -1,26 +1,26 @@
 Last
 
 - Boring
-	- Add more Height diff on Left
-	- Flesh out Right
-- Make Lower less akward
+	- Add more Height diff on Left ✔️
+	- Flesh out Right 
+- Make Lower less akward ✔️
 
 Lobby
 
-- Add more health + ammo
-- Make Water smaller
+- Add more health + ammo ✔️
+- Make Water smaller ✔️
 	
 2nd
 
-- Needs complete redesign (Not interesting)
+- Needs complete redesign (Not interesting) ✔️
 	- Spire could be cool
 
 2nd->Mid
 
-- Cliff should be flank route (Maybe like saw?)
-- Turn Shutter into main route (Make it go up?)
-- Rollouts Wierd
-	- Health in Bad Spots
+- Cliff should be flank route (Maybe like saw?) ✔️
+- Turn Shutter into main route (Make it go up?) ✔️
+- Rollouts Wierd 
+	- Health in Bad Spots ✔️
 
 Mid
 

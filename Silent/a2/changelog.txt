@@ -1,0 +1,20 @@
+Gameplay
+
+Mid
+
+Second
+
+- Complete rework
+// I like metalworks second, but my second didn't really have the qualities I liked about it and I like the spire a lot more. Needs some more polish, i'm just not sure where
+- Made (what was) shutter into the main choke and turned valley into a flank
+//Just kinda made sense. I'm not sure about the balancing on Valley tho, might need to make it better when coming from mid
+- Moved forward spawn to the other side of the point
+//This was born out of nesscesity, as I couldn't keep the forward spawn on the other side without putting it in the flank. See Badlands on why that is a bad idea.
+
+Last
+
+- Changed displacements for improved navigation
+- Made defenders on left have height disad
+// Should make it easier for attackers to push. Not quite sure tho
+- Complete rework of house
+//
