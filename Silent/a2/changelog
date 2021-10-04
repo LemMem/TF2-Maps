@@ -1,0 +1,71 @@
+Silent a2 Patch Notes
+
+I finally finished parsing @d3adfin's feedback on the map, and it only took a little under 2 months! 
+I haven't even implemented it all, things such as the ramp on the rock on second and the scale changes haven't been added but will be in future versions.
+Enough riff raff, though. Let's get into changes
+
+
+
+Detail
+- Added some goofy and wacky secrets to the map
+- Changed the theme to be beach themed (some cliff walls are stupid bright so thats gotta be fixed)
+
+Mid
+- Made the doors on hut larger
+	- This opens a pretty nasty sightline from shutter, but it'll be fixed soon. This helps both sides of the hut chase out the other when trying to take mid.
+- Raised up the concrete platform on the left
+	- It didn't make sense to have this lowground considering the routing changes made between Mid and Second, and + it makes this area a lot cleaner
+- Removed small health from under
+- Added small health + medium ammo to right
+	- Mostly for rollouts and so holding there is easier
+- Simplified Geometry on right
+	- Mostly for the routing changes
+// Mid is way to small for my likeing, but this version is just to get the rough changes that are nessicary onto the map and go from there.
+	
+Mid->Second
+- Moved shutter closer to the center and made it not a shutter
+	- This is route is mostly the sneaky-esk route to easily get through toxic, although hypothetical it could be used for bombs/ubers
+- Moved the boiler door closer to the left and made it a shutter
+	- I'm not sure if i'll keep this a shutter, but for now it blocks a sightline and acts as the main flank onto the point, letting you climb the rock to the point or run through the leftmost entrance on lobby.
+- Merged shutter and boiler into one route
+	- Not sure what you could call it, but i'm sure people will think of something. If not, I can add a prop there.
+- Turned Valley into a double choke
+	- This makes rollouts better and adds some much needed complexity to the route.
+- Turned Valley -> 2nd into a door.
+	- Mostly here for sightline purposes and making other routes more appealing
+// Silent seems to have the problem of only having 1 viable door, so I definitley need to bulster up Shutter and Main(?) to compete with valley
+
+Second
+- Moved the point to a more central location and changed the geometry to benefit this
+	- This will change the dynamic around point to be something better, and adds more utility to rock. This also encourages holds on Grey rather than near the metal area.
+- Added a pipe to metal
+	- You can stand on top of it. Fun Fact: This may be going away in future versions so use it until you lose it.
+- Changed Toxic to be shorter
+- Added new Outdoors -> Toxic transition under metal
+	- No idea what to call this.
+- Downgraded health on Grey from Medium -> Small
+// I'm excited to see how this new second plays out, and don't really see many problems. Maybe a little small in some areas.
+
+Lobby
+- Added health to upper lobby
+	- Lobby was lacking health, making holds in it very difficult. This change aims to rectify that, although more health may be added in the future
+- Updated Left to be Raised up and have both doors facing the same way
+	- Mostly to patch up a sightline and have it flow in to last more.
+// Lobby definitley isn't very interesting, so I might rework toxic/lower lobby to be more interesting and to give dropdown more utility
+
+Last
+- Players can no longer go under the point
+	- This adds to distinct routes on the grass part of last, making it more interesting I feel.
+- Added a fence to the point
+	- Everybody loves fences. This is just to block sightline.
+- Left Side entrance now slopes down
+	- This is to make it easier for attackers to bust in and just makes this side more interesting.
+- Added a Small Health to the Left
+- Completely reworked the right
+	- I hated this building. It needed to go.
+// Overall, last is much better. It's probably the best part of the map, so i'm excited to see where it goes.
+	
+	
+New Custom Assets Used
+- Frontline Pack
+- Zythe's OC Cutouts (Don't know how those got in there)
