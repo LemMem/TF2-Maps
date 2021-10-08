@@ -1,0 +1,20 @@
+Silent a3 Patch Notes
+
+
+Detail
+
+Mid
+- Clipping Changes
+	
+Mid->Second
+
+Second
+
+Lobby
+- Made the door larger from lobby to concrete
+
+Last
+- Clipping Changes
+- Added new building to replace the spire
+// The spire was more annoying than anything, so this building should result in more interesting gameplay
+- Fixed visibility bug that let people see into spawn

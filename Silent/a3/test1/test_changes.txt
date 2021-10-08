@@ -1,0 +1,9 @@
+Changes:
+
+- Last Changes
+- Fix that one last sightline
+- Fix grates on second
+- Can see into last spawn (extend out skybox, remove nodraws)
+- Doorway from lobby to grey is too small (problem or not?)
+
+
