@@ -1,14 +1,14 @@
 Silent a3 Patch Notes
-
-
-Detail
+Just some polish changes so that competitive tests aren't questionable. I also made a change to last because the point was, kindly put, ass. The house is a lot cooler and I like it more.I might put this on tftv soon, so keep a look out!
 
 Mid
 - Clipping Changes
 	
 Mid->Second
+- Choke is now brighter
 
 Second
+- Grates on Second no longer have splash go through them
 
 Lobby
 - Made the door larger from lobby to concrete
