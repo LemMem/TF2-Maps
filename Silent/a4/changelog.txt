@@ -1,0 +1,12 @@
+Silent a4 Patch Notes
+2 Changes I feel will make the map play better.
+
+Mid
+- Raised displacements under mid to be higher
+//Thank you to @armio43 for the feedback!
+- Adjusted rock to be a concrete ramp
+// Rock didn't make much sense to be the way it was, so I changed it to the ramp.
+
+Mid -> Second
+- Changed valley to be shorter and indoors
+// Valley felt a little underpowered, so I changed it's geometry and length so it'll have more utility. Of course, because of this there are now only 3 entrances on mid, so I may make an adjustment.
