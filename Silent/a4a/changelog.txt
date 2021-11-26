@@ -1,0 +1,3 @@
+Silent a4a Patch Notes
+
+- Compiled cubemaps
