@@ -1,0 +1,16 @@
+Silent a5
+After getting some competitive testing (finally), I've made various changes in the layout that makes me more confident on it's viability. Let's tackle the most important change first.
+
+Last
+- Shortened Defender Respawn Time and Increased Attacker Respawn Time.
+// If you wiped on second, then by the time you respawn on last the point will already be halfway capped. That was a major problem for me, so defenders on last have more of a chance to set up.
+
+Mid -> Second Connectors
+- Added pillar to death hallway
+// Finally came up with a call for this route. People got shredded in this route, so calling it death hallway seems accurate. The pillar should make playing here more interesting
+
+Mid
+- Removed cover on top of point
+// People just caught on this, and it didn't serve any real purpose so I got rid of it
+- Added Cover to Lower
+// This route was just used after mids for cleanup, so this should make it a more valuable route.

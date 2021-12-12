@@ -1,0 +1,19 @@
+Manteca a2 Changelog
+
+People really liked this map, which I'm very pleased about! Hopefully if this version goes well I can get some Highlander testing. 
+
+Spawn
+- Removed Right Spawn Entrance 
+// Declared Useless by many people
+- Added new Left Entrance w/ Highground
+// This should eliviate some of the spawn camping problems seen in the first playtest
+- Added cover to higher entrance
+// The new spawn gate opened a pretty nasty sightline from batts to the spawn door. This change should make it so you can at the very least exit spawn.
+
+Mid
+- Gave some more space behind point and in bottom left
+// People claimed that there wasn't enough space there, so I've extended the brushes here
+- Reworked the entrances in cellar
+// This area was very tight before. I don't see an instance of this flank without the double flank, however.
+- Added health and ammo to cellar
+// I want people to use this route more, so I added some more resources here to make it so you don't have to back out as far. We'll see how it plays.
