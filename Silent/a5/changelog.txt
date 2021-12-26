@@ -14,3 +14,5 @@ Mid
 // People just caught on this, and it didn't serve any real purpose so I got rid of it
 - Added Cover to Lower
 // This route was just used after mids for cleanup, so this should make it a more valuable route.
+- Widened Doors from Banana
+// Makes this route nicer to push out of.
