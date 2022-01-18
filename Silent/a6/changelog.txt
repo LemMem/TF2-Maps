@@ -1,0 +1,22 @@
+Silent a6
+I'm very happy with how the competitive testing went this time. Even though it was a clean sweep, the game was intense. I feel I succeeded in making a fun layout if I want to play the map (which hopefully I will)
+Also, next time send the demo to me. This version would be out much quicker if I actually got it.
+
+Mid
+- Added point barriers so getting on point is more difficult from right
+//The right-side rollout was significantly more powerful than the left side one, so I'm trying to make the left rollout more viable.
+
+Second
+- Fixed some visual bugs
+
+Lobby
+- Removed clutter from dropdown
+- Added some polish to the far right route (now IT)
+- Adjusted some Textures
+
+Last
+- Adjusted some textures
+
+Polish
+- Various Clipping Fixes
+- Compiled with BSPReveal
