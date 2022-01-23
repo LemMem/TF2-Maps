@@ -1,0 +1,15 @@
+Silent a7
+First "real" changes I've made from competitive testing. 2 Pretty major changes affecting the midfight and last.
+
+Mid -> Second
+- Added new connector from Death Hallway to mid that significantly quickens the rollout
+// Callout for this route is "Rollout"; I fear teams will only enter Death Hallway through Rollout now, so in future versions ramp room may need some adjustments to make it more viable
+
+Second
+- Made the Box on Metal into a Pipe
+// It was a pipe in earlier versions, but it didn't make much sense. I added a fan to toxic so now it's logical.
+
+Last
+- Adjusted rock model
+- Added a platform by rock
+// Some nicer positioning on this side for defence and offence alike. Should make last more interesting.
