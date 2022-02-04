@@ -1,0 +1,15 @@
+Second
+- Added another route into Blue's Courtyard
+// Felt it was to easy to hold this on red. I want this to be "free" space for blue, so it should be relativley easy to break
+- Adjusted health+ammo
+
+Third
+- COMPLETE REDESIGN
+// Tried to keep the original design in some form, but reworked to be easier to actually hold and such.
+
+Last
+- COMPLETE REDESIGN
+// Didn't keep elements from the old version, it was way to cramped and un-last like. IDK if it feel more like a last, but it should play better imo.
+
+Misc
+- Compiled with BSPReveal
