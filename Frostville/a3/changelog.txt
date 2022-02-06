@@ -1,0 +1,26 @@
+First
+- Lowered flank to remove dumb jump onto ledge
+// Should be a lot safer for blue
+
+Second
+- You can no longer jump through window
+
+Third
+- Added a Snowycoast gate to entrance
+// I hate these, but red would complain about not having any time to setup
+- Made Red's route into side house close after 3rd is capped
+// No more spawncamping
+
+Last
+- Shortened Far Side of Last
+// This should reduce sightlines, along with the next change.
+- Doubled up crates
+// Reduces sightlines as previously mentioned, and it makes it so heavies, engis etc. can't get up here
+- Lowered 2nd layer of last
+// This reduces sightlines. I fear it might be to hard to hold here now, but it doesn't really matter
+- Turned fences into a house
+// Reduces sightlines. Also makes it harder to get spammed out from the last platform.
+
+Misc
+- Brightened Lighting
+- IN THEORY fixed seam issue on first.
