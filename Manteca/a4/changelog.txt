@@ -1,0 +1,7 @@
+- Flipped doors on Main Building
+- Adjusted Brushwork in spiral
+- Added a structure and tower to left
+- Widened Valley
+- Adjusted spawn courtyard + entrance into warehouse
+- Added Signs
+- Adjusted Lighting

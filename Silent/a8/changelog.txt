@@ -1,0 +1,2 @@
+Silent a8
+Various rework to second and it's transitions to mid. Should play vastly different, and better hopefully. Oh, and some minor mid changes.
