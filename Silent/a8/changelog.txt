@@ -1,2 +1,23 @@
 Silent a8
-Various rework to second and it's transitions to mid. Should play vastly different, and better hopefully. Oh, and some minor mid changes.
+Various reworks to second and it's transitions to mid. Should play vastly different, and better hopefully. Oh, and some minor mid changes.
+
+Mid
+- Adjusted forward spawn location
+- Changed cover on point
+- Adjusted concrete side
+
+Mid -> Second
+- Complete Rework
+- Accidently recreated lobby on last oops
+
+Second
+- Reworked catwalk to be more interesting
+// Call is Warehouse
+- Extended out concrete
+- Adjusted displacements
+- Made the point bigger overall
+- Texture Changes
+- Adjusted Forward Spawn Location
+
+Lobby
+- Added sign to Toxic
