@@ -1,0 +1,4 @@
+Silent a8 Hotfix
+
+- Fixed spawntimes
+- Fixed a bug relateing to a door in lobby
