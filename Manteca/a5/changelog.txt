@@ -1,0 +1,16 @@
+- Reverted Changes on House
+- func_detailed some parts of house that REALLY should've been
+- Removed a window on House
+// Felt like I should've given snipers a bone
+- Extended Ramp
+// Mostly accomidates for the Cellar changes, but also just makes it nicer to stand here
+- Lit under Ramp
+- Widened up Cellar
+- Cellar exit now spits you out on ramp
+// These 2 changes should make cellar a much nicer position to be in. I wish I could raise the ceiling, but Batts being right above won't let me do that
+- Adjusted position of tower
+// Sightlines, Makes that area feel less tight
+- Added a little sightline block off cellar's tower
+- Added a dropdown from Batts to Lobby
+// Felt the rotate was to long. Still kinda slow and is only 1 way because you need to crouch.
+- Various Clipping Changes
