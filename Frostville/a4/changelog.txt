@@ -1,0 +1,11 @@
+First
+//Light Rework, still recognizable but a lot of new geometry
+- Extended out crate
+// A lot more space here, a lot nicer to stand here. "Passive Hold."
+- Added a building to the empty space
+// "Aggressive Hold." Goal was to make it very isolated and hard to back out. I fear it might be pretty hard to break, so it might need some adjusting
+- Added a fence and adjusted crates on concrete
+// This is to account for new holds and boiler rework. Speaking of which;
+- Removed boiler
+- Took a chunk out of the wood fence and added a ramp
+// This makes it a lot more accsessible. I might adjust it later
