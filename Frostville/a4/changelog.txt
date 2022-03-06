@@ -9,9 +9,17 @@ First
 - Removed boiler
 - Took a chunk out of the wood fence and added a ramp
 // This makes it a lot more accsessible. I might adjust it later
+
 Second
-//Second definitley needs *something*, but I'm not sure what so I'll figure it out eventually. I'm open to any suggestions.
 - Adjusted Forward Spawn
 // New exit to make pushing out a lil easier. Definitley needs some work.
-- Adjusted far side
-// Mostly to give a "forward base" for engineers pushing 3rd
+- Adjusted Far Side 
+// Red spawn, Height for passive hold, Remade route to upper
+- Pushed back the point
+// Blu had some trouble pushing this point, as they had to push it pretty far into red territory. Once Blu takes Upper, I think Red should lose the point.
+
+Third
+- Complete Remake
+// Third simply wasn't good. The new third is inspired by Vigil 3rd and Eruption 2nd.
+
+Last
