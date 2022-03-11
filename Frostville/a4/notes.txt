@@ -1,7 +1,28 @@
-Feedback from Playas
-- 2nd annoying to push as blu
-- 2nd forward spawn needs another exit
-- 4th is too flat
-- No forward hold pushing 3rd
+Rollouts
+1st
+	Blu - 9 secs
+	Red - 14 secs
+2nd
+	Blu - 16 secs
+	Red - 1 secs
+3rd
+	Blu - 13 secs
+	Red - 13 secs
+Last
+	Blu - 11 secs
+	Red - 2 secs
 
-Notes from ME
+Respawn Times
+Times are time input into the gamerules NOT the actual times that show up in game
+1st
+	Blu - 5 secs
+	Red - 5 secs
+2nd
+	Blu - 2 secs
+	Red - 9 secs
+3rd
+	Blu - 5 secs
+	Red - 5 secs
+Last
+	Blu - 2 secs
+	Red - 9 secs

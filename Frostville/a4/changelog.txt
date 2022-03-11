@@ -17,9 +17,23 @@ Second
 // Red spawn, Height for passive hold, Remade route to upper
 - Pushed back the point
 // Blu had some trouble pushing this point, as they had to push it pretty far into red territory. Once Blu takes Upper, I think Red should lose the point.
+- Added new walkway above cart path
+// This is to avoid the sightline down main, so it's safer to play around that bend.
 
 Third
 - Complete Remake
 // Third simply wasn't good. The new third is inspired by Vigil 3rd and Eruption 2nd.
+// Not sure how I ended up with 3 lobbies but hey; If it works.
 
 Last
+- Complete Remake Also
+// I liked the 1st last more than what I came up with for the past 2 versions. This last definitley needs some iteration, however I think this will work much nicer than the previous last.
+// The initial courtyard is not meant to be held, however I could definitley see a feesible hold in a pub. It is yet to be seen if it is too strong. I feel it might be a little to similar to the other courtyard, so a house may be in order.
+// The lobby is inspired by Swiftwater, with the oneway and the walkway to rotate between the 2 sides.
+// The flank and main hold area is very inspired by Vigil last. It might not show, but the isolated flank area with a route to avoid the sightline and a route that actually has the sightline, and the flank spitting you out in 2 places. Very similar to big door/IT area on vigil.
+
+General Fixes/Changes
+- Adjusted Skybox all over the map, FPS should be higher (even though it was never an issue to my knowledge)
+- Adjusted Respawn Timers
+- Fixed issue where you could back spawn by holding up against a forward spawn door
+- Added a bunch of signs around the map

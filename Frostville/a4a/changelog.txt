@@ -1,0 +1,4 @@
+Hotfix
+- Made it so you can exit Red's Forward Spawn when 2nd is capped with Suiciding
+- Fixed a clipping exploit on cliff on third
+- Added Resupply Locker to Blu's Forward Spawn on Third
