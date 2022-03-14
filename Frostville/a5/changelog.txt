@@ -1,0 +1,39 @@
+First
+//First played ok IMO but definitley needs some changes
+- Moved the point back to the door by the building
+// Should make snipers playing all the way on second less powerful
+- Made lobby and flank into one building
+// The main goal was to remove the space from that dead end in the back of first
+- Soldiers can no longer rocket jump over fence
+// Rarely used, you can still spam over as demo.
+- Adjusted the Back of Valley (Adjusted buildings, added crate)
+// The goal here was to make sniper less powerful. Major changes to the brushwork here made the area lay out wierdly
+
+Second
+- Moved the point to after the curve
+// Second was maybe a little to much harder for defenders. I feel that this isn't because their hold is to weak, but rather the point is much too close to the exit of under.
+- Brought back the sniper window in lobby
+// No harm in bringing it back, plus it gives an extra spam angle/sightline for attackers
+- Added some props to lobby
+// Lobby felt kind of empty to me, so this should make it feel more alive
+
+Third
+- Removed rocks and made a house instead
+- Adjusted ramp to be less sightliney
+// Some playablity adjustments to this courtyard. Should be more fun to play in and makes it so the new tunnel isn't broken for red.
+- Adjusted upper and added a ramp for red to get up there
+// I feel upper can be balanced by just allowing red to be up there. Should allow them to get an actual hold (although a sentry up there could get a little annoying)
+- You can no longer spam over the wall
+// Major buff for defenders
+
+Last
+- Completly reworked highground for defenders
+// Should be safer. Making payload lasts hard :(
+- Added some crates near the cart path
+// More cover for both sides
+- Made cart path run closer to highground
+// Better for defenders holding on the highground
+
+Misc
+- Filled up some Cracks
+- Clipping Fixes (Bro Moment)
