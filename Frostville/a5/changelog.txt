@@ -21,18 +21,10 @@ Third
 - Removed rocks and made a house instead
 - Adjusted ramp to be less sightliney
 // Some playablity adjustments to this courtyard. Should be more fun to play in and makes it so the new tunnel isn't broken for red.
-- Adjusted upper and added a ramp for red to get up there
-// I feel upper can be balanced by just allowing red to be up there. Should allow them to get an actual hold (although a sentry up there could get a little annoying)
-- You can no longer spam over the wall
-// Major buff for defenders
-
-Last
-- Completly reworked highground for defenders
-// Should be safer. Making payload lasts hard :(
-- Added some crates near the cart path
-// More cover for both sides
-- Made cart path run closer to highground
-// Better for defenders holding on the highground
+- Reworked upper so the cave and cart path are seperate. Significantly reduced highground.
+// This is to make it more Red-Oriented. That's not all though...
+- Added Ramp across from Red's Current hold to get on top of tunnel
+// This should make it so holds up here are possible. There is only a small ammopack so engis are better off on the ground
 
 Misc
 - Filled up some Cracks
