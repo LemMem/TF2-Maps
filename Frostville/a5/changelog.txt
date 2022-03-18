@@ -26,6 +26,10 @@ Third
 - Added Ramp across from Red's Current hold to get on top of tunnel
 // This should make it so holds up here are possible. There is only a small ammopack so engis are better off on the ground
 
+Fourth (????)
+- Made the point 5 points (oops)
+// Having the map end after 3rd just didn't feel right to me. This point is inspired by swiftwater 2nd mostly, which is fine because thats the hardest point to push on that map.
+
 Misc
 - Filled up some Cracks
 - Clipping Fixes (Bro Moment)
