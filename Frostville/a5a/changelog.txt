@@ -1,0 +1,4 @@
+- Added Cubemaps
+- Blocked off a stupid sightline on last
+- Removed a jump onto the rock in the Third Courtyard
+- Adjusted Cover in Third Courtyard

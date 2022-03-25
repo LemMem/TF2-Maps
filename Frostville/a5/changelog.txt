@@ -4,6 +4,8 @@ First
 // Should make snipers playing all the way on second less powerful
 - Made lobby and flank into one building
 // The main goal was to remove the space from that dead end in the back of first
+- Opened some doors in lobby
+// New flank route. Unsure if I like this, I might remove it.
 - Soldiers can no longer rocket jump over fence
 // Rarely used, you can still spam over as demo.
 - Adjusted the Back of Valley (Adjusted buildings, added crate)
@@ -14,8 +16,6 @@ Second
 // Second was maybe a little to much harder for defenders. I feel that this isn't because their hold is to weak, but rather the point is much too close to the exit of under.
 - Brought back the sniper window in lobby
 // No harm in bringing it back, plus it gives an extra spam angle/sightline for attackers
-- Added some props to lobby
-// Lobby felt kind of empty to me, so this should make it feel more alive
 
 Third
 - Removed rocks and made a house instead
@@ -25,10 +25,17 @@ Third
 // This is to make it more Red-Oriented. That's not all though...
 - Added Ramp across from Red's Current hold to get on top of tunnel
 // This should make it so holds up here are possible. There is only a small ammopack so engis are better off on the ground
+- Adjusted Forward Spawn
+// It twas very annoying. Hopefully it is less annoying now.
 
 Fourth (????)
 - Made the point 5 points (oops)
-// Having the map end after 3rd just didn't feel right to me. This point is inspired by swiftwater 2nd mostly, which is fine because thats the hardest point to push on that map.
+// Having the map end after 3rd just didn't feel right to me. This point is inspired by borneo 3rd, although the outside is more contestible by red and the inside is less complex.
+
+Last
+- Completely remade again
+// Last Remake Counter: 3
+// Inspired by Borneo and Vigil. idk about my lasts any more bro.
 
 Misc
 - Filled up some Cracks
