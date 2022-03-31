@@ -1,0 +1,32 @@
+Third
+// Third continues to be a bit of a tricky hold for red; which probably helps for pacing but I want a some form of hold for red.
+- Made tunnel into a building
+// Similar gameplay but makes it easier to hold and worse sightlines for blu once it does get taken
+- Added a dropdown from upper to lower
+// It felt natural. Red has to expose themself to use it and it's pretty convenient for blu
+- Flipped the lower -> upper building
+// Makes it so red can have cover once entering the building
+// My main problem with this point is that red has no safe transition from their spawn to the main building
+
+Fourth
+- Fixed issue relating to oneway door's trigger
+
+Last
+// Last suffered more from feeling wierd than it's actual gameplay, so most of the changes were made to help with that
+- Adjusted cover around truck
+// Didn't actual protect that corner
+- Adjusted box on the left side (from red's perspective)
+// Also didn't properly cover that corner, this should make the sightline worse
+- Removed left spawndoors ramp
+// More space, and there is a spawn door right there. Didn't really do anything except created more safe sniper spots.
+- Added new route from lobby to last
+// IDK if this will get used, but I felt like a route should be here
+- Flipped truck
+// Now blu can get up here to put sentries/heavies there. Makes this corner safer for blu.
+- Added rollback to ramp
+// Makes clutches from red more possible. I love rollbacks like this.
+
+Misc
+- Adjusted textures throughout the map
+- Added some more cubemaps that needed them
+- Clipping changes
