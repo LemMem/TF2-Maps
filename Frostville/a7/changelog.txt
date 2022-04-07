@@ -1,0 +1,14 @@
+First
+- Unclipped fence
+// Why did I do this again?
+- Brightened up the area
+
+Second
+- Fixed Forward Spawns
+
+Third
+- Added new flank around Upper
+// People thought another route was necessary and this was the best place to put it
+- Removed Dropdown
+// Was essentially and this makes the point more interesting imo
+- Fixed forward spawn triggers being enabled at the beginning of round
