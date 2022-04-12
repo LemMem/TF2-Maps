@@ -1,0 +1,7 @@
+Second
+- Adjusted Structures in Courtyard
+// Felt off to me. It should feel nicer this version
+
+Third
+- Reworked Upper
+// Made it similar to granary. The goal for pushing third was to require teams to clear upper and to spam down onto the point/lowground. It could use some more work, but this should be nicer.
