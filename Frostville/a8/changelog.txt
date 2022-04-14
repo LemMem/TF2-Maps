@@ -1,7 +1,14 @@
+I'm still trying to think of a way to fix third. If it doesn't work this version then I think I'm gonna give up and remake third. Again. 
+I made some changes to the second courtyard because it felt awkward and sightliney to me. Lobby on second still needs some adjusting, it was held way to hard for my liking but idk how I can make it easier to clear.
+Also, I adjusted the skybox to be more midday. I don't really like Granary's lighting.
+
 Second
 - Adjusted Structures in Courtyard
 // Felt off to me. It should feel nicer this version
+- Closed off lobby
+// I forgot why I had those doors closed in the first place, it was because sniper
 
 Third
 - Reworked Upper
 // Made it similar to granary. The goal for pushing third was to require teams to clear upper and to spam down onto the point/lowground. It could use some more work, but this should be nicer.
+// If you couldn't tell, this third is also inspired by upward third. Of course, my point has the highground route like lunchbox on granary rather than clocks on upward so hopefully it plays nicer
