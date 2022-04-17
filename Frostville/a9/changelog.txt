@@ -1,14 +1,29 @@
-I'm still trying to think of a way to fix third. If it doesn't work this version then I think I'm gonna give up and remake third. Again. 
-I made some changes to the second courtyard because it felt awkward and sightliney to me. Lobby on second still needs some adjusting, it was held way to hard for my liking but idk how I can make it easier to clear.
-Also, I adjusted the skybox to be more midday. I don't really like Granary's lighting.
+I was a little miffed that I didn't get to play frostville (something I haven't done in a while) however getting the map tested with players that likely have not played the map before was an eye opener for many things. Namely:
+1. Second needs a lot of adjustment
+2. The fourth choke sucks (big shocker)
+I also got some conflicting feedback on the length of the map. I could definitley reduce it, just remove one of the points, but I feel this is more a consequence of how hard it is to break the second choke point.
+
+This update contains mostly changes around 1st and second, and I'll be saving fourth changes for a later update.
+
+First
+- Enlargened + Reworked far right
+// The fence and the crate were very awkward to navigate, and hopefully this house creates more dynamics around this area. More space towards the container may be necessary
+- Added new corridor to far left of point
+// Opens when A is capped. Leads to a balcony inside lobby. Might be a tad cramped...
+- Removed door to second from hill
+// Opened a shnasty sniper sightline. It led to Red having an advantage when that door opened
+- Widened the far left (from blu's perspective)
+// Felt kind of wierd without any "depth variation"
+- Added door from pub spot to lobby
+// Might be a little problematic sightline wise but imo its nice to have a transition here
+- Removed health from the cubby
+- Added health to the pub spot
+// People wanted health here, and I didn't like the health in the old spot. Probably will make it less annoying for pub engis to setup in there.
+- Brightened leftmost spawndoor's area
 
 Second
-- Adjusted Structures in Courtyard
-// Felt off to me. It should feel nicer this version
-- Closed off lobby
-// I forgot why I had those doors closed in the first place, it was because sniper
+- Added some windows to lobby
+- Added a balcony for blu
+// Hopefully should aid in Blu pushing into here. I feel it might need some more adjusting, Red has the highground entering onto them (although this is how Vigil works as well so it might be fine).
 
-Third
-- Reworked Upper
-// Made it similar to granary. The goal for pushing third was to require teams to clear upper and to spam down onto the point/lowground. It could use some more work, but this should be nicer.
-// If you couldn't tell, this third is also inspired by upward third. Of course, my point has the highground route like lunchbox on granary rather than clocks on upward so hopefully it plays nicer
+Misc
