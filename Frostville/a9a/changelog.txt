@@ -1,0 +1,2 @@
+- Made fences visible from afar
+- Added ammo to apartments on third

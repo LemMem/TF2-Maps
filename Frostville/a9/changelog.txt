@@ -27,3 +27,4 @@ Second
 // Hopefully should aid in Blu pushing into here. I feel it might need some more adjusting, Red has the highground entering onto them (although this is how Vigil works as well so it might be fine).
 
 Misc
+- Clipping Fixes
