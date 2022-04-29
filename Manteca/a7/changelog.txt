@@ -1,0 +1,7 @@
+- Reverted theme changes
+// I didn't like them. Oh well. Some textures stayed tho, and the trims are nice to have
+- Adjusted Cap Time
+//14 -> 12. Should lead to nicer engagements on point.
+- Fixed skybox issue around ramp
+- Clipping adjustments
+- Widened some doorframes
