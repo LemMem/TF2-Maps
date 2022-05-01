@@ -5,3 +5,8 @@
 - Fixed skybox issue around ramp
 - Clipping adjustments
 - Widened some doorframes
+- Raised towers on mid
+// People thought they could be up there. Raised them to make it more obvious.
+- Made the box in street smaller
+//Still blocks the sightline, but makes navigation much nicer
+- Fixed some missing pickup patches
