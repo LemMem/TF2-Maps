@@ -1,3 +1,7 @@
+2nd
+- Made ramp larger and added some ammo
+- Adjusted forward spawn doors
 
 Miscellaneous
-- Made crate less fuckable
+- Crate
+- Overlay fixes
