@@ -1,0 +1,7 @@
+First
+- Widened doorways to Warehouse
+
+Miscellaneous
+- Fixed some missing patches
+- Fixed a missing resupply closet
+- Fixed some dumb texture issues

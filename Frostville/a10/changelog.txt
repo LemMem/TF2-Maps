@@ -2,6 +2,11 @@
 - Made ramp larger and added some ammo
 - Adjusted forward spawn doors
 
+3rd
+- Adjusted cover in the courtyard
+- Added a new route to the cart building
+
 Miscellaneous
 - Crate
 - Overlay fixes
+- Gave the points actual names
