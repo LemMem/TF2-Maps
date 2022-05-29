@@ -1,7 +1,28 @@
 First
+- Reduced space in the first courtyard
+// I thought this was to flat and boring, so bringing all the setpieces together makes it more interesting imo
 - Widened doorways to Warehouse
+- Widened ramp
+// These changes are to make standing on cart less of a deathtrap
+- Moved Resup Lockers in Spawn
+- Closed up window
+// Was barely used and was kind of cheesy
 
+Second
+- Closed up window again
+// I just cannot decide if I want this window open or not.
+- Adjusted RED's visibility to catwalk.
+// I really liked this visual and thought it helped BLU a lot but it ended up helping RED more.
+
+Third
+- Closed a window
+// I could not get this window to work for the life of me. it had to go.
+
+Last
+- Made the far flank a one way
+// This makes this route more interesting, you can completely bypass the enemy team, BUT you are stuck in a corner and easy to clean up. I hate having more than one oneway so I'm either reworking fourth's oneway OR reworking IT on last.
 Miscellaneous
 - Fixed some missing patches
 - Fixed a missing resupply closet
 - Fixed some dumb texture issues
+- Adjusted Shadows
