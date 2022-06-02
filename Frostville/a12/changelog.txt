@@ -1,0 +1,8 @@
+First
+- Adjusted fence and surrounding textures
+//I made this look like a barracade that red put up, idk how well that will translate tho
+- Made far right (from blu's perspective) entrance into a building
+// The route is effectively unchanged but should make blu players using this route less visible
+
+Misc.
+- Clipping fixes
