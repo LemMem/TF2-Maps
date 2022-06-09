@@ -1,0 +1,9 @@
+Events:
+
+A is capped:
+- door_a_1 opens
+- door_a_i_1 closes
+
+B is capped:
+- door_c_2 and door_c_3 are closed
+- Red's spawn is moved back
