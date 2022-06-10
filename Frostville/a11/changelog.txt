@@ -24,5 +24,5 @@ Last
 Miscellaneous
 - Fixed some missing patches
 - Fixed a missing resupply closet
-- Fixed some dumb texture issues
+- Fixed some texture issues
 - Adjusted Shadows

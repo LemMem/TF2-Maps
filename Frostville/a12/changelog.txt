@@ -4,5 +4,13 @@ First
 - Made far right (from blu's perspective) entrance into a building
 // The route is effectively unchanged but should make blu players using this route less visible
 
+Second
+- Widened Elbow
+// Blu should be able to flood out of here
+
+Third
+- Adjusted cover on platform
+// People could shoot into and out of spawn from aps, very bad. I also wanted to adjust the stairs and stuff
+
 Misc.
 - Clipping fixes
