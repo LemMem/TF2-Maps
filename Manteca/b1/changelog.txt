@@ -1,3 +1,9 @@
-BETA
+BETA!!!!!!!
 
 - Detailed the entire map
+- Opened up house on mid
+// Very expiremental change; probably shouldn't have done this in beta oops
+// Goal is to make playing around sniper more dynamic and playing as sniper more rewarding
+- Removed cover off the side of house
+- Adjusted stairs on mid
+// This looks less weird now
