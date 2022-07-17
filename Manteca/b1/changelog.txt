@@ -1,9 +1,15 @@
 BETA!!!!!!!
+I'm not too happy with some of the interiors however they can be adjusted in later version so I'm not too upset about it (for now). No 3d skybox either, probably gonna add that next version.
 
 - Detailed the entire map
+- Adjusted the lighting
 - Opened up house on mid
 // Very expiremental change; probably shouldn't have done this in beta oops
 // Goal is to make playing around sniper more dynamic and playing as sniper more rewarding
 - Removed cover off the side of house
+- Added a window to spawn
 - Adjusted stairs on mid
 // This looks less weird now
+- Added observer points
+- Adjusted collisions near ramp
+- Adjusted clipping
