@@ -1,0 +1,3 @@
+- Adjusted TFC Resources (Thanks Sono!)
+- Fixed some clipping issues
+- Fixed some texturing issues
