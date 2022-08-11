@@ -1,0 +1,6 @@
+- Removed everything before third
+// oops
+
+Third
+- Closed up a window
+// There was still a sightline into spawn. This window has no other purpose besides that so I'd say closing it up isn't a bad idea
