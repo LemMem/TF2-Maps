@@ -1,3 +1,8 @@
-- Adjusted TFC Resources (Thanks Sono!)
+- Adjusted TFC Resources
+// Major props to @Sonoma for making the skybox and announcer voicelines!
+- Detailed Lobby
+// This is most likely not going to change any time soon.
+- Adjusted IT and the transition from Sewer to IT
+// This is now its own self-contained system, away from the new sewer. This should feel nicer on offence and should be relativley the same on offence
 - Fixed some clipping issues
 - Fixed some texturing issues
