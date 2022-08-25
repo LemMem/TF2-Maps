@@ -1,0 +1,26 @@
+Second
+- Adjusted some of the darker spots
+Third
+- Adjusted resupply cabinet for Red's Third Spawn/Blue's Fourth Spawn
+
+
+PLANNED CHANGES
+First
+- Complete Rework (inspired by Logtory 1st)
+Second
+- Courtyard
+	- Easier to enter as Blue
+	- Easier to hold as Blue
+- Forward spawn further away
+
+Third
+- Minor Rework
+- More space on tracks
+- Rework entrance into apps
+- Interaction between apps and lower (Drop?)
+- More vision from further back in apps
+	
+Last
+- Speed up spawn time
+- Better positions for Red
+- Remake IT
