@@ -1,17 +1,17 @@
+First
+- Change building into cliff
+- Adjust flank
+
 Second
 - Adjusted some of the darker spots
+- Added new ramp up to upper
+// IDK why I removed this ramp it's nice.
+
 Third
 - Adjusted resupply cabinet for Red's Third Spawn/Blue's Fourth Spawn
 
 
 PLANNED CHANGES
-First
-- Complete Rework (inspired by Logtory 1st)
-Second
-- Courtyard
-	- Easier to enter as Blue
-	- Easier to hold as Blue
-- Forward spawn further away
 
 Third
 - Minor Rework
