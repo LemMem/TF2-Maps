@@ -1,0 +1,11 @@
+- Adjusted cover on mid + add overhang
+// Wanted to make this sturdier and remove the fence
+- Added some health/ammo on mid
+// Spies should be able to cross easier and the full health in the death room adds some risk and reward
+- Added extra attacking route on the intel room
+// Made it a dropdown to avoid defenders from flanking for free, but should be a nice balcony for blu to try and make something happen from
+- Extended time
+// Felt a little too oppressive, this will make it a lot nicer
+- Rest in piss
+// Packwatch
+- Made lighting throughout the map consistent
