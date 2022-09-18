@@ -1,0 +1,13 @@
+- Added a trench to mid
+// Felt like players should be encouraged to play on the point, previously there was no reason to play directly on the point
+- Adjusted cover on point
+// This is mostly asthetic, but I really liked these barrel cover things from Coalplant so I stole them because fuck that map :)
+- Adjusted flank
+// This is kinda like synthetic and cascade mixed, should be nicer to play now
+- Removed the box to climb onto batts
+// Too easy to get such a good defensive position
+- Added cover to batts
+// Snipers peaking from here cannot see ramp + angles should be cleaner
+- Fixed roof collisions
+- Added another ramp to climb to cat from yard
+// This should add more dynamics to yard and make it nicer to play cat
