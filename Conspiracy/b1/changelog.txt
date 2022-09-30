@@ -1,0 +1,6 @@
+- Adjusted entrances into killbox
+- Closed gap
+- Widened cat
+- Raised buildings even more
+- Clipping fixes
+- Detailing
